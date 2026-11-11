@@ -1,0 +1,45 @@
+name: jobwatch
+
+on:
+  schedule:
+    - cron: "7 * * * *"   # every hour at :07 (UTC); GitHub may run it a few minutes late
+  workflow_dispatch:       # lets you click "Run workflow" to test
+  push:
+    branches: [main]
+    paths: ["config.toml", "jobwatch.py", ".github/workflows/jobwatch.yml"]   # re-run right away when you edit the config
+
+permissions:
+  contents: write          # to commit seen.json so the next run knows what you've already been sent
+
+concurrency:
+  group: jobwatch
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check job boards
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          # Optional email digest (Gmail: SMTP_HOST=smtp.gmail.com and an app password)
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python jobwatch.py 2>&1 | tee last_run.log
+
+      - name: Save seen jobs
+        if: always()
+        run: |
+          git config user.name "jobwatch-bot"
+          git config user.email "jobwatch-bot@users.noreply.github.com"
+          git add seen.json last_run.log open_roles.txt rejected_roles.txt best_fits.txt
+          git diff --cached --quiet || (git commit -q -m "jobwatch: update seen jobs" && git push -q)

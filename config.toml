@@ -1,0 +1,1411 @@
+# jobwatch config (last manual refresh: 2026-11-10)
+# Edit this file to change what you get pinged about. Patterns are case-insensitive regex.
+
+min_rating = 3.8         # companies below this Glassdoor rating are skipped (not even fetched)
+max_pushes_per_run = 8    # cap phone notifications per hourly run; the rest go in the email digest
+
+# Resume fit: each keyword found in a posting's title or description adds its weight (once).
+# Tuned to my resume. Negative weights = stacks he doesn't use.
+[fit]
+recent_days = 21          # best_fits.txt lists roles posted within this many days
+keywords = [
+  ['\bjava\b', 3], ['kafka', 3], ['apache camel|\bcamel\b', 3], ['integration', 3], ['microservice', 2],
+  ['spring', 2], ['rest(ful)? api|\bapis?\b', 2], ['event[- ]driven', 2], ['typescript', 2], ['\breact\b', 2],
+  ['node\.?js|\bnode\b', 2], ['\baws\b|amazon web services', 2], ['lambda', 2], ['micro[- ]?frontend', 2],
+  ['insurance|insurtech', 3], ['guidewire|policycenter', 4], ['\bllm|agentic|\bagents?\b|generative ai|genai|claude|ai-assisted', 2],
+  ['golang|\bgo\b', 1], ['python', 1], ['postgres|\bsql\b', 1], ['docker|kubernetes', 1], ['ci/cd|jenkins|github actions', 1],
+  ['identity|access management|\biam\b|provisioning', 2], ['payments?|fintech|banking', 1],
+  ['c\+\+', -3], ['\brust\b', -2], ['\bruby\b|rails', -2], ['\bscala\b', -1], ['elixir|haskell|clojure|ocaml', -2],
+]
+
+[filters]
+# Alert only on postings first published within this many days.
+# Old postings and "reposted" roles never alert.
+max_age_days = 3
+
+# Title must match at least one of these...
+title_include = [
+  'software (engineer|developer)',
+  '\bSWE\b',
+  'back[- ]?end',
+  'full[- ]?stack',
+  'java (engineer|developer)',
+  'platform engineer',
+  'product engineer',
+  'integration(s)? engineer',
+  'api engineer',
+  'front[- ]?end', 'web (engineer|developer)', '\bui engineer', 'react',
+  # same job, different names
+  'software development engineer', '\bsde\b', 'member of technical staff', '\bmts\b',
+  '^((senior|sr\.?) )?engineer\b', '\bengineer (i{1,3}|[123])\b',
+  # coding roles at AI companies (agents, applied AI, deployed engineering)
+  '\bai engineer', 'applied ai', 'deployed engineer', 'agent (deployment )?engineer',
+]
+
+# ...and none of these (seniority you're not targeting yet, or a different job family).
+title_exclude = [
+  '(?<!technical )\bstaff\b', '\bprincipal\b', '\blead\b', '\bdistinguished\b',
+  '\bmanager\b', '\bdirector\b', '\bhead of\b', '\bvp\b', '\barchitect\b',
+  '(?<!assistant )vice president', '\b[slp]mts\b', '\bcontract\b',
+  '\bIV\b', '\bV\b', 'level 5', 'level 6',
+  '\bintern(ship)?\b', 'new grad', 'university', 'apprentice', 'co-?op\b', '\bcampus\b',
+  'technical leader', '\bleader\b',
+  '\b(android|ios|mobile)\b',
+  'machine learning', '\bml\b', 'research', 'data scien',
+  '\bsales\b', 'solutions? (engineer|architect|consultant)', 'support engineer',
+  'customer (engineer|success)', 'legal engineer', 'quantitative', 'security engineer',
+  'site reliability', '\bsre\b', 'infrastructure engineer', 'mainframe',
+  'embedded', 'firmware', 'hardware',
+]
+
+# "Senior" titles are allowed only when the posting asks for at most this many years.
+stretch_titles = ['\bsenior\b', '\bsr\.?\b']
+stretch_max_years = 3
+# Non-senior titles are dropped when the posting asks for more than this many years.
+max_years_required = 4
+
+# On-site/hybrid locations you'd commute to.
+locations_local = [
+  # NYC + NJ
+  'new york', '\bnyc\b', 'brooklyn', 'new jersey', '\bnj\b',
+  'jersey city', 'hoboken', 'newark', 'princeton', 'pennington', 'parsippany', 'morristown',
+  'basking ridge', 'iselin', 'edison', 'piscataway', 'new brunswick', 'rahway', 'whippany',
+  'florham park', 'bridgewater', 'raritan', 'secaucus', 'weehawken', 'holmdel', 'red bank',
+  'mount laurel', 'trenton', 'summit',
+  # Wider commute: Philadelphia area, Westchester NY, Fairfield County CT
+  'philadelphia', 'exton', 'king of prussia', 'conshohocken', 'malvern', 'radnor', 'horsham',
+  'fort washington', 'wayne, pa', 'westchester', 'white plains', 'purchase', 'rye brook',
+  'tarrytown', 'armonk', 'stamford', 'greenwich', 'norwalk',
+]
+
+# Remote roles are accepted if they're US-eligible.
+allow_remote_us = true
+us_markers = ['united states', '\bus\b', '\busa\b', 'u\.s\.', 'north america', '\bamericas\b']
+non_us_markers = [
+  'canada', 'toronto', 'vancouver', 'montreal', 'waterloo', 'ontario', 'british columbia',
+  'quebec', 'alberta', 'calgary', 'ottawa',
+  '\buk\b', 'united kingdom', 'london', 'ireland', 'dublin', 'europe', '\bemea\b',
+  'germany', 'berlin', 'france', 'paris', 'netherlands', 'amsterdam', 'spain', 'madrid',
+  'barcelona', 'poland', 'warsaw', 'portugal', 'lisbon', 'india', 'bengaluru', 'bangalore',
+  'hyderabad', 'pune', 'singapore', 'japan', 'tokyo', 'australia', 'sydney', 'brazil',
+  's[aã]o paulo', 'mexico', '\blatam\b', 'argentina', 'colombia', 'israel', 'tel aviv',
+  '\bapac\b', 'philippines', 'austria', 'vienna', 'switzerland', 'zurich', '\bzug\b', 'heidelberg',
+  'munich', 'belgium', 'brussels', 'denmark', 'copenhagen', 'sweden', 'stockholm', 'norway', 'oslo',
+  'finland', 'helsinki', 'italy', 'milan', 'czech', 'prague', 'romania', 'hungary', 'budapest',
+  'greece', 'athens', 'bulgaria', 'sofia', 'croatia', 'serbia', 'belgrade', 'ukraine', 'kyiv',
+  'turkey', 'istanbul', 'egypt', 'nigeria', 'lagos', 'kenya', 'south africa', 'dubai', '\buae\b',
+  'saudi', 'qatar', 'pakistan', 'china', 'beijing', 'shanghai', 'shenzhen', 'hong kong', 'taiwan',
+  'taipei', 'korea', 'seoul', 'vietnam', 'malaysia', 'kuala lumpur', 'indonesia', 'jakarta',
+  'thailand', 'bangkok', 'new zealand', 'chile', 'santiago', 'peru', 'uruguay', 'costa rica',
+  'heredia', 'guatemala', 'manila', 'cebu', 'gurugram', 'gurgaon', 'noida', 'chennai', 'mumbai',
+  'delhi', 'krakow', 'wroclaw', 'edinburgh', 'manchester', 'belfast', 'cambridge, uk', 'tel aviv',
+]
+
+# Place names that contain a local keyword but aren't commutable (e.g. "Rochester, New York").
+locations_exclude = ['rochester', 'buffalo', 'syracuse', 'albany', 'ithaca', 'binghamton', 'utica',
+  'schenectady', 'poughkeepsie', 'pittsburgh', 'harrisburg', 'allentown']
+
+# --------------------------------------------------------------------------- companies
+# ats    = greenhouse | lever | ashby | workday | smartrecruiters | eightfold | oracle
+# slug   = the board name in the company's careers URL:
+#          job-boards.greenhouse.io/<slug>   jobs.lever.co/<slug>   jobs.ashbyhq.com/<slug>
+#          Workday: tenant/wdN/Site from https://<tenant>.<wdN>.myworkdayjobs.com/<Site>/job/...
+# rating = Glassdoor overall rating (checked Nov 2026). Update it now and then.
+# size   = startup | growth | large. Alerts are ranked smaller first, then by posted pay.
+# If a run prints "HTTP 404 ... slug is probably wrong", open the company's careers page,
+# click any job, and copy the slug from that URL.
+
+# ---- Startups / growth stage ----
+
+[[companies]]
+name = "Hebbia"          # NYC applied-AI startup; reviews mention 5 days in office and long hours
+ats = "ashby"
+slug = "hebbia-ai"
+rating = 4.4
+size = "startup"
+
+[[companies]]
+name = "Mercury"         # fintech (banking for startups), remote-friendly
+ats = "greenhouse"
+slug = "mercury"
+rating = 4.4
+size = "growth"
+
+[[companies]]
+name = "Plaid"           # fintech
+ats = "ashby"
+slug = "plaid"
+rating = 4.2
+size = "growth"
+
+[[companies]]
+name = "Glean"           # AI (enterprise search)
+ats = "greenhouse"
+slug = "gleanwork"
+rating = 3.8
+size = "growth"
+
+# ---- Late-stage / public ----
+
+[[companies]]
+name = "Duolingo"        # consumer
+ats = "greenhouse"
+slug = "duolingo"
+rating = 4.3
+size = "large"
+
+[[companies]]
+name = "Braze"
+ats = "greenhouse"
+slug = "braze"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Datadog"         # dev tools / infra
+ats = "greenhouse"
+slug = "datadog"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "MongoDB"         # dev tools / data infra
+ats = "greenhouse"
+slug = "mongodb"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Affirm"          # fintech, remote-first
+ats = "greenhouse"
+slug = "affirm"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Spotify"         # consumer
+ats = "lever"
+slug = "spotify"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Toast"           # fintech / restaurants; Java + Kotlin backend
+ats = "greenhouse"
+slug = "toast"
+rating = 3.8
+size = "large"
+
+# ---- Added Nov 9: wider watchlist (ratings via Glassdoor; a few small-sample, noted) ----
+
+[[companies]]
+name = "Alloy"           # fintech identity/fraud; NYC HQ
+ats = "greenhouse"
+slug = "alloy"
+rating = 4.7
+size = "growth"
+
+[[companies]]
+name = "Clay"            # GTM data/AI SaaS; NYC HQ
+ats = "ashby"
+slug = "claylabs"
+rating = 5.0
+size = "growth"
+
+[[companies]]
+name = "Paxos"           # fintech/stablecoins; NYC HQ
+ats = "ashby"
+slug = "paxos"
+rating = 4.2
+size = "growth"
+
+[[companies]]
+name = "iCapital"        # fintech/alts; NYC HQ; Java + React roles
+ats = "greenhouse"
+slug = "icapitalnetwork"
+rating = 4.1
+size = "growth"
+
+[[companies]]
+name = "Bluevine"        # fintech SMB banking; Jersey City NJ
+ats = "greenhouse"
+slug = "bluevineus"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Addepar"         # fintech/wealth data; NYC office
+ats = "greenhouse"
+slug = "addepar1"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Persona"         # identity verification
+ats = "ashby"
+slug = "persona"
+rating = 4.2
+size = "growth"
+
+[[companies]]
+name = "Pinecone"        # AI vector DB; NYC HQ; few reviews
+ats = "ashby"
+slug = "pinecone"
+rating = 4.0
+size = "startup"
+
+[[companies]]
+name = "Hex"             # data/analytics; SF + NYC; few reviews
+ats = "ashby"
+slug = "hex"
+rating = 4.3
+size = "growth"
+
+[[companies]]
+name = "Linear"          # dev tools; remote
+ats = "ashby"
+slug = "linear"
+rating = 4.6
+size = "growth"
+
+[[companies]]
+name = "Temporal"        # workflow infra; remote-US; few reviews
+ats = "ashby"
+slug = "temporal"
+rating = 4.0
+size = "growth"
+
+[[companies]]
+name = "Supabase"        # dev tools/Postgres; fully remote
+ats = "ashby"
+slug = "supabase"
+rating = 4.8
+size = "growth"
+
+[[companies]]
+name = "PostHog"         # dev tools/analytics; fully remote; few reviews
+ats = "ashby"
+slug = "posthog"
+rating = 4.5
+size = "growth"
+
+[[companies]]
+name = "Cribl"           # data infra; remote-first
+ats = "greenhouse"
+slug = "cribl"
+rating = 4.4
+size = "growth"
+
+[[companies]]
+name = "LaunchDarkly"    # dev tools; remote-US
+ats = "greenhouse"
+slug = "launchdarkly"
+rating = 3.9
+size = "growth"
+
+[[companies]]
+name = "Ethos"           # insurtech (life); remote-friendly
+ats = "greenhouse"
+slug = "ethoslife"
+rating = 4.0
+size = "growth"
+
+[[companies]]
+name = "Openly"          # insurtech (home); remote-US
+ats = "ashby"
+slug = "openly"
+rating = 4.2
+size = "growth"
+
+[[companies]]
+name = "At-Bay"          # insurtech (cyber); much of eng in Israel
+ats = "greenhouse"
+slug = "atbayjobs"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Wealthfront"     # fintech; remote-friendly eng
+ats = "lever"
+slug = "wealthfront"
+rating = 4.2
+size = "large"
+
+[[companies]]
+name = "Brex"            # fintech; NYC office; now part of Capital One
+ats = "greenhouse"
+slug = "brex"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Chime"           # fintech; public
+ats = "greenhouse"
+slug = "chime"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Perplexity"      # AI consumer search; NYC office
+ats = "ashby"
+slug = "perplexity"
+rating = 4.6
+size = "large"
+
+[[companies]]
+name = "Sierra"          # AI customer agents; NYC office; few reviews
+ats = "ashby"
+slug = "sierra"
+rating = 4.4
+size = "large"
+
+[[companies]]
+name = "ElevenLabs"      # AI voice; NYC + remote
+ats = "ashby"
+slug = "elevenlabs"
+rating = 4.3
+size = "large"
+
+[[companies]]
+name = "Notion"          # productivity; NYC office
+ats = "ashby"
+slug = "notion"
+rating = 4.4
+size = "large"
+
+[[companies]]
+name = "Replit"          # AI dev tools; few reviews
+ats = "ashby"
+slug = "replit"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Harvey"          # AI legal; NYC office
+ats = "ashby"
+slug = "harvey"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Vercel"          # frontend cloud (React/Next.js); NYC + remote
+ats = "greenhouse"
+slug = "vercel"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Grafana Labs"    # observability; remote-US
+ats = "greenhouse"
+slug = "grafanalabs"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Airtable"        # productivity; NYC office
+ats = "greenhouse"
+slug = "airtable"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Hinge Health"    # digital health
+ats = "ashby"
+slug = "hinge-health"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Airbnb"          # consumer; remote-US eligible
+ats = "greenhouse"
+slug = "airbnb"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Samsara"         # IoT/SaaS; remote-US roles
+ats = "greenhouse"
+slug = "samsara"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Twilio"          # comms APIs; remote-first
+ats = "greenhouse"
+slug = "twilio"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Asana"           # productivity; NYC office
+ats = "greenhouse"
+slug = "asana"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Dropbox"         # remote-US
+ats = "greenhouse"
+slug = "dropbox"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Reddit"          # consumer; NYC office
+ats = "greenhouse"
+slug = "reddit"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Elastic"         # search/data infra; distributed
+ats = "greenhouse"
+slug = "elastic"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Lyft"            # consumer; NYC office
+ats = "greenhouse"
+slug = "lyft"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Roblox"          # consumer/gaming; mostly San Mateo
+ats = "greenhouse"
+slug = "roblox"
+rating = 3.8
+size = "large"
+
+# ---- Added Nov 9 (batch 2): AI, fintech, insurtech, dev tools ----
+
+[[companies]]
+name = "LangChain"           # agent tooling; NYC early-career Deployed Engineer roles
+ats = "ashby"
+slug = "langchain"
+rating = 4.6
+size = "growth"
+
+[[companies]]
+name = "Abridge"             # healthtech AI; NYC office; early-career SWE roles
+ats = "ashby"
+slug = "abridge"
+rating = 4.7
+size = "growth"
+
+[[companies]]
+name = "Fetch Pet Insurance" # insurtech; pet insurance (your domain); NYC-area
+ats = "greenhouse"
+slug = "fetch"
+rating = 4.2
+size = "growth"
+
+[[companies]]
+name = "Runway"              # AI video; NYC HQ
+ats = "ashby"
+slug = "runway"
+rating = 4.5
+size = "growth"
+
+[[companies]]
+name = "Rogo"                # AI for finance; NYC HQ; few reviews
+ats = "ashby"
+slug = "rogo"
+rating = 4.5
+size = "growth"
+
+[[companies]]
+name = "Kalshi"              # prediction markets; NYC HQ; few reviews
+ats = "greenhouse"
+slug = "kalshi"
+rating = 4.4
+size = "growth"
+
+[[companies]]
+name = "Public.com"          # investing app; NYC HQ; few reviews
+ats = "greenhouse"
+slug = "public"
+rating = 4.5
+size = "growth"
+
+[[companies]]
+name = "Baseten"             # AI inference; SF + NYC
+ats = "ashby"
+slug = "baseten"
+rating = 4.3
+size = "growth"
+
+[[companies]]
+name = "Fireworks AI"        # inference platform
+ats = "ashby"
+slug = "fireworks"
+rating = 4.2
+size = "growth"
+
+[[companies]]
+name = "Together AI"         # AI cloud
+ats = "greenhouse"
+slug = "togetherai"
+rating = 4.1
+size = "growth"
+
+[[companies]]
+name = "Cognition"           # AI coding agents; SF + NYC; intense hours reported
+ats = "ashby"
+slug = "cognition"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Decagon"             # AI support agents; SF + NYC
+ats = "ashby"
+slug = "decagon"
+rating = 3.9
+size = "growth"
+
+[[companies]]
+name = "Suno"                # AI music; NYC office
+ats = "ashby"
+slug = "suno"
+rating = 4.2
+size = "growth"
+
+[[companies]]
+name = "Exa"                 # AI search API
+ats = "ashby"
+slug = "exa"
+rating = 4.0
+size = "startup"
+
+[[companies]]
+name = "Column"              # developer-first bank; few reviews
+ats = "ashby"
+slug = "column"
+rating = 4.3
+size = "growth"
+
+[[companies]]
+name = "Whatnot"             # live shopping; NYC hybrid
+ats = "ashby"
+slug = "whatnot"
+rating = 4.1
+size = "growth"
+
+[[companies]]
+name = "Faire"               # wholesale marketplace
+ats = "greenhouse"
+slug = "faire"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Tailscale"           # networking; remote-US
+ats = "greenhouse"
+slug = "tailscale"
+rating = 4.4
+size = "growth"
+
+[[companies]]
+name = "Chainguard"          # supply-chain security; remote-US
+ats = "greenhouse"
+slug = "chainguard"
+rating = 4.5
+size = "growth"
+
+[[companies]]
+name = "WorkOS"              # auth/dev-infra APIs; remote-US
+ats = "ashby"
+slug = "workos"
+rating = 4.0
+size = "growth"
+
+[[companies]]
+name = "Ironclad"            # AI contract management
+ats = "ashby"
+slug = "ironcladhq"
+rating = 4.4
+size = "growth"
+
+[[companies]]
+name = "Cresta"              # contact-center AI
+ats = "greenhouse"
+slug = "cresta"
+rating = 4.6
+size = "growth"
+
+[[companies]]
+name = "Apollo.io"           # sales SaaS; remote-first
+ats = "greenhouse"
+slug = "apolloio"
+rating = 4.0
+size = "growth"
+
+[[companies]]
+name = "Anyscale"            # Ray / AI compute; senior-skewed
+ats = "ashby"
+slug = "anyscale"
+rating = 4.2
+size = "growth"
+
+[[companies]]
+name = "Deepgram"            # voice AI; remote-US
+ats = "ashby"
+slug = "deepgram"
+rating = 4.6
+size = "growth"
+
+[[companies]]
+name = "Anthropic"           # AI lab; NYC office; senior-skewed
+ats = "greenhouse"
+slug = "anthropic"
+rating = 4.4
+size = "large"
+
+[[companies]]
+name = "OpenAI"              # AI lab; NYC office; senior-skewed
+ats = "ashby"
+slug = "openai"
+rating = 4.5
+size = "large"
+
+[[companies]]
+name = "Databricks"          # data/AI; big NYC eng office
+ats = "greenhouse"
+slug = "databricks"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Upstart"             # AI lending; posts SWE II roles
+ats = "greenhouse"
+slug = "upstart"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Hippo"               # home insurtech
+ats = "greenhouse"
+slug = "hippo70"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Zapier"              # automation; fully remote
+ats = "ashby"
+slug = "zapier"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Greenhouse Software" # HR-tech; NYC HQ
+ats = "greenhouse"
+slug = "greenhouse"
+rating = 3.8
+size = "large"
+
+# ---- Workday (large employers). Several slugs unverified; a 404 in last_run.log means fix the slug ----
+
+[[companies]]
+name = "Mastercard"          # payments; Purchase NY + NYC
+ats = "workday"
+slug = "mastercard/wd1/CorporateCareers"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Adobe"               # NYC office
+ats = "workday"
+slug = "adobe/wd5/external_experienced"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "NVIDIA"
+ats = "workday"
+slug = "nvidia/wd5/NVIDIAExternalCareerSite"
+rating = 4.4
+size = "large"
+
+[[companies]]
+name = "Salesforce"          # big NYC office
+ats = "workday"
+slug = "salesforce/wd12/External_Career_Site"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Johnson & Johnson"   # tech roles in NJ
+ats = "workday"
+slug = "jj/wd5/JJ"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Merck"               # Rahway NJ
+ats = "workday"
+slug = "msd/wd5/SearchJobs"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Bank of America"     # NYC, Jersey City, Pennington NJ
+ats = "workday"
+slug = "ghr/wd1/Lateral-US"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Fidelity Investments" # Jersey City tech hub
+ats = "workday"
+slug = "fmr/wd1/FidelityCareers"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "S&P Global"          # NYC HQ
+ats = "workday"
+slug = "spgi/wd5/SPGI_Careers"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Disney"              # NYC office
+ats = "workday"
+slug = "disney/wd5/disneycareer"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Comcast"             # NYC roles
+ats = "workday"
+slug = "comcast/wd115/Comcast_Careers"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Nasdaq"              # NYC HQ
+ats = "workday"
+slug = "nasdaq/wd1/Global_External_Site"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Zoetis"              # animal health; Parsippany NJ
+ats = "workday"
+slug = "zoetis/wd5/zoetis"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Marsh McLennan"      # insurance brokerage; NYC HQ
+ats = "workday"
+slug = "mmc/wd1/MMC"
+rating = 3.8
+size = "large"
+
+# ---- Added Nov 9 (batch 3): insurance/Guidewire, security, adtech, media, healthtech ----
+
+[[companies]]
+name = "Guidewire"            # insurance core platform; matches your Guidewire cert; remote-US
+ats = "workday"
+slug = "guidewire/wd5/External"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Arch Capital Group"   # specialty insurer; Jersey City SWE hub, Guidewire teams
+ats = "workday"
+slug = "archgroup/wd1/careers"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Nationwide"           # insurer; Java + Guidewire PolicyCenter; some remote
+ats = "workday"
+slug = "nationwide/wd1/Nationwide_Career"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Insurify"             # insurtech; remote
+ats = "greenhouse"
+slug = "insurify"
+rating = 3.9
+size = "growth"
+
+[[companies]]
+name = "Wiz"                  # cloud security; NYC office
+ats = "greenhouse"
+slug = "wizinc"
+rating = 4.8
+size = "growth"
+
+[[companies]]
+name = "Huntress"             # cybersecurity; remote-US
+ats = "greenhouse"
+slug = "huntress"
+rating = 4.0
+size = "growth"
+
+[[companies]]
+name = "CrowdStrike"          # cybersecurity; remote-US roles
+ats = "workday"
+slug = "crowdstrike/wd5/crowdstrikecareers"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Motorola Solutions"
+ats = "workday"
+slug = "motorolasolutions/wd5/Careers"
+rating = 4.2
+size = "large"
+
+[[companies]]
+name = "Autodesk"             # NYC office + remote
+ats = "workday"
+slug = "autodesk/wd1/Ext"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "DuckDuckGo"           # fully remote
+ats = "ashby"
+slug = "duck-duck-go"
+rating = 4.4
+size = "growth"
+
+[[companies]]
+name = "The Trade Desk"       # adtech; big NYC office; posts SWE II
+ats = "greenhouse"
+slug = "thetradedesk"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Moloco"               # adtech/ML; posts SWE II
+ats = "greenhouse"
+slug = "moloco"
+rating = 4.0
+size = "growth"
+
+[[companies]]
+name = "EliseAI"              # AI agents; NYC HQ
+ats = "ashby"
+slug = "EliseAI"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Hightouch"            # data/AI; NYC + remote
+ats = "ashby"
+slug = "hightouch-inc"
+rating = 4.6
+size = "growth"
+
+[[companies]]
+name = "Celonis"              # process mining; NYC US HQ
+ats = "greenhouse"
+slug = "celonis"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Box"                  # remote roles
+ats = "greenhouse"
+slug = "boxinc"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "The New York Times"   # NYC
+ats = "greenhouse"
+slug = "thenewyorktimes"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Hudl"                 # sports tech; posts SWE II; remote-US
+ats = "greenhouse"
+slug = "hudl"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Everlaw"              # legal tech; remote
+ats = "greenhouse"
+slug = "everlaw"
+rating = 4.0
+size = "growth"
+
+[[companies]]
+name = "Grow Therapy"         # healthtech; NYC HQ
+ats = "ashby"
+slug = "grow-therapy"
+rating = 4.4
+size = "growth"
+
+[[companies]]
+name = "Doximity"             # healthtech; remote-US
+ats = "greenhouse"
+slug = "doximity"
+rating = 4.2
+size = "growth"
+
+[[companies]]
+name = "Thumbtack"            # marketplace; remote-US
+ats = "ashby"
+slug = "thumbtack"
+rating = 4.0
+size = "growth"
+
+[[companies]]
+name = "Point72"              # hedge fund; NYC/Stamford
+ats = "greenhouse"
+slug = "point72"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Jump Trading"         # quant trading; NYC
+ats = "greenhouse"
+slug = "jumptrading"
+rating = 4.2
+size = "large"
+
+[[companies]]
+name = "Fora Travel"          # travel tech; NYC HQ; few reviews
+ats = "greenhouse"
+slug = "foratravel"
+rating = 4.0
+size = "startup"
+
+[[companies]]
+name = "Render"               # cloud hosting; remote-US; few reviews
+ats = "ashby"
+slug = "render"
+rating = 4.2
+size = "startup"
+
+# ---- Added Nov 9 (batch 4): NYC/NJ/CT finance, pharma, enterprise ----
+
+[[companies]]
+name = "Gong"                 # revenue AI SaaS; NYC office
+ats = "greenhouse"
+slug = "gongio"
+rating = 4.4
+size = "growth"
+
+[[companies]]
+name = "DRW"                  # trading; NYC
+ats = "greenhouse"
+slug = "drweng"
+rating = 4.3
+size = "growth"
+
+[[companies]]
+name = "Cedar"                # healthcare payments; NYC HQ
+ats = "ashby"
+slug = "cedar"
+rating = 4.0
+size = "growth"
+
+[[companies]]
+name = "Dataiku"              # AI/data platform; NYC HQ
+ats = "greenhouse"
+slug = "dataiku"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Thoughtworks"         # consultancy; NYC office
+ats = "greenhouse"
+slug = "thoughtworks"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "ServiceNow"           # enterprise SaaS; NYC + remote
+ats = "smartrecruiters"
+slug = "ServiceNow"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Synchrony"            # consumer finance; Stamford HQ + NYC
+ats = "workday"
+slug = "synchronyfinancial/wd5/careers"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "FactSet"              # fin data; Norwalk CT + NYC
+ats = "workday"
+slug = "factset/wd108/FactSetCareers"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "CME Group"            # exchange; NYC office
+ats = "workday"
+slug = "cmegroup/wd1/cme_careers"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Blackstone"           # asset manager; NYC
+ats = "workday"
+slug = "blackstone/wd1/Blackstone_Careers"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Sanofi"               # pharma digital; Morristown/Bridgewater NJ
+ats = "workday"
+slug = "sanofi/wd3/SanofiCareers"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Novartis"             # pharma; East Hanover NJ
+ats = "workday"
+slug = "novartis/wd3/Novartis_Careers"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "BD (Becton Dickinson)"   # medtech; Franklin Lakes NJ
+ats = "workday"
+slug = "bdx/wd1/EXTERNAL_CAREER_SITE_USA"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Qualcomm"             # Bridgewater NJ site
+ats = "workday"
+slug = "qualcomm/wd12/External"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Booz Allen Hamilton"  # gov tech; often needs clearance
+ats = "workday"
+slug = "bah/wd1/BAH_Jobs"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Markel"               # specialty insurance; NYC + remote
+ats = "workday"
+slug = "markelcorp/wd5/GlobalCareers"
+rating = 4.0
+size = "large"
+
+# ---- Added Nov 10 (batch 5): trading/quant, insurance (Philly), remote dev tools, NJ pharma ----
+
+[[companies]]
+name = "Tokio Marine North America Services" # insurance tech; Bala Cynwyd PA (Philly); Java SWE roles
+ats = "workday"
+slug = "tmnas/wd5/ExternalCareersTMNAS"
+rating = 4.5
+size = "large"
+
+[[companies]]
+name = "Philadelphia Insurance Companies" # P&C insurer; Bala Cynwyd PA
+ats = "workday"
+slug = "tmnas/wd5/ExternalCareersPHLY"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Ladder"                # life insurtech; remote
+ats = "greenhouse"
+slug = "ladder33"
+rating = 4.7
+size = "startup"
+
+[[companies]]
+name = "AXIS Capital"          # specialty insurer; NYC
+ats = "workday"
+slug = "axiscapital/wd1/axiscareers"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Northwestern Mutual"   # insurer; mostly Milwaukee, some remote
+ats = "workday"
+slug = "northwesternmutual/wd5/CORPORATE-CAREERS"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Hudson River Trading"  # quant trading; NYC HQ
+ats = "greenhouse"
+slug = "wehrtyou"
+rating = 4.3
+size = "growth"
+
+[[companies]]
+name = "Tower Research Capital" # quant trading; NYC
+ats = "greenhouse"
+slug = "towerresearchcapital"
+rating = 3.9
+size = "growth"
+
+[[companies]]
+name = "AQR Capital Management" # quant; Greenwich CT; Java roles
+ats = "greenhouse"
+slug = "aqr"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "IMC Trading"           # trading; NYC
+ats = "greenhouse"
+slug = "imc"
+rating = 4.2
+size = "large"
+
+[[companies]]
+name = "PDT Partners"          # quant; NYC; few reviews
+ats = "greenhouse"
+slug = "pdtpartners"
+rating = 4.4
+size = "growth"
+
+[[companies]]
+name = "Five Rings"            # trading; NYC; few reviews
+ats = "greenhouse"
+slug = "fiveringsllc"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Squarepoint Capital"   # quant; NYC
+ats = "greenhouse"
+slug = "squarepointcapital"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Engineers Gate"        # quant; NYC; Java roles; few reviews
+ats = "greenhouse"
+slug = "engineersgate"
+rating = 4.4
+size = "startup"
+
+[[companies]]
+name = "Graham Capital Management" # hedge fund; Rowayton CT + NYC
+ats = "greenhouse"
+slug = "grahamcapitalmanagement"
+rating = 3.9
+size = "growth"
+
+[[companies]]
+name = "Arcesium"              # fintech/post-trade SaaS; NYC
+ats = "greenhouse"
+slug = "arcesiumllc"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Monarch Money"         # personal finance; remote; few reviews
+ats = "ashby"
+slug = "monarchmoney"
+rating = 4.9
+size = "startup"
+
+[[companies]]
+name = "Discord"               # consumer; some remote-US
+ats = "greenhouse"
+slug = "discord"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Sentry"                # dev tools; remote
+ats = "ashby"
+slug = "sentry"
+rating = 4.2
+size = "growth"
+
+[[companies]]
+name = "Watershed"             # climate SaaS; NYC
+ats = "ashby"
+slug = "watershed"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Codecademy"            # edtech; NYC
+ats = "greenhouse"
+slug = "codeacademy"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Astronomer"            # data infra (Airflow); NYC HQ + remote
+ats = "ashby"
+slug = "astronomer"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Semgrep"               # app security; remote; few reviews
+ats = "ashby"
+slug = "semgrep"
+rating = 4.6
+size = "startup"
+
+[[companies]]
+name = "Cisco"                 # remote-US + NYC; posts SWE I
+ats = "workday"
+slug = "cisco/wd5/Cisco_Careers"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Red Hat"               # open source; remote-US
+ats = "workday"
+slug = "redhat/wd5/Jobs"
+rating = 4.1
+size = "large"
+
+[[companies]]
+name = "Hewlett Packard Enterprise" # infra; Java/Spring roles
+ats = "workday"
+slug = "hpe/wd5/Jobsathpe"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Thomson Reuters"       # NYC + remote; posts SWE I
+ats = "workday"
+slug = "thomsonreuters/wd5/External_Career_Site"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Organon"               # pharma; Jersey City HQ
+ats = "workday"
+slug = "organon/wd5/SearchJobs"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "GSK"                   # pharma; Philly area + Warren NJ
+ats = "workday"
+slug = "gsk/wd5/GSKCareers"
+rating = 3.8
+size = "large"
+
+# ---- Added Nov 10: big NYC/NJ employers on Eightfold / Oracle ----
+
+[[companies]]
+name = "Bayer"                # pharma; Whippany NJ
+ats = "eightfold"
+slug = "bayer|bayer.com"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "DTCC"                 # market infrastructure; Jersey City/NYC; Java-heavy
+ats = "oracle"
+slug = "ebxr.fa.us2.oraclecloud.com/CX_1"
+rating = 3.9
+size = "large"
+
+# ---- Added Nov 10: NJ employers ----
+
+[[companies]]
+name = "JPMorganChase"        # big Jersey City tech hub; Java/AWS SWE roles
+ats = "oracle"
+slug = "jpmc.fa.oraclecloud.com/CX_1001"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Barclays"             # Whippany NJ tech campus
+ats = "workday"
+slug = "barclays/wd3/External_Career_Site_Barclays"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Nokia"                # Nokia Bell Labs, Murray Hill NJ
+ats = "oracle"
+slug = "fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/CX_1"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Jefferies"            # Jersey City tech; many roles are VP-level
+ats = "oracle"
+slug = "hdid.fa.us2.oraclecloud.com/CX_1"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Jefferies"            # Jefferies' second Oracle site (both work)
+ats = "oracle"
+slug = "hcwp.fa.us2.oraclecloud.com/CX_1"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Broadridge"           # fintech; Newark NJ hybrid; rating right at the 3.8 floor
+ats = "workday"
+slug = "broadridge/wd5/Careers"
+rating = 3.8
+size = "large"
+
+# ---- Checked and below the bar (kept so you know why they're excluded; never fetched) ----
+
+[[companies]]
+name = "Ramp"
+ats = "ashby"
+slug = "ramp"
+rating = 3.7
+
+[[companies]]
+name = "Stripe"
+ats = "greenhouse"
+slug = "stripe"
+rating = 3.7
+
+[[companies]]
+name = "Squarespace"
+ats = "greenhouse"
+slug = "squarespace"
+rating = 3.6
+
+[[companies]]
+name = "Figma"
+ats = "greenhouse"
+slug = "figma"
+rating = 3.6
+
+[[companies]]
+name = "Pinterest"
+ats = "greenhouse"
+slug = "pinterest"
+rating = 3.6
+
+[[companies]]
+name = "GitLab"
+ats = "greenhouse"
+slug = "gitlab"
+rating = 3.5
+
+[[companies]]
+name = "Lemonade"
+ats = "greenhouse"
+slug = "lemonade"
+rating = 3.5
+
+[[companies]]
+name = "StubHub"
+ats = "greenhouse"
+slug = "stubhubinc"
+rating = 2.4
