@@ -1,4 +1,4 @@
-# jobwatch config (last manual refresh: 2026-11-10)
+# jobwatch config
 # Edit this file to change what you get pinged about. Patterns are case-insensitive regex.
 
 min_rating = 3.8         # companies below this Glassdoor rating are skipped (not even fetched)
