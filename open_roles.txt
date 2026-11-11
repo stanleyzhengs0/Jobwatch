@@ -54,7 +54,7 @@
   https://jobs.ashbyhq.com/baseten/7428d7cc-36d7-4d02-b19a-bd558fba6751
 - [growth] Baseten: Software Engineer - AI Developer Productivity | fit 9 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | asks 4+ yrs | posted 91d ago
   https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1
-- [growth] Baseten: Software Engineer - Testing Frameworks | fit 14 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 91d ago
+- [growth] Baseten: Software Engineer - Testing Frameworks | fit 14 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 92d ago
   https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d
 - [growth] Baseten: Software Engineer - Continuous Delivery | fit 10 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 92d ago
   https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce
@@ -80,9 +80,9 @@
   https://jobs.ashbyhq.com/fireworks/cca38fd5-9cbd-4cee-8fdb-d6e6d230b036
 - [growth] LangChain: Deployed Engineer (NYC) | fit 7 | New York, NY | $185K–$315K | posted 33d ago
   https://jobs.ashbyhq.com/langchain/25d40647-c821-46ff-bf25-bacf21fa38b5
-- [growth] Rogo: Software Engineer: Financial Data | fit 5 | New York City | $250K–$315K | asks 3+ yrs | posted 50d ago
+- [growth] Rogo: Software Engineer: Financial Data | fit 5 | New York City | $250K–$315K | asks 3+ yrs | posted 51d ago
   https://jobs.ashbyhq.com/Rogo/fd7cecdb-5ae4-494f-a2e1-fd310398efaf
-- [growth] Rogo: Software Engineer: Platform | New York City | $250K–$315K | posted 50d ago
+- [growth] Rogo: Software Engineer: Platform | New York City | $250K–$315K | posted 51d ago
   https://jobs.ashbyhq.com/Rogo/04777127-53d6-49cb-9372-4332280857a1
 - [growth] Clay: Software Engineer, Applied AI | fit 16 | New York | $170K–$300K | posted 88d ago
   https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1
@@ -134,7 +134,7 @@
   https://jobs.ashbyhq.com/EliseAI/d9178355-392e-4197-811f-32a1f9c2887e
 - [growth] EliseAI: Senior Software Engineer (Full Stack) | fit 13 | New York City / San Francisco | $230K–$270K | asks 2+ yrs (stretch: senior title) | posted 508d ago
   https://jobs.ashbyhq.com/EliseAI/bd740e67-b145-46f0-b1f0-0a13610365dc
-- [growth] Hex: Software Engineer, Developer Velocity | fit 17 | Remote - US / San Francisco / New York | $199K–$265K | posted 274d ago
+- [growth] Hex: Software Engineer, Developer Velocity | fit 17 | Remote - US / San Francisco / New York | $199K–$265K | posted 275d ago
   https://jobs.ashbyhq.com/hex/3477e108-195c-414a-a16b-23a6356d1b09
 - [growth] Hightouch: Forward Deployed Engineer | fit 5 | Remote (North America) | $150K–$250K | posted 48d ago
   https://jobs.ashbyhq.com/hightouch-inc/dace612e-16c3-49a2-b1fe-622d80516f2d
@@ -148,7 +148,7 @@
   https://job-boards.greenhouse.io/kalshi/jobs/6650541003
 - [growth] Kalshi: Software Engineer, Growth | fit 8 | New York, New York, United States | $120K–$250K | asks 3+ yrs | posted 657d ago
   https://job-boards.greenhouse.io/kalshi/jobs/6335667003
-- [growth] Kalshi: Software Engineer, Data | fit 13 | New York, New York, United States | $100K–$250K | posted 818d ago
+- [growth] Kalshi: Software Engineer, Data | fit 13 | New York, New York, United States | $100K–$250K | posted 819d ago
   https://job-boards.greenhouse.io/kalshi/jobs/6089733003
 - [growth] PDT Partners: Software Engineer | fit 1 | New York, NY | $180K–$250K | asks 3+ yrs | posted 1734d ago
   https://job-boards.greenhouse.io/pdtpartners/jobs/3914106
@@ -256,8 +256,6 @@
   https://job-boards.greenhouse.io/chainguard/jobs/4723523006
 - [growth] Kong: Software Engineer | fit 24 | Toronto, Canada / Washington, United States / California, United States | $118K–$140K | asks 3+ yrs | posted 19d ago
   https://jobs.ashbyhq.com/kong/e75c7ded-f94e-4ee8-9365-794bbd0e0e91
-- [growth] Harness: Customer Experience Engineer I/II | fit 12 | U.S. (Remote) | $100K–$135K | posted 34d ago
-  https://www.harness.io/company/jobs/apply?gh_jid=5256226007&gh_jid=5256226007
 - [growth] Persona: Field Product Engineer | fit 9 | San Francisco | $100K–$110K | posted 22d ago
   https://jobs.ashbyhq.com/persona/fe95a1b5-de1a-4b7f-9637-eeddc4c31b1d
 - [growth] Supabase: Data API Engineer | fit 7 | Remote, Global | asks 3+ yrs | posted 18d ago
@@ -280,7 +278,7 @@
   https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113
 - [growth] Supabase: Software Engineer - Auth | fit 10 | Remote, Global | asks 2+ yrs | posted 217d ago
   https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d
-- [growth] Rogo: Software Engineer: Backend | New York City | asks 4+ yrs | posted 50d ago
+- [growth] Rogo: Software Engineer: Backend | New York City | asks 4+ yrs | posted 51d ago
   https://jobs.ashbyhq.com/Rogo/ac4e74a3-4f95-4a5b-843c-d28591c82da8
 - [growth] Hudson River Trading: Applied AI Engineer | fit 2 | London, United Kingdom; New York, NY, United States; Singapore | posted 46d ago
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=8234195
@@ -426,7 +424,7 @@
   https://jobs.ashbyhq.com/Sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803
 - [large] Sierra: Software Engineer, Agent - Healthcare | fit 14 | New York, NY / San Francisco, CA | $180K–$390K | posted 49d ago
   https://jobs.ashbyhq.com/Sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9
-- [large] Sierra: Software Engineer, Agent (Brazilian Portuguese speaking) | fit 10 | San Francisco, CA / New York, NY | $180K–$390K | posted 141d ago
+- [large] Sierra: Software Engineer, Agent (Brazilian Portuguese speaking) | fit 10 | San Francisco, CA / New York, NY | $180K–$390K | posted 142d ago
   https://jobs.ashbyhq.com/Sierra/f51d6c09-d767-4e86-bc62-216b2051e318
 - [large] Sierra: Software Engineer, Agent | fit 10 | San Francisco, CA / New York, NY / Atlanta, GA | $180K–$390K | posted 572d ago
   https://jobs.ashbyhq.com/Sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e
@@ -506,7 +504,7 @@
   https://jobs.ashbyhq.com/openai/d8b894e3-c399-4303-a708-3cef8ff5c1a2
 - [large] Point72: Software Engineer - Data | fit 9 | New York, NY | $200K–$300K | asks 3+ yrs | posted 142d ago
   https://boards.greenhouse.io/point72/jobs/8544800002?gh_jid=8544800002
-- [large] Vercel: Software Engineer, Agentic Infrastructure | fit 15 | Hybrid - San Francisco, New York City | $196K–$294K | asks 3+ yrs | posted 54d ago
+- [large] Vercel: Software Engineer, Agentic Infrastructure | fit 15 | Hybrid - San Francisco, New York City | $196K–$294K | asks 3+ yrs | posted 55d ago
   https://job-boards.greenhouse.io/vercel/jobs/6199608004
 - [large] Replit: Software Engineer, Enterprise Platform | fit 12 | Foster City, CA | $130K–$290K | asks 4+ yrs | posted 280d ago
   https://jobs.ashbyhq.com/replit/7b4bc2fe-5860-4f56-8746-aabb852cf0e1
@@ -532,9 +530,9 @@
   https://www.samsara.com/company/careers/roles/8237134?gh_jid=8237134
 - [large] Hinge Health: Senior Software Engineer - AI Platform | fit 26 | San Francisco-HQ | $188K–$257K | asks 3+ yrs (stretch: senior title) | posted 16d ago
   https://jobs.ashbyhq.com/hinge-health/de8d7cf5-6cd2-45ad-9f0b-a8ff1e102600
-- [large] Thomson Reuters: Senior Software Engineer - AI, CoCounsel FDE | fit 19 | United States of America, Frisco, Texas / United States of America, New York, New York / United States of America, Washington, District of Columbia / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 45h ago
+- [large] Thomson Reuters: Senior Software Engineer - AI, CoCounsel FDE | fit 19 | United States of America, Frisco, Texas / United States of America, New York, New York / United States of America, Washington, District of Columbia / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 46h ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Software-Engineer---AI--CoCounsel-FDE_JREQ205154
-- [large] Thomson Reuters: Senior Software Engineer – AI, Tax and Audit, FDE | fit 16 | United States of America, New York, New York / United States of America, Frisco, Texas / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 45h ago
+- [large] Thomson Reuters: Senior Software Engineer – AI, Tax and Audit, FDE | fit 16 | United States of America, New York, New York / United States of America, Frisco, Texas / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 46h ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Software-Engineer---AI--Tax-and-Audit--FDE_JREQ204981-2
 - [large] Hinge Health: Senior AI Engineer, Proactive Comms | fit 24 | San Francisco-HQ | $165K–$247K | asks 3+ yrs (stretch: senior title) | posted 42d ago
   https://jobs.ashbyhq.com/hinge-health/5c38f1e6-8b11-4a86-a00b-07b1f27ea705
@@ -598,9 +596,9 @@
   https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ann-Arbor-Michigan-US/Senior-Software-Engineer--Identity-Engineering---SSO-_2023296
 - [large] Samsara: Senior Data Engineer II | fit 15 | Remote - US | $134K–$203K | asks 3+ yrs (stretch: senior title) | posted 123d ago
   https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914
-- [large] Cisco: Software Engineer Full Stack / Backend II (Full-Time) - United States | fit 17 | San Jose, California, US / New York, New York, US / Boston, Massachusetts, US / Knoxville, Tennessee, US / Austin, Texas, US / Milpitas, California, US / Alpharetta, Georgia, US / RTP, North Carolina, US / Maynard, Massachusetts, US / Fulton, Maryland, US / Dallas, Texas, US / Atlanta, Georgia, US / Hillsboro, Oregon, US | $126K–$203K | asks 2+ yrs | posted 45h ago
+- [large] Cisco: Software Engineer Full Stack / Backend II (Full-Time) - United States | fit 17 | San Jose, California, US / New York, New York, US / Boston, Massachusetts, US / Knoxville, Tennessee, US / Austin, Texas, US / Milpitas, California, US / Alpharetta, Georgia, US / RTP, North Carolina, US / Maynard, Massachusetts, US / Fulton, Maryland, US / Dallas, Texas, US / Atlanta, Georgia, US / Hillsboro, Oregon, US | $126K–$203K | asks 2+ yrs | posted 46h ago
   https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Full-Time----United-States_2023953
-- [large] Thomson Reuters: Senior Software Engineer I | fit 17 | United States of America, Ann Arbor, Michigan / United States of America, Frisco, Texas / United States of America, New York, New York / Canada, Toronto, Ontario | $109K–$203K | asks 2+ yrs (stretch: senior title) | posted 45h ago
+- [large] Thomson Reuters: Senior Software Engineer I | fit 17 | United States of America, Ann Arbor, Michigan / United States of America, Frisco, Texas / United States of America, New York, New York / Canada, Toronto, Ontario | $109K–$203K | asks 2+ yrs (stretch: senior title) | posted 46h ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Ann-Arbor-Michigan/Senior-Software-Engineer-I_JREQ202606
 - [large] Notion: Software Engineer, Developer Platform | fit 11 | San Francisco, California / New York, New York | $150K–$200K | asks 2+ yrs | posted 23d ago
   https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8
@@ -720,8 +718,6 @@
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1
 - [large] Broadridge: Sr Software Engineer-Java | fit 8 | Pittsburgh, PA / Newark, NJ | $120K–$125K | asks 3+ yrs (stretch: senior title) | posted 15d ago
   https://broadridge.wd5.myworkdayjobs.com/Careers/job/Pittsburgh-PA/Sr-Software-Engineer-Java_JR1086922
-- [large] FanDuel: Software Engineer - Salesforce Tester | fit 9 | New York City | $98K–$122K | asks 2+ yrs | posted 2d ago
-  https://www.fanduel.careers/open-positions?gh_jid=8334276
 - [large] The New York Times: Front-End Web Engineer - T Brand | fit 12 | New York, NY | $89K–$120K | asks 2+ yrs | posted 23d ago
   https://job-boards.greenhouse.io/thenewyorktimes/jobs/4744538005
 - [large] Samsara: Solutions Integration Engineer III | fit 13 | Remote - AZ; Remote - Dallas; Remote - FL; Remote - GA; Remote - Houston; Remote - PA; Remote - TX | $87K–$118K | asks 3+ yrs | posted 63d ago
@@ -778,7 +774,7 @@
   https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214800
 - [large] Nasdaq: Data Software Engineer | fit 8 | USA - Philadelphia - Pennsylvania | asks 2+ yrs | posted 61d ago
   https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Philadelphia---Pennsylvania/Data-Software-Engineer_R0026752
-- [large] Comcast: Engineer 4, Software Development & Engineering-5646 | PA - Philadelphia, 1800 Arch St | posted 45h ago
+- [large] Comcast: Engineer 4, Software Development & Engineering-5646 | PA - Philadelphia, 1800 Arch St | posted 46h ago
   https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-4--Software-Development---Engineering-5646_R448693
 - [large] BD (Becton Dickinson): Field Service Engineer 2- Part-time (Vermont) | fit 2 | USA CA - San Diego Bldg A&B / USA - Vermont / USA - New York / USA - Vermont - FIELD | asks 3+ yrs | posted 62d ago
   https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Field-Service-Engineer-2--Part-time--Vermont-_R-554152

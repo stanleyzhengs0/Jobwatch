@@ -9,12 +9,12 @@ Plaid                 143 open,   4 match
 Glean                 124 open,   2 match
 Duolingo               61 open,   0 match
 Braze                 356 open,   1 match
-Datadog               393 open,   0 match
+Datadog               392 open,   0 match
 MongoDB               377 open,   1 match
 Affirm                207 open,  10 match
 Spotify                85 open,   1 match
 Toast                 353 open,   2 match
-Alloy                  30 open,   0 match
+Alloy                  31 open,   0 match
 Clay                   58 open,   4 match
 Paxos                  24 open,   0 match
 iCapital              221 open,   0 match
@@ -53,7 +53,7 @@ Dropbox                38 open,   0 match
 Reddit                153 open,   8 match
 Elastic               421 open,   0 match
 Lyft                  154 open,   0 match
-Roblox                274 open,   0 match
+Roblox                275 open,   0 match
 LangChain             102 open,   6 match
 Abridge                23 open,   0 match
 Fetch Pet Insurance    55 open,   0 match
@@ -80,7 +80,7 @@ Anyscale               24 open,   1 match
 Deepgram               66 open,   4 match
 Anthropic             674 open,   9 match
 OpenAI                821 open,  66 match
-Databricks            911 open,   0 match
+Databricks            912 open,   0 match
 Upstart                80 open,   7 match
 Hippo                  18 open,   0 match
 Zapier                  9 open,   0 match
@@ -88,7 +88,7 @@ Greenhouse Software    19 open,   0 match
 Mastercard            294 open,   0 match
 Adobe                 210 open,   1 match
 NVIDIA                663 open,   0 match
-Salesforce            433 open,   1 match
+Salesforce            432 open,   1 match
 Johnson & Johnson     207 open,   0 match
 Merck                  97 open,   0 match
 Bank of America        92 open,   6 match
@@ -135,7 +135,7 @@ Synchrony              23 open,   1 match
 FactSet                63 open,   0 match
 CME Group              21 open,   0 match
 Blackstone             27 open,   4 match
-Sanofi                 76 open,   0 match
+Sanofi                 75 open,   0 match
 Novartis              237 open,   0 match
 BD (Becton Dickinson)  302 open,   1 match
 Qualcomm                0 open,   0 match
@@ -178,17 +178,15 @@ Jefferies             139 open,   2 match
 Jefferies             241 open,   0 match
 Broadridge            211 open,   3 match
 DraftKings             17 open,   0 match
-FanDuel                98 open,   1 match
+FanDuel                98 open,   0 match
 Nourish                97 open,   2 match
 Rho                    47 open,   0 match
 Middesk                17 open,   3 match
 Highnote                5 open,   0 match
 Kong                  118 open,   1 match
 Stytch                  0 open,   0 match
-Harness                68 open,   2 match
+Harness                68 open,   1 match
 Warp                    5 open,   1 match
 LogRocket               8 open,   0 match
 
-1 new match(es)
-  + [large] FanDuel: Software Engineer - Salesforce Tester | fit 9 | New York City | $98K–$122K | asks 2+ yrs | posted 2d ago
-    https://www.fanduel.careers/open-positions?gh_jid=8334276
+0 new match(es)

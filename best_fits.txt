@@ -1,4 +1,4 @@
-# Best resume fits posted in the last 21 days (88 roles), highest fit first
+# Best resume fits posted in the last 21 days (87 roles), highest fit first
 
 - Guidewire: Software Engineer | fit 30 | United States - Exton, PA | $86K–$164K | posted 7d ago
   https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15376-1
@@ -18,7 +18,7 @@
   https://jobs.ashbyhq.com/hinge-health/5011fad1-6e21-4ed2-be58-5b820e4f9b6f
 - Disney: Product Software Engineer II | fit 20 | New York, NY, USA | $125K–$167K | asks 3+ yrs | posted 2d ago
   https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-II_10160173
-- Thomson Reuters: Senior Software Engineer - AI, CoCounsel FDE | fit 19 | United States of America, Frisco, Texas / United States of America, New York, New York / United States of America, Washington, District of Columbia / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 45h ago
+- Thomson Reuters: Senior Software Engineer - AI, CoCounsel FDE | fit 19 | United States of America, Frisco, Texas / United States of America, New York, New York / United States of America, Washington, District of Columbia / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 46h ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Software-Engineer---AI--CoCounsel-FDE_JREQ205154
 - Hinge Health: Senior Software Engineer - Backend | fit 19 | San Francisco-HQ | $157K–$218K | asks 2+ yrs (stretch: senior title) | posted 8d ago
   https://jobs.ashbyhq.com/hinge-health/6945d07e-2d07-47a1-a91c-c7e809ab9cc0
@@ -30,9 +30,9 @@
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781262
 - Pinecone: Full-Stack Software Engineer, Experience | fit 18 | New York City | $165K–$190K | asks 2+ yrs | posted 21d ago
   https://jobs.ashbyhq.com/pinecone/08760530-e6c3-4167-9272-923d85a2388d
-- Cisco: Software Engineer Full Stack / Backend II (Full-Time) - United States | fit 17 | San Jose, California, US / New York, New York, US / Boston, Massachusetts, US / Knoxville, Tennessee, US / Austin, Texas, US / Milpitas, California, US / Alpharetta, Georgia, US / RTP, North Carolina, US / Maynard, Massachusetts, US / Fulton, Maryland, US / Dallas, Texas, US / Atlanta, Georgia, US / Hillsboro, Oregon, US | $126K–$203K | asks 2+ yrs | posted 45h ago
+- Cisco: Software Engineer Full Stack / Backend II (Full-Time) - United States | fit 17 | San Jose, California, US / New York, New York, US / Boston, Massachusetts, US / Knoxville, Tennessee, US / Austin, Texas, US / Milpitas, California, US / Alpharetta, Georgia, US / RTP, North Carolina, US / Maynard, Massachusetts, US / Fulton, Maryland, US / Dallas, Texas, US / Atlanta, Georgia, US / Hillsboro, Oregon, US | $126K–$203K | asks 2+ yrs | posted 46h ago
   https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Full-Time----United-States_2023953
-- Thomson Reuters: Senior Software Engineer I | fit 17 | United States of America, Ann Arbor, Michigan / United States of America, Frisco, Texas / United States of America, New York, New York / Canada, Toronto, Ontario | $109K–$203K | asks 2+ yrs (stretch: senior title) | posted 45h ago
+- Thomson Reuters: Senior Software Engineer I | fit 17 | United States of America, Ann Arbor, Michigan / United States of America, Frisco, Texas / United States of America, New York, New York / Canada, Toronto, Ontario | $109K–$203K | asks 2+ yrs (stretch: senior title) | posted 46h ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Ann-Arbor-Michigan/Senior-Software-Engineer-I_JREQ202606
 - JPMorganChase: Software Engineer III - Data Engineering | Infrastructure Platforms | fit 17 | Jersey City, NJ, United States / Plano, TX, United States | asks 3+ yrs | posted 8d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800729
@@ -40,7 +40,7 @@
   https://jobs.ashbyhq.com/hinge-health/2eb66662-40fc-4554-b8b7-eb15bdadc3e4
 - DTCC: Platform Engineering Senior Associate | fit 17 | Tampa, FL, United States / Dallas, TX, United States / Jersey City, NJ, United States | asks 3+ yrs (stretch: senior title) | posted 15d ago
   https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215117
-- Thomson Reuters: Senior Software Engineer – AI, Tax and Audit, FDE | fit 16 | United States of America, New York, New York / United States of America, Frisco, Texas / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 45h ago
+- Thomson Reuters: Senior Software Engineer – AI, Tax and Audit, FDE | fit 16 | United States of America, New York, New York / United States of America, Frisco, Texas / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 46h ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Software-Engineer---AI--Tax-and-Audit--FDE_JREQ204981-2
 - Hinge Health: Senior Software Engineer - Search | fit 16 | San Francisco-HQ | $164K–$217K | asks 3+ yrs (stretch: senior title) | posted 2d ago
   https://jobs.ashbyhq.com/hinge-health/4d11a165-4f54-4561-80a9-8bc8b3a1d0d0
@@ -96,8 +96,6 @@
   https://jobs.ashbyhq.com/ElevenLabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0
 - Baseten: Software Engineer - Identity & Authorization | fit 10 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | asks 4+ yrs | posted 20d ago
   https://jobs.ashbyhq.com/baseten/86331c05-a6b0-4a9f-991d-b46091b696b5
-- FanDuel: Software Engineer - Salesforce Tester | fit 9 | New York City | $98K–$122K | asks 2+ yrs | posted 2d ago
-  https://www.fanduel.careers/open-positions?gh_jid=8334276
 - Cisco: Software Engineer - AI & Agentic Systems | fit 9 | San Jose, California, US | $168K–$245K | asks 3+ yrs | posted 5d ago
   https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer---AI---Agentic-Systems_2025466
 - JPMorganChase: Software Engineer III (Java/Agentic) | fit 9 | New York, NY, United States | asks 3+ yrs | posted 7d ago
@@ -120,3 +118,5 @@
   https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-III---Release--STaRQ--Hybrid-_R30474
 - Motorola Solutions: Systems Software Engineer - US Remote | fit 8 | Texas Remote Work / Minnesota, US Offsite / Kansas Remote Work / Oklahoma, US Offsite / Missouri, US Offsite / Maryland, US Offsite / Utah, US Offsite / Montana, US Offsite / Wisconsin, US Offsite / Illinois Remote Work | $85K–$90K | asks 3+ yrs | posted 8d ago
   https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Texas-Remote-Work/Systems-Software-Engineer---US-Remote_R69428
+- Perplexity: Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | fit 8 | San Francisco / Remote (United States) / Toronto / Seattle / New York City | $250K–$485K | posted 14d ago
+  https://jobs.ashbyhq.com/Perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413
