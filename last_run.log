@@ -5,14 +5,14 @@ Plaid                 143 open,   4 match
 Glean                 124 open,   2 match
 Duolingo               61 open,   0 match
 Braze                 356 open,   1 match
-Datadog               391 open,   0 match
+Datadog               392 open,   0 match
 MongoDB               375 open,   1 match
 Affirm                207 open,  10 match
 Spotify                85 open,   1 match
 Toast                 338 open,   1 match
 Alloy                  31 open,   0 match
 Clay                   62 open,   4 match
-Paxos                  25 open,   0 match
+Paxos                  24 open,   0 match
 iCapital              220 open,   0 match
 Bluevine                6 open,   0 match
 Addepar               116 open,   5 match
@@ -43,11 +43,11 @@ Airtable                8 open,   0 match
 Hinge Health           83 open,  11 match
 Airbnb                203 open,   0 match
 Samsara               314 open,   6 match
-Twilio                125 open,   1 match
+Twilio                126 open,   1 match
 Asana                 107 open,   0 match
 Dropbox                38 open,   0 match
 Reddit                157 open,   9 match
-Elastic               427 open,   0 match
+Elastic               426 open,   0 match
 Lyft                  155 open,   0 match
 Roblox                276 open,   0 match
 LangChain             101 open,   6 match
@@ -82,27 +82,27 @@ Hippo                  18 open,   0 match
 Zapier                  9 open,   0 match
 Greenhouse Software    19 open,   0 match
 Mastercard            294 open,   0 match
-Adobe                 213 open,   1 match
+Adobe                 212 open,   1 match
 NVIDIA                663 open,   0 match
-Salesforce            432 open,   1 match
-Johnson & Johnson     192 open,   0 match
+Salesforce            433 open,   1 match
+Johnson & Johnson     193 open,   0 match
 Merck                  93 open,   0 match
 Bank of America        92 open,   6 match
-Fidelity Investments  164 open,   0 match
+Fidelity Investments  163 open,   0 match
 S&P Global            227 open,   0 match
 Disney                 21 open,   3 match
-Comcast                55 open,   1 match
+Comcast                56 open,   1 match
 Nasdaq                149 open,   1 match
 Zoetis                 15 open,   0 match
 Marsh McLennan        303 open,   0 match
 Guidewire             110 open,   2 match
 Arch Capital Group     38 open,   0 match
-Nationwide            154 open,   0 match
+Nationwide            153 open,   0 match
 Insurify               15 open,   0 match
 Wiz                   114 open,   0 match
 Huntress               46 open,   0 match
 CrowdStrike           171 open,   7 match
-Motorola Solutions    417 open,   2 match
+Motorola Solutions    418 open,   2 match
 Autodesk                4 open,   0 match
 DuckDuckGo              9 open,   0 match
 The Trade Desk         98 open,   0 match
@@ -125,18 +125,18 @@ Gong                   85 open,   0 match
 DRW                   160 open,   4 match
 Cedar                   1 open,   0 match
 Dataiku                15 open,   0 match
-Thoughtworks           47 open,   0 match
-ServiceNow            777 open,   0 match
-Synchrony              22 open,   1 match
+Thoughtworks           48 open,   0 match
+ServiceNow            778 open,   0 match
+Synchrony              23 open,   1 match
 FactSet                63 open,   0 match
 CME Group              21 open,   0 match
 Blackstone             27 open,   4 match
 Sanofi                 73 open,   0 match
 Novartis              238 open,   0 match
-BD (Becton Dickinson)  302 open,   1 match
+BD (Becton Dickinson)  303 open,   1 match
 Qualcomm                0 open,   0 match
 Booz Allen Hamilton   404 open,   1 match
-Markel                135 open,   0 match
+Markel                134 open,   0 match
 Tokio Marine North America Services    5 open,   0 match
 Philadelphia Insurance Companies    0 open,   0 match
 Ladder                  3 open,   0 match
@@ -161,14 +161,14 @@ Astronomer             18 open,   0 match
 Semgrep                13 open,   0 match
 Cisco                 463 open,   4 match
 Red Hat                95 open,   0 match
-Hewlett Packard Enterprise  433 open,   0 match
-Thomson Reuters       218 open,   3 match
+Hewlett Packard Enterprise  432 open,   0 match
+Thomson Reuters       219 open,   3 match
 Organon                 1 open,   0 match
 GSK                   122 open,   2 match
 Bayer                  50 open,   0 match
 DTCC                  333 open,   3 match
 JPMorganChase         485 open,   7 match
-Barclays              234 open,   0 match
+Barclays              235 open,   0 match
 Nokia                 378 open,   0 match
 Jefferies             139 open,   2 match
 Jefferies             244 open,   0 match
