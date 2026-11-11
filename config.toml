@@ -49,7 +49,7 @@ title_exclude = [
   '(?<!assistant )vice president', '\b[slp]mts\b', '\bcontract\b',
   '\bIV\b', '\bV\b', 'level 5', 'level 6',
   '\bintern(ship)?\b', 'new grad', 'university', 'apprentice', 'co-?op\b', '\bcampus\b',
-  'college grad', '\bamts\b',
+  'college grad', '\bamts\b', '\btester\b', 'customer experience',
   'technical leader', '\bleader\b',
   '\b(android|ios|mobile)\b',
   'machine learning', '\bml\b', 'research', 'data scien',
