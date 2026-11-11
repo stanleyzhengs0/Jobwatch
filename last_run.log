@@ -1,4 +1,8 @@
   ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 Hebbia                 23 open,   2 match
 Mercury                75 open,   5 match
 Plaid                 143 open,   4 match
@@ -9,7 +13,7 @@ Datadog               393 open,   0 match
 MongoDB               377 open,   1 match
 Affirm                207 open,  10 match
 Spotify                85 open,   1 match
-Toast                 354 open,   2 match
+Toast                 353 open,   2 match
 Alloy                  30 open,   0 match
 Clay                   58 open,   4 match
 Paxos                  24 open,   0 match
@@ -84,7 +88,7 @@ Greenhouse Software    19 open,   0 match
 Mastercard            294 open,   0 match
 Adobe                 210 open,   1 match
 NVIDIA                663 open,   0 match
-Salesforce            432 open,   2 match
+Salesforce            433 open,   1 match
 Johnson & Johnson     207 open,   0 match
 Merck                  97 open,   0 match
 Bank of America        92 open,   6 match
@@ -102,7 +106,7 @@ Insurify               15 open,   0 match
 Wiz                   113 open,   0 match
 Huntress               46 open,   0 match
 CrowdStrike           172 open,   7 match
-Motorola Solutions    416 open,   2 match
+Motorola Solutions    415 open,   2 match
 Autodesk                3 open,   0 match
 DuckDuckGo              9 open,   0 match
 The Trade Desk         98 open,   0 match
@@ -145,7 +149,7 @@ Northwestern Mutual    11 open,   0 match
 Hudson River Trading   81 open,   7 match
 Tower Research Capital   93 open,   5 match
 AQR Capital Management   48 open,   0 match
-IMC Trading           156 open,   1 match
+IMC Trading           157 open,   1 match
 PDT Partners           13 open,   1 match
 Five Rings             19 open,   0 match
 Squarepoint Capital    92 open,   0 match
@@ -173,9 +177,18 @@ Nokia                 378 open,   0 match
 Jefferies             139 open,   2 match
 Jefferies             241 open,   0 match
 Broadridge            211 open,   3 match
+DraftKings             17 open,   0 match
+FanDuel                98 open,   1 match
+Nourish                97 open,   2 match
+Rho                    47 open,   0 match
+Middesk                17 open,   3 match
+Highnote                5 open,   0 match
+Kong                  118 open,   1 match
+Stytch                  0 open,   0 match
+Harness                68 open,   2 match
+Warp                    5 open,   1 match
+LogRocket               8 open,   0 match
 
-2 new match(es)
-  + [large] OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 2h ago
-    https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e
-  + [large] Salesforce: Software Engineering AMTS (College Grad) | fit 9 | California - San Francisco / California - Palo Alto / New York - New York / Washington - Seattle / Washington - Bellevue / Texas - Dallas / Indiana - Indianapolis | $114K–$153K | posted 21h ago
-    https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1
+1 new match(es)
+  + [large] FanDuel: Software Engineer - Salesforce Tester | fit 9 | New York City | $98K–$122K | asks 2+ yrs | posted 2d ago
+    https://www.fanduel.careers/open-positions?gh_jid=8334276

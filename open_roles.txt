@@ -6,6 +6,14 @@
   https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea
 - [startup] Render: Software Engineer, Dev Velocity (all levels) | fit 10 | Remote: United States / Remote: Canada | $170K–$290K | posted 140d ago
   https://jobs.ashbyhq.com/render/a3f88090-5e37-43a7-b392-04b02056db6d
+- [startup] Warp: Software Engineer | fit 9 | Remote within US and Canada | $165K–$260K | posted 1743d ago
+  https://job-boards.greenhouse.io/warp/jobs/4324888004
+- [startup] Middesk: Forward Deployed Engineer | fit 12 | San Francisco / New York | $148K–$255K | asks 3+ yrs | posted 189d ago
+  https://jobs.ashbyhq.com/middesk/a72b1048-1001-49b1-92bd-9c44574f939b
+- [startup] Middesk: Software Engineer | fit 6 | San Francisco / New York | $148K–$250K | posted 539d ago
+  https://jobs.ashbyhq.com/middesk/e1c6af86-dce1-495f-a710-ad369fd1308c
+- [startup] Middesk: Software Engineer, Infrastructure | fit 5 | San Francisco | $148K–$230K | asks 3+ yrs | posted 509d ago
+  https://jobs.ashbyhq.com/middesk/aed2c535-cd58-4920-9618-a0cbbb62851e
 - [startup] Pinecone: Full-Stack Software Engineer, Experience | fit 18 | New York City | $165K–$190K | asks 2+ yrs | posted 21d ago
   https://jobs.ashbyhq.com/pinecone/08760530-e6c3-4167-9272-923d85a2388d
 - [growth] Hightouch: Software Engineer, Native Delivery | fit 6 | Remote (North America) | $180K–$400K | posted 173d ago
@@ -48,7 +56,7 @@
   https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1
 - [growth] Baseten: Software Engineer - Testing Frameworks | fit 14 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 91d ago
   https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d
-- [growth] Baseten: Software Engineer - Continuous Delivery | fit 10 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 91d ago
+- [growth] Baseten: Software Engineer - Continuous Delivery | fit 10 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 92d ago
   https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce
 - [growth] Baseten: Software Engineer - Observability | fit 10 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 93d ago
   https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda
@@ -212,6 +220,8 @@
   https://job-boards.greenhouse.io/addepar1/jobs/8879308002
 - [growth] Sentry: Forward Deployed Engineer | fit 15 | San Francisco, California | $175K–$200K | asks 1+ yrs | posted 46h ago
   https://jobs.ashbyhq.com/sentry/9b759583-60d2-4673-9da6-026731956300
+- [growth] Harness: Forward Deployed Engineer (Implementation Engineering) | fit 12 | Chicago, Illinois, United States; New York, New York, United States; San Francisco, California, United States | $170K–$200K | posted 47d ago
+  https://www.harness.io/company/jobs/apply?gh_jid=5249738007&gh_jid=5249738007
 - [growth] LangChain: Frontend Engineer, AI Observability & Evals Platform | fit 8 | San Francisco, CA / Boston, MA / New York, NY | $160K–$195K | asks 2+ yrs | posted 91d ago
   https://jobs.ashbyhq.com/langchain/f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c
 - [growth] Temporal: Software Engineer II, Cloud Applications | fit 5 | United States (Remote) | $118K–$194K | asks 3+ yrs | posted 16d ago
@@ -244,11 +254,15 @@
   https://job-boards.greenhouse.io/mercury/jobs/6101145004
 - [growth] Chainguard: Software Engineer, Sustaining Automation | fit 13 | Canada - Remote; United States - Remote | $121K–$142K | asks 3+ yrs | posted 20d ago
   https://job-boards.greenhouse.io/chainguard/jobs/4723523006
+- [growth] Kong: Software Engineer | fit 24 | Toronto, Canada / Washington, United States / California, United States | $118K–$140K | asks 3+ yrs | posted 19d ago
+  https://jobs.ashbyhq.com/kong/e75c7ded-f94e-4ee8-9365-794bbd0e0e91
+- [growth] Harness: Customer Experience Engineer I/II | fit 12 | U.S. (Remote) | $100K–$135K | posted 34d ago
+  https://www.harness.io/company/jobs/apply?gh_jid=5256226007&gh_jid=5256226007
 - [growth] Persona: Field Product Engineer | fit 9 | San Francisco | $100K–$110K | posted 22d ago
   https://jobs.ashbyhq.com/persona/fe95a1b5-de1a-4b7f-9637-eeddc4c31b1d
 - [growth] Supabase: Data API Engineer | fit 7 | Remote, Global | asks 3+ yrs | posted 18d ago
   https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0
-- [growth] Supabase: Software Engineer - Turso | fit 9 | Remote, Global | posted 20d ago
+- [growth] Supabase: Software Engineer - Turso | fit 9 | Remote, Global | posted 21d ago
   https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259
 - [growth] Supabase: Platform Engineer - Compute | fit 12 | Remote, Global | asks 3+ yrs | posted 29d ago
   https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757
@@ -280,12 +294,16 @@
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703954
 - [growth] Hudson River Trading: Software Engineer - Distributed Systems (Storage/Databases) | fit -3 | New York, NY, United States | posted 586d ago
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703952
+- [growth] Nourish: Senior Full Stack Engineer | fit 15 | San Francisco, CA / Remote | asks 3+ yrs (stretch: senior title) | posted 40d ago
+  https://job-boards.greenhouse.io/usenourish/jobs/5442374008
 - [growth] Watershed: Software engineer, energy management | fit 6 | New York City | posted 97d ago
   https://jobs.ashbyhq.com/Watershed/275cb3f7-f6f0-4b1e-a9ea-7b377934606c
 - [growth] Cognition: Product Engineer | fit 7 | San Francisco / New York City | posted 97d ago
   https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6
 - [growth] Cognition: Partner Deployed Engineer | fit 9 | San Francisco / New York City / Austin, Texas | posted 273d ago
   https://jobs.ashbyhq.com/cognition/6d539905-c75e-45e0-8c3e-db9831a5e6e6
+- [growth] Nourish: Senior Full Stack Engineer | fit 15 | New York, NY / Remote | asks 3+ yrs (stretch: senior title) | posted 345d ago
+  https://job-boards.greenhouse.io/usenourish/jobs/5011452008
 - [growth] Cognition: Forward Deployed Engineer - US | fit 8 | San Francisco / New York City / Austin, Texas | posted 488d ago
   https://jobs.ashbyhq.com/cognition/d72d584c-bb11-4b6a-b043-d81425ea884a
 - [large] OpenAI: Software Engineer, TPU Compilers | San Francisco | $380K–$500K | posted 22d ago
@@ -686,8 +704,6 @@
   https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003
 - [large] Celonis: Software Engineer - Infrastructure | fit 11 | Remote, US, Massachusetts | $134K–$158K | asks 2+ yrs | posted 30h ago
   https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003
-- [large] Salesforce: Software Engineering AMTS (College Grad) | fit 9 | California - San Francisco / California - Palo Alto / New York - New York / Washington - Seattle / Washington - Bellevue / Texas - Dallas / Indiana - Indianapolis | $114K–$153K | posted 21h ago
-  https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1
 - [large] Notion: Software Engineer, Early Career (AI) | fit 14 | San Francisco, California | $130K–$150K | posted 128d ago
   https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28
 - [large] Jefferies: Associate, Credit eTrading Software Developer (Java) | fit 5 | New York, NY, United States | $125K–$150K | asks 3+ yrs | posted 240d ago
@@ -704,6 +720,8 @@
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1
 - [large] Broadridge: Sr Software Engineer-Java | fit 8 | Pittsburgh, PA / Newark, NJ | $120K–$125K | asks 3+ yrs (stretch: senior title) | posted 15d ago
   https://broadridge.wd5.myworkdayjobs.com/Careers/job/Pittsburgh-PA/Sr-Software-Engineer-Java_JR1086922
+- [large] FanDuel: Software Engineer - Salesforce Tester | fit 9 | New York City | $98K–$122K | asks 2+ yrs | posted 2d ago
+  https://www.fanduel.careers/open-positions?gh_jid=8334276
 - [large] The New York Times: Front-End Web Engineer - T Brand | fit 12 | New York, NY | $89K–$120K | asks 2+ yrs | posted 23d ago
   https://job-boards.greenhouse.io/thenewyorktimes/jobs/4744538005
 - [large] Samsara: Solutions Integration Engineer III | fit 13 | Remote - AZ; Remote - Dallas; Remote - FL; Remote - GA; Remote - Houston; Remote - PA; Remote - TX | $87K–$118K | asks 3+ yrs | posted 63d ago
