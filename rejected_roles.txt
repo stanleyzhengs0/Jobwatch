@@ -2542,8 +2542,7 @@
   - Software Engineering Intern - 2027 | Germany, Munich | title excluded: Intern
   - Senior Software Engineer, Firmware | US, CA, Santa Clara | title excluded: Firmware
   - Senior Software Engineer, DOCA | Israel, Yokneam / Israel, Raanana / Israel, Tel Aviv | experience: asks 8+ yrs
-## Salesforce: 201 engineering roles rejected
-  - Senior Manager Solution Engineering Specialisation EMEA SMB | Ireland - Dublin | title excluded: Manager
+## Salesforce: 200 engineering roles rejected
   - Summer 2027 Intern - Software Engineer | 2 Locations | title excluded: Intern
   - Data Engineering SMTS/LMTS | India - Hyderabad | title excluded: SMTS
   - Software Engineering, SMTS/MTS (Backend + Kubernetes/Docker/Helm) | 2 Locations | title excluded: SMTS
@@ -2603,6 +2602,7 @@
   - Solution Engineer (Pre-Sales) - All Levels | 10 Locations | title excluded: Solution Engineer
   - Real-time Data Platform Software Engineer- Senior/Lead | California - San Francisco | title excluded: Lead
   - Identity- Software Engineer, Principal Member Technical Staff | 4 Locations | title excluded: Principal
+  - VP, Security Engineering for Product Security | 2 Locations | title excluded: VP
 ## Johnson & Johnson: 81 engineering roles rejected
   - Senior Full Stack Engineer | Singapore, Singapore | experience: asks 4+ yrs
   - [Quality] Sr. Quality Operation Engineer/Specialist [Heart Recovery] | Chiyoda, Tokyo, Japan | title not in include list

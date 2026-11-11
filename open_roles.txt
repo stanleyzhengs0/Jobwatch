@@ -188,7 +188,7 @@
   https://job-boards.greenhouse.io/drweng/jobs/7288315
 - [growth] Cognition: Applied AI Engineer | fit 8 | San Francisco / New York City / London | $180K–$225K | posted 383d ago
   https://jobs.ashbyhq.com/cognition/811c3f5a-b26d-4162-b49b-93890a91794d
-- [growth] Deepgram: Sr. Backend Engineer - Engine Team: API | fit 1 | USA - Remote | $150K–$220K | asks 3+ yrs (stretch: senior title) | posted 123d ago
+- [growth] Deepgram: Sr. Backend Engineer - Engine Team: API | fit 1 | USA - Remote | $150K–$220K | asks 3+ yrs (stretch: senior title) | posted 124d ago
   https://jobs.ashbyhq.com/Deepgram/d98e6723-3485-4b58-9494-d6bf028fa905
 - [growth] Deepgram: Backend Engineer- Inference Services | fit 1 | USA - Remote | $150K–$220K | asks 3+ yrs | posted 125d ago
   https://jobs.ashbyhq.com/Deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5
@@ -256,7 +256,7 @@
   https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757
 - [growth] Supabase: Platform Engineer, Managed Postgres | fit 16 | Remote, Global | posted 32d ago
   https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5
-- [growth] Supabase: Platform Engineer, Edge & Networking | fit 13 | Remote, Global | asks 4+ yrs | posted 57d ago
+- [growth] Supabase: Platform Engineer, Edge & Networking | fit 13 | Remote, Global | asks 4+ yrs | posted 58d ago
   https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b
 - [growth] Supabase: Software Engineer - Branching | fit 13 | Remote, Global | asks 3+ yrs | posted 70d ago
   https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60
@@ -544,7 +544,7 @@
   https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/AIML-Software-Engineer--AI-for-Science_435679-1
 - [large] IMC Trading: C++ Software Engineer | fit 3 | Chicago, United States; New York, United States | $175K–$225K | asks 2+ yrs | posted 424d ago
   https://job-boards.eu.greenhouse.io/imc/jobs/4673650101
-- [large] Affirm: Software Engineer II - CIAM | fit 8 | Remote US | $165K–$225K | posted 14d ago
+- [large] Affirm: Software Engineer II - CIAM | fit 8 | Remote US | $165K–$225K | posted 15d ago
   https://job-boards.greenhouse.io/affirm/jobs/8040751003
 - [large] Affirm: Software Engineer II, Full Stack (Card Acquisition) | fit 5 | Remote US | $165K–$225K | asks 1.5+ yrs | posted 26d ago
   https://job-boards.greenhouse.io/affirm/jobs/8032173003
@@ -688,7 +688,7 @@
   https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Software-Engineer--Mid_R0250294
 - [large] Celonis: Software Engineer | fit 7 | Remote, US, Massachusetts | $134K–$158K | asks 3+ yrs | posted 21h ago
   https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003
-- [large] Celonis: Software Engineer - Infrastructure | fit 11 | Remote, US, Massachusetts | $134K–$158K | asks 2+ yrs | posted 21h ago
+- [large] Celonis: Software Engineer - Infrastructure | fit 11 | Remote, US, Massachusetts | $134K–$158K | asks 2+ yrs | posted 22h ago
   https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003
 - [large] Notion: Software Engineer, Early Career (AI) | fit 14 | San Francisco, California | $130K–$150K | posted 127d ago
   https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28
