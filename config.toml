@@ -49,6 +49,7 @@ title_exclude = [
   '(?<!assistant )vice president', '\b[slp]mts\b', '\bcontract\b',
   '\bIV\b', '\bV\b', 'level 5', 'level 6',
   '\bintern(ship)?\b', 'new grad', 'university', 'apprentice', 'co-?op\b', '\bcampus\b',
+  'college grad', '\bamts\b',
   'technical leader', '\bleader\b',
   '\b(android|ios|mobile)\b',
   'machine learning', '\bml\b', 'research', 'data scien',
@@ -1359,6 +1360,113 @@ ats = "workday"
 slug = "broadridge/wd5/Careers"
 rating = 3.8
 size = "large"
+
+# ---- Added Nov 11: NJ betting tech, NYC fintech/insurtech, dev tools ----
+
+[[companies]]
+name = "DraftKings"            # sports betting tech; Hoboken NJ + NYC
+ats = "workday"
+slug = "draftkings/wd1/DraftKings"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "FanDuel"               # sports betting tech; NYC + Jersey City
+ats = "greenhouse"
+slug = "fanduel"
+rating = 3.8
+size = "large"
+
+[[companies]]
+name = "Substack"              # media platform; NYC; few reviews
+ats = "greenhouse"
+slug = "substack"
+rating = 4.6
+size = "growth"
+
+[[companies]]
+name = "Nourish"               # healthtech; NYC, remote-friendly
+ats = "greenhouse"
+slug = "usenourish"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Rho"                   # fintech; NYC HQ
+ats = "ashby"
+slug = "rho"
+rating = 4.2
+size = "growth"
+
+[[companies]]
+name = "Middesk"               # fintech KYB; NYC hybrid
+ats = "ashby"
+slug = "middesk"
+rating = 4.0
+size = "startup"
+
+[[companies]]
+name = "Boost Insurance"       # insurtech; NYC; few reviews
+ats = "greenhouse"
+slug = "boostinsurance"
+rating = 4.5
+size = "startup"
+
+[[companies]]
+name = "Highnote"              # card-issuing fintech; remote-US
+ats = "greenhouse"
+slug = "highnote"
+rating = 4.1
+size = "startup"
+
+[[companies]]
+name = "Synctera"              # banking-as-a-service; remote-US
+ats = "greenhouse"
+slug = "synctera"
+rating = 3.8
+size = "startup"
+
+[[companies]]
+name = "Mux"                   # video APIs; remote-US
+ats = "greenhouse"
+slug = "mux"
+rating = 4.3
+size = "growth"
+
+[[companies]]
+name = "Kong"                  # API gateway (Go); remote-US
+ats = "ashby"
+slug = "kong"
+rating = 4.4
+size = "growth"
+
+[[companies]]
+name = "Stytch"                # auth APIs; may be acquired by Twilio
+ats = "ashby"
+slug = "stytch"
+rating = 4.8
+size = "startup"
+
+[[companies]]
+name = "Harness"               # CI/CD dev tools; mostly senior
+ats = "greenhouse"
+slug = "harnessinc"
+rating = 3.8
+size = "growth"
+
+[[companies]]
+name = "Warp"                  # AI terminal (Rust); few reviews
+ats = "greenhouse"
+slug = "warp"
+rating = 4.2
+size = "startup"
+
+[[companies]]
+name = "LogRocket"             # frontend monitoring; Boston + NYC
+ats = "lever"
+slug = "logrocket"
+rating = 4.1
+size = "startup"
 
 # ---- Checked and below the bar (kept so you know why they're excluded; never fetched) ----
 
