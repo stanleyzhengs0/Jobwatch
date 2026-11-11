@@ -664,7 +664,7 @@ def best_fits_report(matches: list[Job], fit_cfg: dict) -> str:
     recent.sort(key=lambda j: (-j.fit, -(j.posted.timestamp())))
     out = [f"# Best resume fits posted in the last {days} days ({len(recent)} roles), highest fit first\n"]
     for j in recent[:60]:
-        out.append(f"- fit {j.fit:>2} | {j.company}: {j.title} | {describe(j)}\n  {j.url}")
+        out.append(f"- {j.company}: {j.title} | {describe(j)}\n  {j.url}")
     return "\n".join(out) + "\n"
 
 
