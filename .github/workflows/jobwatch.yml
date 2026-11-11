@@ -6,7 +6,7 @@ on:
   workflow_dispatch:       # lets you click "Run workflow" to test
   push:
     branches: [main]
-    paths: ["config.toml", "jobwatch.py", ".github/workflows/jobwatch.yml"]   # re-run right away when you edit the config
+    paths: ["config.toml", "jobwatch.py", ".github/workflows/jobwatch.yml", ".scan_trigger"]   # re-run right away when you edit the config
 
 permissions:
   contents: write          # to commit seen.json so the next run knows what you've already been sent
