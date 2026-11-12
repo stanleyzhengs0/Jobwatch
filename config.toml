@@ -68,7 +68,7 @@ max_years_required = 4
 # On-site/hybrid locations you'd commute to.
 locations_local = [
   # NYC + NJ
-  'new york', '\bnyc\b', 'brooklyn', 'new jersey', '\bnj\b',
+  'new york', '\bnyc\b', 'manhattan', 'brooklyn', 'queens', 'long island city', 'bronx', 'staten island', 'new jersey', '\bnj\b',
   'jersey city', 'hoboken', 'newark', 'princeton', 'pennington', 'parsippany', 'morristown',
   'basking ridge', 'iselin', 'edison', 'piscataway', 'new brunswick', 'rahway', 'whippany',
   'florham park', 'bridgewater', 'raritan', 'secaucus', 'weehawken', 'holmdel', 'red bank',
