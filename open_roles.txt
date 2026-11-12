@@ -512,7 +512,7 @@
   https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1
 - [large] Notion: Software Engineer, Infrastructure Security | fit 6 | San Francisco, California / New York, New York | $230K–$280K | posted 96d ago
   https://jobs.ashbyhq.com/notion/e3d8dc06-da05-4e9d-a143-2e9c51fa3d51
-- [large] OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 15h ago
+- [large] OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 17h ago
   https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e
 - [large] OpenAI: Applied AI Engineer, Enterprise - EDU | fit 11 | San Francisco / New York City / US - Remote | $251K–$278K | posted 5d ago
   https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5
@@ -572,11 +572,11 @@
   https://jobs.ashbyhq.com/hinge-health/6945d07e-2d07-47a1-a91c-c7e809ab9cc0
 - [large] Hinge Health: Senior Software Engineer - Frontend | fit 15 | San Francisco-HQ | $157K–$218K | asks 3+ yrs (stretch: senior title) | posted 14d ago
   https://jobs.ashbyhq.com/hinge-health/1f31b983-ea99-4c4e-ad93-5b406d66d66c
-- [large] Hinge Health: Senior Software Engineer - Backend | fit 19 | San Francisco-HQ | $157K–$218K | asks 2+ yrs (stretch: senior title) | posted 15d ago
+- [large] Hinge Health: Senior Software Engineer - Backend | fit 19 | San Francisco-HQ | $157K–$218K | asks 2+ yrs (stretch: senior title) | posted 16d ago
   https://jobs.ashbyhq.com/hinge-health/abbd661e-83fa-44f3-9d35-cfe50798de04
-- [large] Hinge Health: Senior Software Engineer - Accounts | fit 17 | San Francisco-HQ | $157K–$218K | asks 3+ yrs (stretch: senior title) | posted 15d ago
+- [large] Hinge Health: Senior Software Engineer - Accounts | fit 17 | San Francisco-HQ | $157K–$218K | asks 3+ yrs (stretch: senior title) | posted 16d ago
   https://jobs.ashbyhq.com/hinge-health/2eb66662-40fc-4554-b8b7-eb15bdadc3e4
-- [large] Hinge Health: Senior Software Engineer, Full Stack | fit 22 | San Francisco-HQ | $158K–$218K | asks 3+ yrs (stretch: senior title) | posted 15d ago
+- [large] Hinge Health: Senior Software Engineer, Full Stack | fit 22 | San Francisco-HQ | $158K–$218K | asks 3+ yrs (stretch: senior title) | posted 16d ago
   https://jobs.ashbyhq.com/hinge-health/5011fad1-6e21-4ed2-be58-5b820e4f9b6f
 - [large] Hinge Health: Senior Software Engineer, Home | fit 23 | San Francisco-HQ | $158K–$218K | asks 3+ yrs (stretch: senior title) | posted 47d ago
   https://jobs.ashbyhq.com/hinge-health/0a1efa11-60f1-4d86-9f88-43362954c8ef
@@ -594,11 +594,11 @@
   https://careers.toasttab.com/jobs?gh_jid=8224111
 - [large] Arcesium: Senior Software Engineer - Infrastructure | fit 14 | New York | $175K–$210K | asks 3+ yrs (stretch: senior title) | posted 106d ago
   https://job-boards.greenhouse.io/arcesiumllc/jobs/5194791007
-- [large] MongoDB: Software Engineer 3 | fit 19 | New York City | $106K–$209K | posted 7h ago
+- [large] MongoDB: Software Engineer 3 | fit 19 | New York City | $106K–$209K | posted 9h ago
   https://www.mongodb.com/careers/job/?gh_jid=8348102
-- [large] MongoDB: Software Engineer 3 | fit 13 | New York City | $106K–$209K | asks 3+ yrs | posted 7h ago
+- [large] MongoDB: Software Engineer 3 | fit 13 | New York City | $106K–$209K | asks 3+ yrs | posted 9h ago
   https://www.mongodb.com/careers/job/?gh_jid=8366703
-- [large] MongoDB: Software Engineer 3 | fit 16 | New York City | $106K–$209K | asks 3+ yrs | posted 7h ago
+- [large] MongoDB: Software Engineer 3 | fit 16 | New York City | $106K–$209K | asks 3+ yrs | posted 9h ago
   https://www.mongodb.com/careers/job/?gh_jid=8367902
 - [large] Cisco: Senior Software Engineer (Identity Engineering - SSO) | fit 22 | Ann Arbor, Michigan, US | $139K–$204K | asks 1+ yrs (stretch: senior title) | posted 29d ago
   https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ann-Arbor-Michigan-US/Senior-Software-Engineer--Identity-Engineering---SSO-_2023296
@@ -710,9 +710,9 @@
   https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15376-1
 - [large] Booz Allen Hamilton: Software Engineer, Mid | fit 7 | Wharton, NJ | $69K–$158K | posted 48d ago
   https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Software-Engineer--Mid_R0250294
-- [large] Celonis: Software Engineer | fit 7 | Remote, US, Massachusetts | $134K–$158K | asks 3+ yrs | posted 43h ago
+- [large] Celonis: Software Engineer | fit 7 | Remote, US, Massachusetts | $134K–$158K | asks 3+ yrs | posted 45h ago
   https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003
-- [large] Celonis: Software Engineer - Infrastructure | fit 11 | Remote, US, Massachusetts | $134K–$158K | asks 2+ yrs | posted 43h ago
+- [large] Celonis: Software Engineer - Infrastructure | fit 11 | Remote, US, Massachusetts | $134K–$158K | asks 2+ yrs | posted 45h ago
   https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003
 - [large] Notion: Software Engineer, Early Career (AI) | fit 14 | San Francisco, California | $130K–$150K | posted 128d ago
   https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28
@@ -756,7 +756,7 @@
   https://jobs.ashbyhq.com/ElevenLabs/6a530871-b6c6-4783-ac6b-69cc3b084192
 - [large] Synchrony: API Software Development Engineer - I | fit 18 | Atlanta Hub / Charlotte Engagement Hub NC / Stamford Hub | asks 2+ yrs | posted 3d ago
   https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Atlanta-Hub/API-Software-Development-Engineer---I_2602752
-- [large] MongoDB: Software Engineer 3 | fit 16 | New York City | asks 3+ yrs | posted 7h ago
+- [large] MongoDB: Software Engineer 3 | fit 16 | New York City | asks 3+ yrs | posted 9h ago
   https://www.mongodb.com/careers/job/?gh_jid=8351199
 - [large] Affirm: Software Engineer II, Backend | fit 4 | Remote US | asks 1.5+ yrs | posted 5d ago
   https://job-boards.greenhouse.io/affirm/jobs/8196112003

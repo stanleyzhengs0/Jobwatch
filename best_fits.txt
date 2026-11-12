@@ -16,17 +16,17 @@
   https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/213501
 - Morgan Stanley: AI Full Stack Engineer (Prime Brokerage Technology) | fit 22 | New York, New York, United States of America | $120K–$170K | asks 4+ yrs | posted 7d ago
   https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/AI-Full-Stack-Engineer--Prime-Brokerage-Technology-_PT-JR039960
-- Hinge Health: Senior Software Engineer, Full Stack | fit 22 | San Francisco-HQ | $158K–$218K | asks 3+ yrs (stretch: senior title) | posted 15d ago
+- Hinge Health: Senior Software Engineer, Full Stack | fit 22 | San Francisco-HQ | $158K–$218K | asks 3+ yrs (stretch: senior title) | posted 16d ago
   https://jobs.ashbyhq.com/hinge-health/5011fad1-6e21-4ed2-be58-5b820e4f9b6f
 - Disney: Product Software Engineer II | fit 20 | New York, NY, USA | $125K–$167K | asks 3+ yrs | posted 3d ago
   https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-II_10160173
-- MongoDB: Software Engineer 3 | fit 19 | New York City | $106K–$209K | posted 7h ago
+- MongoDB: Software Engineer 3 | fit 19 | New York City | $106K–$209K | posted 9h ago
   https://www.mongodb.com/careers/job/?gh_jid=8348102
 - Thomson Reuters: Senior Software Engineer - AI, CoCounsel FDE | fit 19 | United States of America, Frisco, Texas / United States of America, New York, New York / United States of America, Washington, District of Columbia / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 2d ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Software-Engineer---AI--CoCounsel-FDE_JREQ205154
 - Hinge Health: Senior Software Engineer - Backend | fit 19 | San Francisco-HQ | $157K–$218K | asks 2+ yrs (stretch: senior title) | posted 8d ago
   https://jobs.ashbyhq.com/hinge-health/6945d07e-2d07-47a1-a91c-c7e809ab9cc0
-- Hinge Health: Senior Software Engineer - Backend | fit 19 | San Francisco-HQ | $157K–$218K | asks 2+ yrs (stretch: senior title) | posted 15d ago
+- Hinge Health: Senior Software Engineer - Backend | fit 19 | San Francisco-HQ | $157K–$218K | asks 2+ yrs (stretch: senior title) | posted 16d ago
   https://jobs.ashbyhq.com/hinge-health/abbd661e-83fa-44f3-9d35-cfe50798de04
 - Synchrony: API Software Development Engineer - I | fit 18 | Atlanta Hub / Charlotte Engagement Hub NC / Stamford Hub | asks 2+ yrs | posted 3d ago
   https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Atlanta-Hub/API-Software-Development-Engineer---I_2602752
@@ -40,13 +40,13 @@
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Ann-Arbor-Michigan/Senior-Software-Engineer-I_JREQ202606
 - JPMorganChase: Software Engineer III - Data Engineering | Infrastructure Platforms | fit 17 | Jersey City, NJ, United States / Plano, TX, United States | asks 3+ yrs | posted 9d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800729
-- Hinge Health: Senior Software Engineer - Accounts | fit 17 | San Francisco-HQ | $157K–$218K | asks 3+ yrs (stretch: senior title) | posted 15d ago
+- Hinge Health: Senior Software Engineer - Accounts | fit 17 | San Francisco-HQ | $157K–$218K | asks 3+ yrs (stretch: senior title) | posted 16d ago
   https://jobs.ashbyhq.com/hinge-health/2eb66662-40fc-4554-b8b7-eb15bdadc3e4
 - DTCC: Platform Engineering Senior Associate | fit 17 | Tampa, FL, United States / Dallas, TX, United States / Jersey City, NJ, United States | asks 3+ yrs (stretch: senior title) | posted 16d ago
   https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215117
-- MongoDB: Software Engineer 3 | fit 16 | New York City | $106K–$209K | asks 3+ yrs | posted 7h ago
+- MongoDB: Software Engineer 3 | fit 16 | New York City | $106K–$209K | asks 3+ yrs | posted 9h ago
   https://www.mongodb.com/careers/job/?gh_jid=8367902
-- MongoDB: Software Engineer 3 | fit 16 | New York City | asks 3+ yrs | posted 7h ago
+- MongoDB: Software Engineer 3 | fit 16 | New York City | asks 3+ yrs | posted 9h ago
   https://www.mongodb.com/careers/job/?gh_jid=8351199
 - Thomson Reuters: Senior Software Engineer – AI, Tax and Audit, FDE | fit 16 | United States of America, New York, New York / United States of America, Frisco, Texas / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 2d ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Software-Engineer---AI--Tax-and-Audit--FDE_JREQ204981-2
@@ -66,9 +66,9 @@
   https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4745292005?gh_jid=4745292005
 - Salesforce: Forward Deployment Engineer MTS | fit 14 | California - San Francisco / Washington - Bellevue / New York - New York | $117K–$177K | asks 2+ yrs | posted 13d ago
   https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Value-Acceleration-Engineer-MTS_JR360493-1
-- MongoDB: Software Engineer 3 | fit 13 | New York City | $106K–$209K | asks 3+ yrs | posted 7h ago
+- MongoDB: Software Engineer 3 | fit 13 | New York City | $106K–$209K | asks 3+ yrs | posted 9h ago
   https://www.mongodb.com/careers/job/?gh_jid=8366703
-- OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 15h ago
+- OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 17h ago
   https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e
 - JPMorganChase: Software Engineer III (Java) | fit 13 | Jersey City, NJ, United States | asks 3+ yrs | posted 3d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805882
@@ -84,7 +84,7 @@
   https://jobs.ashbyhq.com/Perplexity/3b523d3a-23bd-4887-8e3c-239d14d66b06
 - Baseten: Software Engineer - Partner Platform | fit 12 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 20d ago
   https://jobs.ashbyhq.com/baseten/08bededd-d362-453e-b014-384a2003cbf1
-- Celonis: Software Engineer - Infrastructure | fit 11 | Remote, US, Massachusetts | $134K–$158K | asks 2+ yrs | posted 43h ago
+- Celonis: Software Engineer - Infrastructure | fit 11 | Remote, US, Massachusetts | $134K–$158K | asks 2+ yrs | posted 45h ago
   https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003
 - JPMorganChase: Software Engineer II (Java) | fit 11 | Jersey City, NJ, United States | asks 2+ yrs | posted 3d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804041
