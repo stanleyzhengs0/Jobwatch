@@ -96,7 +96,7 @@
   https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e
 - [growth] Hudson River Trading: Software Engineer (C++ or Python) – 2027 Grads | fit -2 | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore | $300K | posted 121d ago
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122
-- [growth] Tower Research Capital: Software Engineer, GPU Fleet | fit 5 | New York | $200K–$300K | asks 2+ yrs | posted 92d ago
+- [growth] Tower Research Capital: Software Engineer, GPU Fleet | fit 5 | New York | $200K–$300K | asks 2+ yrs | posted 93d ago
   https://www.tower-research.com/open-positions/?gh_jid=8099779
 - [growth] Cognition: Software Engineer, Infrastructure | fit 7 | San Francisco / New York City | $260K–$300K | posted 97d ago
   https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec
@@ -154,7 +154,7 @@
   https://job-boards.greenhouse.io/pdtpartners/jobs/3914106
 - [growth] Kalshi: Software Engineer, Product | fit 11 | New York, New York, United States | $100K–$250K | posted 2125d ago
   https://job-boards.greenhouse.io/kalshi/jobs/4327952003
-- [growth] Tower Research Capital: Software Engineer, Machine Lifecycle | fit 4 | New York | $150K–$250K | posted 92d ago
+- [growth] Tower Research Capital: Software Engineer, Machine Lifecycle | fit 4 | New York | $150K–$250K | posted 93d ago
   https://www.tower-research.com/open-positions/?gh_jid=8099782
 - [growth] Linear: Product Engineer | fit 14 | North America | $174K–$245K | asks 2+ yrs | posted 155d ago
   https://jobs.ashbyhq.com/linear/0c7c2e26-0a98-42cf-a47c-9a3999fb513b
@@ -322,7 +322,7 @@
   https://jobs.ashbyhq.com/openai/2cba0d45-7a4f-4f38-ac73-3f8633bf0349
 - [large] OpenAI: Software Engineer, Fleet Infrastructure | fit 4 | San Francisco / New York City | $230K–$490K | posted 636d ago
   https://jobs.ashbyhq.com/openai/a58add97-1968-4d5c-b504-ab62bea12df3
-- [large] Perplexity: Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | fit 8 | San Francisco / Remote (United States) / Toronto / Seattle / New York City | $250K–$485K | posted 14d ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | fit 8 | San Francisco / Remote (United States) / Toronto / Seattle / New York City | $250K–$485K | posted 15d ago
   https://jobs.ashbyhq.com/Perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413
 - [large] Perplexity: Member of Technical Staff (AI Inference Engineer) | fit 4 | San Francisco / Palo Alto / New York City | $220K–$485K | asks 3+ yrs | posted 212d ago
   https://jobs.ashbyhq.com/Perplexity/8a976851-9bef-4b07-8d36-567fa9540aef
@@ -388,7 +388,7 @@
   https://jobs.ashbyhq.com/Perplexity/78675022-c4a7-41d2-9259-7c59be4de93c
 - [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise AI Products) | fit 4 | San Francisco / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 125d ago
   https://jobs.ashbyhq.com/Perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941
-- [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise Knowledge Platform) | fit 10 | San Francisco / Palo Alto / London / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 149d ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise Knowledge Platform) | fit 10 | San Francisco / Palo Alto / London / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 150d ago
   https://jobs.ashbyhq.com/Perplexity/daafcaba-cc39-487a-b941-d7a407753788
 - [large] Perplexity: Member of Technical Staff (Software Engineer, Computer Growth) | fit 14 | San Francisco / New York City | $220K–$405K | asks 2+ yrs | posted 160d ago
   https://jobs.ashbyhq.com/Perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d
@@ -512,7 +512,7 @@
   https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1
 - [large] Notion: Software Engineer, Infrastructure Security | fit 6 | San Francisco, California / New York, New York | $230K–$280K | posted 96d ago
   https://jobs.ashbyhq.com/notion/e3d8dc06-da05-4e9d-a143-2e9c51fa3d51
-- [large] OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 6h ago
+- [large] OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 7h ago
   https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e
 - [large] OpenAI: Applied AI Engineer, Enterprise - EDU | fit 11 | San Francisco / New York City / US - Remote | $251K–$278K | posted 5d ago
   https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5
@@ -704,9 +704,9 @@
   https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15376-1
 - [large] Booz Allen Hamilton: Software Engineer, Mid | fit 7 | Wharton, NJ | $69K–$158K | posted 48d ago
   https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Software-Engineer--Mid_R0250294
-- [large] Celonis: Software Engineer | fit 7 | Remote, US, Massachusetts | $134K–$158K | asks 3+ yrs | posted 34h ago
+- [large] Celonis: Software Engineer | fit 7 | Remote, US, Massachusetts | $134K–$158K | asks 3+ yrs | posted 35h ago
   https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003
-- [large] Celonis: Software Engineer - Infrastructure | fit 11 | Remote, US, Massachusetts | $134K–$158K | asks 2+ yrs | posted 34h ago
+- [large] Celonis: Software Engineer - Infrastructure | fit 11 | Remote, US, Massachusetts | $134K–$158K | asks 2+ yrs | posted 35h ago
   https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003
 - [large] Notion: Software Engineer, Early Career (AI) | fit 14 | San Francisco, California | $130K–$150K | posted 128d ago
   https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28

@@ -25,7 +25,7 @@ Pinecone                6 open,   1 match
 Hex                    38 open,   4 match
 Linear                 33 open,   1 match
 Temporal               86 open,   4 match
-Supabase               76 open,  10 match
+Supabase               78 open,  10 match
 PostHog                10 open,   0 match
 Cribl                  81 open,   1 match
 LaunchDarkly           40 open,   0 match
@@ -40,7 +40,7 @@ Sierra                201 open,  10 match
 ElevenLabs            128 open,   5 match
 Notion                157 open,   6 match
 Replit                 31 open,   2 match
-Harvey                379 open,   0 match
+Harvey                381 open,   0 match
 Vercel                 87 open,   4 match
 Grafana Labs          144 open,   0 match
 Airtable                9 open,   0 match
@@ -51,7 +51,7 @@ Twilio                125 open,   1 match
 Asana                 107 open,   0 match
 Dropbox                38 open,   0 match
 Reddit                153 open,   8 match
-Elastic               420 open,   0 match
+Elastic               419 open,   0 match
 Lyft                  155 open,   0 match
 Roblox                277 open,   0 match
 LangChain             102 open,   6 match
@@ -79,7 +79,7 @@ Apollo.io              46 open,   0 match
 Anyscale               24 open,   1 match
 Deepgram               66 open,   4 match
 Anthropic             674 open,   9 match
-OpenAI                820 open,  66 match
+OpenAI                821 open,  66 match
 Databricks            913 open,   0 match
 Upstart                80 open,   7 match
 Hippo                  18 open,   0 match
@@ -87,8 +87,8 @@ Zapier                  9 open,   0 match
 Greenhouse Software    19 open,   0 match
 Mastercard            294 open,   0 match
 Adobe                 211 open,   1 match
-NVIDIA                663 open,   0 match
-Salesforce            432 open,   1 match
+NVIDIA                662 open,   0 match
+Salesforce            433 open,   1 match
 Johnson & Johnson     208 open,   0 match
 Merck                  98 open,   0 match
 Bank of America        91 open,   5 match
@@ -99,7 +99,7 @@ Comcast                52 open,   1 match
 Nasdaq                152 open,   1 match
 Zoetis                 15 open,   0 match
 Marsh McLennan        304 open,   0 match
-Guidewire             109 open,   2 match
+Guidewire             111 open,   2 match
 Arch Capital Group     38 open,   0 match
 Nationwide            152 open,   0 match
 Insurify               15 open,   0 match
@@ -130,7 +130,7 @@ DRW                   158 open,   4 match
 Cedar                   1 open,   0 match
 Dataiku                15 open,   0 match
 Thoughtworks           46 open,   0 match
-ServiceNow            789 open,   0 match
+ServiceNow            787 open,   0 match
 Synchrony              23 open,   1 match
 FactSet                63 open,   0 match
 CME Group              21 open,   0 match
