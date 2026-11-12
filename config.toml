@@ -1468,6 +1468,29 @@ slug = "logrocket"
 rating = 4.1
 size = "startup"
 
+# ---- Added Nov 11: found on Workday / Eightfold via direct search ----
+
+[[companies]]
+name = "Morgan Stanley"       # NYC + NJ tech; Associate SWE roles (Java/Spring) ask 1-2 yrs
+ats = "workday"
+slug = "ms/wd5/External"
+rating = 3.9
+size = "large"
+
+[[companies]]
+name = "Etsy"                 # Brooklyn HQ; SWE II roles, many remote-US
+ats = "workday"
+slug = "etsy/wd5/Etsy_Careers"
+rating = 4.0
+size = "large"
+
+[[companies]]
+name = "Siemens"              # Princeton NJ software roles
+ats = "eightfold"
+slug = "jobs.siemens.com|siemens.com"
+rating = 4.1
+size = "large"
+
 # ---- Checked and below the bar (kept so you know why they're excluded; never fetched) ----
 
 [[companies]]

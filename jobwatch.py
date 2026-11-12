@@ -376,7 +376,8 @@ def fetch_smartrecruiters(company: str, slug: str, filters=None, max_pages: int 
 def fetch_eightfold(company: str, slug: str, filters=None, max_details: int = 150) -> list[Job]:
     """slug = 'tenant|domain', e.g. 'aexp|aexp.com' for https://aexp.eightfold.ai/careers?domain=aexp.com"""
     tenant, domain = slug.split("|", 1)
-    base = f"https://{tenant}.eightfold.ai/api/apply/v2/jobs"
+    host = tenant if "." in tenant else f"{tenant}.eightfold.ai"   # some companies use their own domain
+    base = f"https://{host}/api/apply/v2/jobs"
     postings, seen = [], set()
     for query in ("software engineer", "developer", "full stack"):
         start = 0
@@ -402,7 +403,7 @@ def fetch_eightfold(company: str, slug: str, filters=None, max_details: int = 15
             company=company,
             title=(p.get("name") or "").strip(),
             location=loc,
-            url=p.get("canonicalPositionUrl") or f"https://{tenant}.eightfold.ai/careers/job/{p.get('id')}?domain={domain}",
+            url=p.get("canonicalPositionUrl") or f"https://{host}/careers/job/{p.get('id')}?domain={domain}",
             posted=parse_time(p.get("t_create")) if not isinstance(p.get("t_create"), (int, float))
                    else datetime.fromtimestamp(p["t_create"], tz=timezone.utc),
             remote="remote" in wlo or "remote" in loc.lower(),
