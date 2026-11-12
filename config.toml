@@ -1484,13 +1484,6 @@ slug = "etsy/wd5/Etsy_Careers"
 rating = 4.0
 size = "large"
 
-[[companies]]
-name = "Siemens"              # Princeton NJ software roles
-ats = "eightfold"
-slug = "jobs.siemens.com|siemens.com"
-rating = 4.1
-size = "large"
-
 # ---- Checked and below the bar (kept so you know why they're excluded; never fetched) ----
 
 [[companies]]
