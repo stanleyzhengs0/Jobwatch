@@ -1,3 +1,8 @@
+  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 Hebbia                 23 open,   2 match
 Mercury                75 open,   5 match
 Plaid                 143 open,   4 match
@@ -20,7 +25,7 @@ Pinecone                6 open,   1 match
 Hex                    38 open,   4 match
 Linear                 33 open,   1 match
 Temporal               86 open,   4 match
-Supabase               75 open,  10 match
+Supabase               76 open,  10 match
 PostHog                10 open,   0 match
 Cribl                  81 open,   1 match
 LaunchDarkly           40 open,   0 match
@@ -186,12 +191,4 @@ LogRocket               8 open,   0 match
 Morgan Stanley        155 open,   3 match
 Etsy                   22 open,   1 match
 
-1 new match(es)
-  + [large] Morgan Stanley: Equity Derivatives Pricing Platform Engineer | fit 9 | New York, New York, United States of America | $155K–$215K | posted 2d ago
-    https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Equity-Derivatives-Pricing-Platform-Engineer_PT-JR046069  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Siemens: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-
+0 new match(es)

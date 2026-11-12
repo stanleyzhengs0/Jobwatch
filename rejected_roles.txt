@@ -3800,6 +3800,7 @@
   - Senior Machine Learning Engineer | Singapore, Singapore | title excluded: Machine Learning
   - Software Developer | Xi'an, China | location
 ## ServiceNow: 247 engineering roles rejected
+  - Assoc Detection Engineering Intern | Kirkland, Washington, United States, United States | title excluded: Intern
   - Assoc Security Engineering & Automation Intern | Santa Clara, CALIFORNIA, United States, United States | title excluded: Security Engineer
   - Assoc AI Engineering (Cloud Security Automation) Intern | Santa Clara, CALIFORNIA, United States, United States | title excluded: Intern
   - Assoc Information Security Engineer Intern | San Diego, CALIFORNIA, United States, United States | title excluded: Security Engineer
@@ -3842,7 +3843,6 @@
   - Senior Software Engineer | Santa Clara, California, United States, United States | senior title, years not stated
   - Staff AI Agent Engineer | Moveworks | Remote / Des Moines, Iowa, United States, United States | title excluded: Staff
   - Staff Frontend Engineer | Tel Aviv, , Israel, IL | title excluded: Staff
-  - Forward Deployed Solution Engineer – Applied AI FDE | Remote / Atlanta, Georgia, United States, United States | title excluded: Solution Engineer
   - Senior Staff Privacy Engineer - Moveworks | Mountain View, CALIFORNIA, United States, United States | title excluded: Staff
   - Staff Security Engineer | Enterprise Security | Remote / Toronto, Ontario, Canada, CA | title excluded: Staff
   - Staff Security Engineer | Security Engineering | Remote / Toronto, Ontario, Canada, CA | title excluded: Staff
@@ -4446,7 +4446,7 @@
   - Software Engineer Intern | San Francisco Office | title excluded: Intern
   - Head of Field Engineering | San Francisco Office | title excluded: Head of
   - Sales Solutions Engineer - Digital Native | Remote - US | title excluded: Sales
-## Cisco: 358 engineering roles rejected
+## Cisco: 359 engineering roles rejected
   - Leader, Software Engineering | Milpitas, California, US | title excluded: Leader
   - Senior Full-Stack Software Engineer | San Jose, California, US | experience: asks 7+ yrs
   - Senior Forward Deployed Engineer | Washington, District of Columbia, US | experience: asks 6+ yrs
