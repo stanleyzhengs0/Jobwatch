@@ -1,83 +1,59 @@
-# Best resume fits posted in the last 21 days (92 roles), highest fit first
+# Best resume fits posted in the last 21 days (69 roles), highest fit first
 
-- Guidewire: Software Engineer | fit 30 | United States - Exton, PA | $86K–$164K | posted 9d ago
-  https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15376-1
-- Hinge Health: Senior Software Engineer - AI Platform | fit 26 | San Francisco-HQ | $188K–$257K | asks 3+ yrs (stretch: senior title) | posted 17d ago
+- Hinge Health: Senior Software Engineer - AI Platform | fit 26 | San Francisco-HQ | $188K–$257K | asks 3+ yrs (stretch: senior title) | posted 18d ago
   https://jobs.ashbyhq.com/hinge-health/de8d7cf5-6cd2-45ad-9f0b-a8ff1e102600
-- Twilio: Software Engineer (L3) Email | fit 25 | Remote - US | $139K–$173K | asks 4+ yrs | posted 9d ago
+- Twilio: Software Engineer (L3) Email | fit 25 | Remote - US | $139K–$173K | asks 4+ yrs | posted 10d ago
   https://job-boards.greenhouse.io/twilio/jobs/8026199
-- Guidewire: Software Engineer | fit 24 | United States - Exton, PA | $86K–$164K | posted 9d ago
-  https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15373-1
 - Kong: Software Engineer | fit 24 | Toronto, Canada / Washington, United States / California, United States | $118K–$140K | asks 3+ yrs | posted 21d ago
   https://jobs.ashbyhq.com/kong/e75c7ded-f94e-4ee8-9365-794bbd0e0e91
-- JPMorganChase: Full-Stack Java React Software Engineer III | fit 23 | Jersey City, NJ, United States | asks 3+ yrs | posted 40h ago
+- JPMorganChase: Full-Stack Java React Software Engineer III | fit 23 | Jersey City, NJ, United States | asks 3+ yrs | posted 46h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765945
-- Cisco: Software Engineer Full Stack / Backend I (Full Time) - United States | fit 23 | Austin, Texas, US / Houston, Texas, US / Charleston, West Virginia, US / Denver, Colorado, US / Irvine, California, US / Knoxville, Tennessee, US / Nashville, Tennessee, US / Chicago, Illinois, US / Philadelphia, Pennsylvania, US / Phoenix, Arizona, US / Boise, Idaho, US / Carlsbad, California, US / San Diego, California, US / RTP, North Carolina, US / Dallas, Texas, US / Atlanta, Georgia, US / Costa Mesa, California, US / Boca Raton, Florida, US / Miami, Florida, US / Tampa, Florida, US / Plano, Texas, US / Coral Gables, Florida, US / Colorado Springs, Colorado, US | $85K–$114K | asks 1+ yrs | posted 9d ago
-  https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Austin-Texas-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2028784
 - DTCC: Software Engineer - Java Full Stack | fit 23 | Tampa, FL, United States / Dallas, TX, United States / Jersey City, NJ, United States | asks 4+ yrs | posted 15d ago
   https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/213501
-- JPMorganChase: Full-Stack Java React Software Engineer III Business Banking | fit 22 | New York, NY, United States | asks 3+ yrs | posted 40h ago
+- JPMorganChase: Full-Stack Java React Software Engineer III Business Banking | fit 22 | New York, NY, United States | asks 3+ yrs | posted 46h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803265
-- Morgan Stanley: AI Full Stack Engineer (Prime Brokerage Technology) | fit 22 | New York, New York, United States of America | $120K–$170K | asks 4+ yrs | posted 8d ago
-  https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/AI-Full-Stack-Engineer--Prime-Brokerage-Technology-_PT-JR039960
 - Hinge Health: Senior Software Engineer, Full Stack | fit 22 | San Francisco-HQ | $158K–$218K | asks 3+ yrs (stretch: senior title) | posted 17d ago
   https://jobs.ashbyhq.com/hinge-health/5011fad1-6e21-4ed2-be58-5b820e4f9b6f
-- Comcast: Backend Developer | fit 21 | PA - Philadelphia, 1800 Arch St / VA - Reston, 11951 Freedom Dr Ste 900 | $138K–$216K | posted 40h ago
+- Comcast: Backend Developer | fit 21 | PA - Philadelphia, 1800 Arch St / VA - Reston, 11951 Freedom Dr Ste 900 | $138K–$216K | posted 46h ago
   https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Backend-Developer_R448285
-- Disney: Product Software Engineer II | fit 20 | New York, NY, USA | $125K–$167K | asks 3+ yrs | posted 4d ago
-  https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-II_10160173
-- MongoDB: Software Engineer 3 | fit 19 | New York City | $106K–$209K | posted 36h ago
+- MongoDB: Software Engineer 3 | fit 19 | New York City | $106K–$209K | posted 43h ago
   https://www.mongodb.com/careers/job/?gh_jid=8348102
-- Thomson Reuters: Senior Software Engineer - AI, CoCounsel FDE | fit 19 | United States of America, Frisco, Texas / United States of America, New York, New York / United States of America, Washington, District of Columbia / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 3d ago
-  https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Software-Engineer---AI--CoCounsel-FDE_JREQ205154
 - Hinge Health: Senior Software Engineer - Backend | fit 19 | San Francisco-HQ | $157K–$218K | asks 2+ yrs (stretch: senior title) | posted 10d ago
   https://jobs.ashbyhq.com/hinge-health/6945d07e-2d07-47a1-a91c-c7e809ab9cc0
 - Hinge Health: Senior Software Engineer - Backend | fit 19 | San Francisco-HQ | $157K–$218K | asks 2+ yrs (stretch: senior title) | posted 17d ago
   https://jobs.ashbyhq.com/hinge-health/abbd661e-83fa-44f3-9d35-cfe50798de04
-- Thomson Reuters: Senior Software Engineer I | fit 17 | United States of America, Ann Arbor, Michigan / United States of America, Frisco, Texas / United States of America, New York, New York / Canada, Toronto, Ontario | $109K–$203K | asks 2+ yrs (stretch: senior title) | posted 3d ago
-  https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Ann-Arbor-Michigan/Senior-Software-Engineer-I_JREQ202606
 - Hinge Health: Senior Software Engineer - Accounts | fit 17 | San Francisco-HQ | $157K–$218K | asks 3+ yrs (stretch: senior title) | posted 17d ago
   https://jobs.ashbyhq.com/hinge-health/2eb66662-40fc-4554-b8b7-eb15bdadc3e4
 - DTCC: Platform Engineering Senior Associate | fit 17 | Tampa, FL, United States / Dallas, TX, United States / Jersey City, NJ, United States | asks 3+ yrs (stretch: senior title) | posted 17d ago
   https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215117
-- MongoDB: Software Engineer 3 | fit 16 | New York City | $106K–$209K | asks 3+ yrs | posted 37h ago
+- OpenAI: Full Stack Software Engineer, ChatGPT Finances | fit 16 | San Francisco | $347K–$385K | posted 1h ago
+  https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9
+- MongoDB: Software Engineer 3 | fit 16 | New York City | $106K–$209K | asks 3+ yrs | posted 43h ago
   https://www.mongodb.com/careers/job/?gh_jid=8367902
-- MongoDB: Software Engineer 3 | fit 16 | New York City | asks 3+ yrs | posted 37h ago
+- MongoDB: Software Engineer 3 | fit 16 | New York City | asks 3+ yrs | posted 43h ago
   https://www.mongodb.com/careers/job/?gh_jid=8351199
-- Thomson Reuters: Senior Software Engineer – AI, Tax and Audit, FDE | fit 16 | United States of America, New York, New York / United States of America, Frisco, Texas / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 3d ago
-  https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Software-Engineer---AI--Tax-and-Audit--FDE_JREQ204981-2
-- Hinge Health: Senior Software Engineer - Search | fit 16 | San Francisco-HQ | $164K–$217K | asks 3+ yrs (stretch: senior title) | posted 3d ago
+- Hinge Health: Senior Software Engineer - Search | fit 16 | San Francisco-HQ | $164K–$217K | asks 3+ yrs (stretch: senior title) | posted 4d ago
   https://jobs.ashbyhq.com/hinge-health/4d11a165-4f54-4561-80a9-8bc8b3a1d0d0
 - Sentry: Forward Deployed Engineer | fit 15 | San Francisco, California | $175K–$200K | asks 1+ yrs | posted 3d ago
   https://jobs.ashbyhq.com/sentry/9b759583-60d2-4673-9da6-026731956300
 - Blackstone: Software Engineer, Associate - Business Finance Technology | fit 15 | New Jersey | $110K–$170K | asks 3+ yrs | posted 4d ago
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-Jersey/Product-Manager--Associate---Business-Finance-Technology_45207
-- GSK: Engineer II - Forward Deployed Engineer | fit 15 | Cambridge 300 Technology Square / UK – London – New Oxford Street / Philadelphia Walnut Street / Durham Blackwell Street | $131K–$219K | asks 3+ yrs | posted 7d ago
-  https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Cambridge-300-Technology-Square/Engineer-II---Forward-Deployed-Engineer_450884-1
-- CrowdStrike: Engineer III - Cloud (Remote) | fit 15 | USA - Remote | $120K–$185K | posted 11d ago
-  https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Cloud--Remote-_R30482
 - Hinge Health: Senior Software Engineer - Frontend | fit 15 | San Francisco-HQ | $157K–$218K | asks 3+ yrs (stretch: senior title) | posted 16d ago
   https://jobs.ashbyhq.com/hinge-health/1f31b983-ea99-4c4e-ad93-5b406d66d66c
-- Cisco: Senior Software Engineer – Splunk Framework & Runtime Services | fit 13 | Boulder, Colorado, US / Remote - North Dakota, USA / Remote - Montana, USA / Remote - Maine, USA / Remote - New Mexico, USA / Remote - New Hampshire, USA / Remote - Kentucky, USA / Remote - Alabama, USA / Remote - Ohio, USA / Remote - Nebraska, USA / Remote - Louisiana, USA / Remote - South Carolina, USA / Remote - Illinois, USA / Remote - Texas, USA / Remote - Nevada, USA / Remote - Hawaii, USA / Remote - Georgia, USA / Remote - Missouri, USA / Remote - Iowa, USA / Remote - Mississippi, USA / Remote - Connecticut, USA / Remote - Tennessee, USA / Remote - Colorado, USA / Remote - North Carolina, USA / Remote - Minnesota, USA / Remote - Kansas, USA / Remote - Wyoming, USA / Remote - Wisconsin, USA / Remote - West Virginia, USA / Remote - Rhode Island, USA / Remote - Delaware, USA / Remote - Vermont, USA / Remote - Arkansas, USA / Remote - Utah, USA / Remote - Oregon, USA / Remote - South Dakota, USA / Remote - Florida, USA / Remote - Pennsylvania, USA / Remote - Michigan, USA / Remote - Indiana, USA / Remote - Idaho, USA / Remote - Arizona, USA / Remote - Oklahoma, USA | $139K–$204K | asks 1+ yrs (stretch: senior title) | posted 16h ago
-  https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Boulder-Colorado-US/Senior-Software-Engineer---Splunk-Framework---Runtime-Services_2030555-1
-- MongoDB: Software Engineer 3 | fit 13 | New York City | $106K–$209K | asks 3+ yrs | posted 36h ago
+- Perplexity: Member of Technical Staff (Software Engineer, Cybersecurity Products) | fit 14 | San Francisco / Remote (United States) / London / Belgrade / New York City | $220K–$405K | asks 4+ yrs | posted 6h ago
+  https://jobs.ashbyhq.com/Perplexity/b23d83e3-add8-48ea-b16e-65a956d1192c
+- MongoDB: Software Engineer 3 | fit 13 | New York City | $106K–$209K | asks 3+ yrs | posted 43h ago
   https://www.mongodb.com/careers/job/?gh_jid=8366703
-- Cisco: Fullstack Software Engineer | fit 13 | San Jose, California, US | $155K–$223K | asks 3+ yrs | posted 40h ago
-  https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Fullstack-Software-Engineer_2026430
-- OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 44h ago
+- OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 2d ago
   https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e
 - JPMorganChase: Software Engineer III (Java) | fit 13 | Jersey City, NJ, United States | asks 3+ yrs | posted 4d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805882
-- Tailscale: Documentation Platform Engineer | fit 13 | Remote (United States) | $163K–$204K | posted 9d ago
+- Tailscale: Documentation Platform Engineer | fit 13 | Remote (United States) | $163K–$204K | posted 10d ago
   https://job-boards.greenhouse.io/tailscale/jobs/4750594005
 - Hinge Health: Senior Software Engineer, App Enablement | fit 12 | San Francisco-HQ | $158K–$217K | asks 3+ yrs (stretch: senior title) | posted 7d ago
   https://jobs.ashbyhq.com/hinge-health/dce84ed4-ecd9-4700-854c-46ed7051cbdd
 - Perplexity: Member of Technical Staff (GTM Engineer, Growth) | fit 12 | San Francisco / New York City | $180K–$270K | posted 9d ago
   https://jobs.ashbyhq.com/Perplexity/3b523d3a-23bd-4887-8e3c-239d14d66b06
-- Baseten: Software Engineer - Partner Platform | fit 12 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 21d ago
-  https://jobs.ashbyhq.com/baseten/08bededd-d362-453e-b014-384a2003cbf1
-- CrowdStrike: Front End Engineer II (Remote) | fit 11 | USA - Remote, CA | $100K–$150K | posted 16h ago
-  https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Front-End-Engineer-II--Remote-_R30597
 - Celonis: Software Engineer - Infrastructure | fit 11 | Remote, US, Massachusetts | $134K–$158K | asks 2+ yrs | posted 3d ago
   https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003
 - JPMorganChase: Software Engineer II (Java) | fit 11 | Jersey City, NJ, United States | asks 2+ yrs | posted 4d ago
@@ -88,35 +64,59 @@
   https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd
 - Addepar: AI Engineer - AI Platform | fit 11 | New York, NY | $163K–$204K | asks 1+ yrs | posted 17d ago
   https://job-boards.greenhouse.io/addepar1/jobs/8906234002
-- JPMorganChase: Python Software Engineer III | fit 10 | Jersey City, NJ, United States | asks 3+ yrs | posted 16h ago
+- JPMorganChase: Python Software Engineer III | fit 10 | Jersey City, NJ, United States | asks 3+ yrs | posted 22h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778199
-- Motorola Solutions: Command Center Solutions Services (CCSS) Engineering Organization - Software Engineer | fit 10 | Massachusetts Remote Work / Washington DC Remote Work / Virginia Remote Work / New Jersey Remote Work / New York Remote Work / Pennsylvania Remote Work / Connecticut Remote Work / Rhode Island Remote Work | $95K–$105K | asks 2+ yrs | posted 9d ago
-  https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Command-Center-Solutions-Services--CCSS--Engineering-Organization---Software-Engineer_R69567
-- Toast: Software Engineer II, Backend | fit 10 | Remote US | $133K–$213K | asks 2+ yrs | posted 9d ago
+- Toast: Software Engineer II, Backend | fit 10 | Remote US | $133K–$213K | asks 2+ yrs | posted 10d ago
   https://careers.toasttab.com/jobs?gh_jid=8334794
-- ElevenLabs: Full-Stack Engineer (Backend Leaning) - Payments Engineering | fit 10 | Remote / Ireland / Europe / United States / Poland / United Kingdom | posted 10d ago
+- ElevenLabs: Full-Stack Engineer (Backend Leaning) - Payments Engineering | fit 10 | Remote / Ireland / Europe / United States / Poland / United Kingdom | posted 11d ago
   https://jobs.ashbyhq.com/ElevenLabs/e4e0450f-d139-4f8e-b210-2f326a680d90
-- ElevenLabs: Full-Stack Engineer (Backend Leaning) - Platform Engineering | fit 10 | Remote / Ireland / Europe / United States / Poland / United Kingdom | posted 10d ago
+- ElevenLabs: Full-Stack Engineer (Backend Leaning) - Platform Engineering | fit 10 | Remote / Ireland / Europe / United States / Poland / United Kingdom | posted 11d ago
   https://jobs.ashbyhq.com/ElevenLabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0
-- Baseten: Software Engineer - Identity & Authorization | fit 10 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | asks 4+ yrs | posted 21d ago
-  https://jobs.ashbyhq.com/baseten/86331c05-a6b0-4a9f-991d-b46091b696b5
-- Cisco: Senior Software Engineer, Data Pipelines | fit 9 | San Francisco, California, US | $168K–$245K | asks 3+ yrs (stretch: senior title) | posted 40h ago
-  https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Senior-Software-Engineer--Data-Engineering_2022467
-- Morgan Stanley: Equity Derivatives Pricing Platform Engineer | fit 9 | New York, New York, United States of America | $155K–$215K | posted 3d ago
-  https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Equity-Derivatives-Pricing-Platform-Engineer_PT-JR046069
 - JPMorganChase: Software Engineer III (Java/Agentic) | fit 9 | New York, NY, United States | asks 3+ yrs | posted 9d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772476
-- CrowdStrike: Engineer III, OverWatch Labs (Remote) | fit 9 | USA - Remote | $120K–$185K | posted 10d ago
-  https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III--OverWatch-Labs--Remote-_R30760
-- Morgan Stanley: Blockchain Engineer - Software Engineering | fit 9 | New York, New York, United States of America / Menlo Park CA 4500 | $120K–$170K | asks 3+ yrs | posted 18d ago
-  https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Blockchain-Engineer---Software-Engineering_JR046010-1
-- Reddit: Software Engineer, Ad Signals | fit 9 | Remote - United States | $191K–$267K | posted 19d ago
+- Reddit: Software Engineer, Ad Signals | fit 9 | Remote - United States | $191K–$267K | posted 20d ago
   https://job-boards.greenhouse.io/reddit/jobs/8319655
-- Baseten: Software Engineer - Billing & Internal Tooling | fit 9 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 21d ago
-  https://jobs.ashbyhq.com/baseten/34fd4416-49f3-4ef7-b9f8-5883f8d0710c
-- OpenAI: Software Engineer, Identity Infrastructure | fit 9 | San Francisco / New York City / Seattle | $230K–$325K | posted 21d ago
-  https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db
-- JPMorganChase: Software Engineer III - Applied AI | fit 8 | Jersey City, NJ, United States | asks 3+ yrs | posted 16h ago
+- JPMorganChase: Software Engineer III - Applied AI | fit 8 | Jersey City, NJ, United States | asks 3+ yrs | posted 22h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805477
-- JPMorganChase: Python Pyspark Software Engineer III | fit 8 | Jersey City, NJ, United States | asks 3+ yrs | posted 40h ago
+- JPMorganChase: Python Pyspark Software Engineer III | fit 8 | Jersey City, NJ, United States | asks 3+ yrs | posted 46h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799340
+- OpenAI: Software Engineer, Agent Platform | fit 8 | San Francisco | $230K–$385K | posted 8d ago
+  https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004
+- Tailscale: Security Software Engineer | fit 8 | Remote (United States) | $163K–$226K | posted 8d ago
+  https://job-boards.greenhouse.io/tailscale/jobs/4733115005
+- Perplexity: Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | fit 8 | San Francisco / Remote (United States) / Toronto / Seattle / New York City | $250K–$485K | posted 16d ago
+  https://jobs.ashbyhq.com/Perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413
+- Affirm: Software Engineer II - CIAM | fit 8 | Remote US | $165K–$225K | posted 17d ago
+  https://job-boards.greenhouse.io/affirm/jobs/8040751003
+- Celonis: Software Engineer | fit 7 | Remote, US, Massachusetts | $134K–$158K | asks 3+ yrs | posted 3d ago
+  https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003
+- DRW: Software Engineer - Trading Operations | fit 7 | New York City | $120K–$175K | asks 2+ yrs | posted 7d ago
+  https://job-boards.greenhouse.io/drweng/jobs/8359837
+- Samsara: Security Operations Engineer I | fit 7 | Remote - CA | $95K–$144K | posted 7d ago
+  https://www.samsara.com/company/careers/roles/8353283?gh_jid=8353283
+- Tailscale: Front End Engineer | fit 7 | Remote (United States) | $163K–$204K | posted 11d ago
+  https://job-boards.greenhouse.io/tailscale/jobs/4749610005
+- Addepar: Sr. Software Engineer - AI Platform | fit 7 | New York, NY | $188K–$235K | asks 3+ yrs (stretch: senior title) | posted 17d ago
+  https://job-boards.greenhouse.io/addepar1/jobs/8906230002
+- Supabase: Data API Engineer | fit 7 | Remote, Global | asks 3+ yrs | posted 20d ago
+  https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0
+- Mercury: Software Engineer - Mercury Command | fit 7 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | $122K–$176K | asks 1+ yrs | posted 21d ago
+  https://job-boards.greenhouse.io/mercury/jobs/6233238004
+- JPMorganChase: Software Engineer III-Gen AI/RAG/Python | fit 6 | Jersey City, NJ, United States | asks 3+ yrs | posted 22h ago
+  https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808894
+- Notion: Software Engineer, Web Infrastructure | fit 6 | San Francisco, California / New York, New York | $150K–$168K | posted 4d ago
+  https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042
+- OpenAI: Software Engineer, IP Infrastructure | fit 6 | San Francisco | $266K–$405K | asks 4+ yrs | posted 15d ago
+  https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b
+- Addepar: Full Stack Software Engineer - Alts & Data Management | fit 6 | New York, NY | $114K–$178K | asks 1+ yrs | posted 16d ago
+  https://job-boards.greenhouse.io/addepar1/jobs/8912699002
+- Perplexity: Member of Technical Staff, (Software Engineer, Experience) | fit 6 | San Francisco / New York City | $220K–$405K | posted 21d ago
+  https://jobs.ashbyhq.com/Perplexity/06dcd116-2b07-4f40-869e-06ed540f7614
+- Airbnb: Software Engineer, Profile & Community, Web | fit 5 | Remote, USA | $162K–$186K | asks 3+ yrs | posted 4h ago
+  https://careers.airbnb.com/positions/8386065?gh_jid=8386065
+- OpenAI: Founding Full Stack Software Engineer, Consulting | fit 5 | San Francisco | $347K–$445K | posted 8d ago
+  https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696
+- Baseten: Software Engineer - Networking (Agent Infra) | fit 5 | San Francisco / New York | $160K–$330K | posted 17d ago
+  https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae
+- OpenAI: Founding Software Engineer, Physical Engineering | fit 5 | San Francisco | $347K–$445K | posted 18d ago
+  https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783
