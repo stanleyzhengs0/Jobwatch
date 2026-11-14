@@ -1,46 +1,47 @@
   ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Mastercard: HTTP 521
-  ! Adobe: HTTP 521
-  ! NVIDIA: HTTP 521
-  ! Johnson & Johnson: HTTP 521
-  ! Merck: HTTP 521
-  ! Bank of America: HTTP 521
-  ! Fidelity Investments: HTTP 521
-  ! S&P Global: HTTP 521
-  ! Disney: HTTP 521
-  ! Nasdaq: HTTP 521
-  ! Zoetis: HTTP 521
-  ! Marsh McLennan: HTTP 521
-  ! Guidewire: HTTP 521
-  ! Arch Capital Group: HTTP 521
-  ! Nationwide: HTTP 521
-  ! CrowdStrike: HTTP 521
-  ! Motorola Solutions: HTTP 521
-  ! Autodesk: HTTP 521
-  ! Synchrony: HTTP 521
-  ! CME Group: HTTP 521
-  ! Blackstone: HTTP 521
-  ! BD (Becton Dickinson): HTTP 521
-  ! Booz Allen Hamilton: HTTP 521
-  ! Markel: HTTP 521
-  ! Tokio Marine North America Services: HTTP 521
-  ! Philadelphia Insurance Companies: HTTP 521
-  ! AXIS Capital: HTTP 521
-  ! Northwestern Mutual: HTTP 521
-  ! Cisco: HTTP 521
-  ! Red Hat: HTTP 521
-  ! Hewlett Packard Enterprise: HTTP 521
-  ! Thomson Reuters: HTTP 521
-  ! Organon: HTTP 521
-  ! GSK: HTTP 521
-  ! Broadridge: HTTP 521
-  ! DraftKings: HTTP 521
+  ! Mastercard: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Adobe: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! NVIDIA: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Johnson & Johnson: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Merck: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Bank of America: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Fidelity Investments: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! S&P Global: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Disney: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Nasdaq: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Zoetis: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Marsh McLennan: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Guidewire: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Arch Capital Group: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Nationwide: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! CrowdStrike: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Motorola Solutions: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Autodesk: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Synchrony: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! CME Group: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Blackstone: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Novartis: HTTP 401
+  ! BD (Becton Dickinson): JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Booz Allen Hamilton: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Markel: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Tokio Marine North America Services: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Philadelphia Insurance Companies: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! AXIS Capital: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Northwestern Mutual: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Cisco: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Red Hat: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Hewlett Packard Enterprise: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Thomson Reuters: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Organon: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! GSK: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Broadridge: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! DraftKings: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
   ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Morgan Stanley: HTTP 521
-  ! Etsy: HTTP 521
+  ! Morgan Stanley: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  ! Etsy: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 Hebbia                 23 open,   2 match
 Mercury                79 open,   5 match
 Plaid                 142 open,   4 match
@@ -50,10 +51,10 @@ Braze                 345 open,   1 match
 Datadog               384 open,   0 match
 MongoDB               391 open,   5 match
 Affirm                217 open,  11 match
-Spotify                85 open,   1 match
+Spotify                87 open,   1 match
 Toast                 355 open,   1 match
 Alloy                  32 open,   0 match
-Clay                   59 open,   4 match
+Clay                   60 open,   4 match
 Paxos                  24 open,   0 match
 iCapital              225 open,   0 match
 Bluevine                6 open,   0 match
@@ -67,7 +68,7 @@ Supabase               77 open,  10 match
 PostHog                10 open,   0 match
 Cribl                  77 open,   1 match
 LaunchDarkly           38 open,   0 match
-Ethos                  75 open,   0 match
+Ethos                  74 open,   0 match
 Openly                  6 open,   0 match
 At-Bay                 31 open,   0 match
 Wealthfront            21 open,   2 match
@@ -84,7 +85,7 @@ Grafana Labs          140 open,   0 match
 Airtable                9 open,   0 match
 Hinge Health           83 open,  11 match
 Airbnb                214 open,   1 match
-Samsara               313 open,   6 match
+Samsara               314 open,   6 match
 Twilio                115 open,   1 match
 Asana                 109 open,   0 match
 Dropbox                44 open,   0 match
@@ -92,7 +93,7 @@ Reddit                145 open,   8 match
 Elastic               400 open,   0 match
 Lyft                  148 open,   0 match
 Roblox                271 open,   0 match
-LangChain             100 open,   6 match
+LangChain              99 open,   6 match
 Abridge                24 open,   0 match
 Fetch Pet Insurance    56 open,   0 match
 Runway                  3 open,   0 match
@@ -102,7 +103,7 @@ Public.com              3 open,   0 match
 Baseten               102 open,  24 match
 Fireworks AI          100 open,   8 match
 Together AI            80 open,   0 match
-Cognition             114 open,   7 match
+Cognition             112 open,   7 match
 Decagon               124 open,   0 match
 Suno                   63 open,   0 match
 Exa                    67 open,   1 match
@@ -116,7 +117,7 @@ Cresta                 88 open,   1 match
 Apollo.io              44 open,   0 match
 Anyscale               24 open,   1 match
 Deepgram               64 open,   2 match
-Anthropic             668 open,   9 match
+Anthropic             670 open,   9 match
 OpenAI                838 open,  66 match
 Databricks            896 open,   1 match
 Upstart                77 open,   6 match
@@ -133,14 +134,14 @@ The Trade Desk         98 open,   0 match
 Moloco                 50 open,   0 match
 EliseAI               110 open,   4 match
 Hightouch              83 open,   8 match
-Celonis               264 open,   3 match
+Celonis               265 open,   3 match
 Box                   148 open,   0 match
 The New York Times    168 open,   2 match
 Hudl                   44 open,   0 match
 Everlaw                34 open,   0 match
 Grow Therapy           31 open,   0 match
 Doximity               13 open,   0 match
-Thumbtack              41 open,   0 match
+Thumbtack              42 open,   0 match
 Point72               200 open,   1 match
 Jump Trading           92 open,   0 match
 Fora Travel            34 open,   0 match
@@ -150,10 +151,9 @@ DRW                   159 open,   4 match
 Cedar                   1 open,   0 match
 Dataiku                14 open,   0 match
 Thoughtworks           47 open,   0 match
-ServiceNow            820 open,   0 match
+ServiceNow            818 open,   0 match
 FactSet                62 open,   0 match
-Sanofi                 75 open,   0 match
-Novartis              239 open,   0 match
+Sanofi                 74 open,   0 match
 Qualcomm                0 open,   0 match
 Ladder                  3 open,   0 match
 Hudson River Trading   83 open,   7 match
@@ -173,10 +173,10 @@ Watershed              40 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             20 open,   0 match
 Semgrep                14 open,   0 match
-Bayer                  44 open,   0 match
-DTCC                  333 open,   3 match
-JPMorganChase         485 open,   8 match
-Barclays              235 open,   0 match
+Bayer                  42 open,   0 match
+DTCC                  334 open,   3 match
+JPMorganChase         485 open,   9 match
+Barclays              234 open,   0 match
 Nokia                 367 open,   0 match
 Jefferies             135 open,   2 match
 Jefferies             239 open,   0 match
@@ -191,6 +191,4 @@ Harness                67 open,   1 match
 Warp                    5 open,   1 match
 LogRocket               8 open,   0 match
 
-1 new match(es)
-  + [growth] Baseten: Software Engineer, Cloud Platform | fit 9 | San Francisco / Remote / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 1h ago
-    https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0
+0 new match(es)
