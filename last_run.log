@@ -1,3 +1,8 @@
+  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 Hebbia                 23 open,   2 match
 Mercury                79 open,   5 match
 Plaid                 142 open,   4 match
@@ -35,7 +40,7 @@ Sierra                198 open,  10 match
 ElevenLabs            128 open,   5 match
 Notion                166 open,   6 match
 Replit                 30 open,   1 match
-Harvey                387 open,   0 match
+Harvey                388 open,   0 match
 Vercel                 86 open,   4 match
 Grafana Labs          140 open,   0 match
 Airtable                9 open,   0 match
@@ -73,26 +78,27 @@ Cresta                 88 open,   1 match
 Apollo.io              44 open,   0 match
 Anyscale               24 open,   1 match
 Deepgram               64 open,   2 match
-Anthropic             669 open,   9 match
+Anthropic             670 open,   9 match
 OpenAI                839 open,  66 match
 Databricks            896 open,   1 match
 Upstart                77 open,   6 match
 Hippo                  17 open,   0 match
 Zapier                 10 open,   0 match
 Greenhouse Software    20 open,   0 match
-Mastercard            285 open,   0 match
-Adobe                 210 open,   1 match
-NVIDIA                662 open,   0 match
+Mastercard            284 open,   0 match
+Adobe                 209 open,   1 match
+NVIDIA                663 open,   0 match
 Salesforce            429 open,   0 match
-Johnson & Johnson     192 open,   0 match
-Merck                 100 open,   0 match
+Johnson & Johnson     193 open,   0 match
+Merck                  99 open,   0 match
 Bank of America        83 open,   4 match
 Fidelity Investments  167 open,   0 match
 S&P Global            225 open,   0 match
 Disney                  9 open,   1 match
-Comcast                53 open,   2 match
+Comcast                52 open,   2 match
 Nasdaq                162 open,   1 match
 Zoetis                 10 open,   0 match
+Marsh McLennan        307 open,   0 match
 Guidewire             111 open,   2 match
 Arch Capital Group     39 open,   0 match
 Nationwide            139 open,   1 match
@@ -129,8 +135,8 @@ Synchrony              22 open,   0 match
 FactSet                62 open,   0 match
 CME Group              23 open,   0 match
 Blackstone             27 open,   4 match
-Sanofi                 74 open,   0 match
-Novartis              239 open,   0 match
+Sanofi                 72 open,   0 match
+Novartis              238 open,   0 match
 BD (Becton Dickinson)  292 open,   2 match
 Qualcomm                0 open,   0 match
 Booz Allen Hamilton   400 open,   1 match
@@ -159,17 +165,18 @@ Astronomer             20 open,   0 match
 Semgrep                14 open,   0 match
 Cisco                 458 open,   4 match
 Red Hat                92 open,   0 match
+Hewlett Packard Enterprise  435 open,   0 match
 Thomson Reuters       219 open,   4 match
 Organon                 1 open,   0 match
-GSK                   109 open,   2 match
+GSK                   104 open,   2 match
 Bayer                  42 open,   0 match
 DTCC                  333 open,   3 match
-JPMorganChase         485 open,   9 match
-Barclays              234 open,   0 match
+JPMorganChase         485 open,  11 match
+Barclays              233 open,   0 match
 Nokia                 367 open,   0 match
 Jefferies             135 open,   2 match
 Jefferies             239 open,   0 match
-Broadridge            211 open,   3 match
+Broadridge            210 open,   3 match
 DraftKings             18 open,   0 match
 FanDuel                97 open,   0 match
 Nourish                94 open,   2 match
@@ -184,15 +191,4 @@ LogRocket               8 open,   0 match
 Morgan Stanley        158 open,   3 match
 Etsy                   22 open,   1 match
 
-2 new match(es)
-  + [large] Thomson Reuters: Legal AI Engineer, Strategic Accounts - Mid Law | fit 13 | United States of America, Eagan, Minnesota / United States of America, New York, New York / United States of America, Ann Arbor, Michigan / United States of America, Los Angeles, California / United States of America, Frisco, Texas / United States of America, Chicago, Illinois / United States of America, Washington, District of Columbia | $256K–$474K | posted 41h ago
-    https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer--Strategic-Accounts---Mid-Law_JREQ205322  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Marsh McLennan: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Hewlett Packard Enterprise: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-
-  + [large] BD (Becton Dickinson): Senior Engineer, Combination Products | fit 8 | USA NJ Branchburg | $87K–$140K | asks 2+ yrs (stretch: senior title) | posted 41h ago
-    https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ-Branchburg/Combination-Products-Senior-Engineer_R-553015-1
+0 new match(es)
