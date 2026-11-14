@@ -6,7 +6,7 @@
   https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea
 - [startup] Render: Software Engineer, Dev Velocity (all levels) | fit 10 | Remote: United States / Remote: Canada | $170K–$290K | posted 142d ago
   https://jobs.ashbyhq.com/render/a3f88090-5e37-43a7-b392-04b02056db6d
-- [startup] Warp: Software Engineer | fit 9 | Remote within US and Canada | $165K–$260K | posted 1745d ago
+- [startup] Warp: Software Engineer | fit 9 | Remote within US and Canada | $165K–$260K | posted 1746d ago
   https://job-boards.greenhouse.io/warp/jobs/4324888004
 - [startup] Middesk: Forward Deployed Engineer | fit 12 | San Francisco / New York | $148K–$255K | asks 3+ yrs | posted 191d ago
   https://jobs.ashbyhq.com/middesk/a72b1048-1001-49b1-92bd-9c44574f939b
@@ -26,23 +26,25 @@
   https://jobs.ashbyhq.com/hightouch-inc/3a95437d-4ae5-457d-b4ed-43982280c6e2
 - [growth] Hightouch: Software Engineer, AI Agents | fit 2 | Remote (North America) | $180K–$400K | posted 379d ago
   https://jobs.ashbyhq.com/hightouch-inc/83b879e6-628e-41b4-a601-191e2dc69a54
-- [growth] Hightouch: Software Engineer, Distributed Systems | fit 4 | Remote (North America) | $180K–$400K | posted 1387d ago
+- [growth] Hightouch: Software Engineer, Distributed Systems | fit 4 | Remote (North America) | $180K–$400K | posted 1388d ago
   https://jobs.ashbyhq.com/hightouch-inc/165e1d03-8765-41d6-98ca-fa3e1f5a7e58
 - [growth] Hightouch: Full Stack Product Engineer | fit 9 | Remote (North America) | $180K–$400K | posted 1556d ago
   https://jobs.ashbyhq.com/hightouch-inc/a287cb33-e488-4395-acde-afa0eca9655b
 - [growth] Baseten: Forward Deployed Engineer (Training) | fit 8 | San Francisco / New York | $200K–$400K | asks 1+ yrs | posted 86d ago
   https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720
-- [growth] Baseten: Software Engineer - Inference Platform | fit 14 | San Francisco / Toronto / New York / Montreal / Seattle | $180K–$360K | posted 38d ago
+- [growth] Baseten: Software Engineer - Inference Platform | fit 14 | San Francisco / Toronto / New York / Montreal / Seattle | $180K–$360K | posted 39d ago
   https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456
-- [growth] Baseten: Software Engineer - Inference Performance | fit 8 | San Francisco / Toronto / New York / Montreal / Seattle | $180K–$360K | posted 38d ago
+- [growth] Baseten: Software Engineer - Inference Performance | fit 8 | San Francisco / Toronto / New York / Montreal / Seattle | $180K–$360K | posted 39d ago
   https://jobs.ashbyhq.com/baseten/7cb19a05-8e5b-44cf-b3e7-19949e2eff04
-- [growth] Baseten: Software Engineer - GPU Kernels | fit 6 | San Francisco / Toronto / New York / Montreal / Seattle | $180K–$360K | posted 483d ago
+- [growth] Baseten: Software Engineer - GPU Kernels | fit 6 | San Francisco / Toronto / New York / Montreal / Seattle | $180K–$360K | posted 484d ago
   https://jobs.ashbyhq.com/baseten/ddb5bc98-6116-49a2-802e-1c05398663f1
-- [growth] Baseten: Software Engineer - Storage Systems (Agent Infra) | fit 3 | San Francisco / New York | $160K–$330K | posted 17d ago
+- [growth] Baseten: Software Engineer, Cloud Platform | fit 9 | San Francisco / Remote / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 1h ago
+  https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0
+- [growth] Baseten: Software Engineer - Storage Systems (Agent Infra) | fit 3 | San Francisco / New York | $160K–$330K | posted 18d ago
   https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d
-- [growth] Baseten: Software Engineer - Networking (Agent Infra) | fit 5 | San Francisco / New York | $160K–$330K | posted 17d ago
+- [growth] Baseten: Software Engineer - Networking (Agent Infra) | fit 5 | San Francisco / New York | $160K–$330K | posted 18d ago
   https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae
-- [growth] Baseten: Software Engineer - Compute & Isolation | fit 3 | San Francisco / New York | $165K–$330K | posted 17d ago
+- [growth] Baseten: Software Engineer - Compute & Isolation | fit 3 | San Francisco / New York | $165K–$330K | posted 18d ago
   https://jobs.ashbyhq.com/baseten/7c0ba27d-2f09-42f2-9277-1b756076b00b
 - [growth] Baseten: Software Engineer - Partner Platform | fit 12 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 22d ago
   https://jobs.ashbyhq.com/baseten/08bededd-d362-453e-b014-384a2003cbf1
@@ -50,7 +52,7 @@
   https://jobs.ashbyhq.com/baseten/34fd4416-49f3-4ef7-b9f8-5883f8d0710c
 - [growth] Baseten: Software Engineer - Identity & Authorization | fit 10 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | asks 4+ yrs | posted 22d ago
   https://jobs.ashbyhq.com/baseten/86331c05-a6b0-4a9f-991d-b46091b696b5
-- [growth] Baseten: Product Platform - Product Engineer | fit 8 | San Francisco / New York / Seattle | $165K–$330K | posted 22d ago
+- [growth] Baseten: Product Platform - Product Engineer | fit 8 | San Francisco / New York / Seattle | $165K–$330K | posted 23d ago
   https://jobs.ashbyhq.com/baseten/7428d7cc-36d7-4d02-b19a-bd558fba6751
 - [growth] Baseten: Software Engineer - AI Developer Productivity | fit 9 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | asks 4+ yrs | posted 94d ago
   https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1
@@ -60,15 +62,15 @@
   https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce
 - [growth] Baseten: Software Engineer - Observability | fit 10 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 95d ago
   https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda
-- [growth] Baseten: Software Engineer - Voice AI (Inference Runtime) | fit 11 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 203d ago
+- [growth] Baseten: Software Engineer - Voice AI (Inference Runtime) | fit 11 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 204d ago
   https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2
 - [growth] Baseten: Software Engineer - GPU Networking & Distributed Systems | fit 7 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 263d ago
   https://jobs.ashbyhq.com/baseten/1f7d7fda-5540-4205-890b-cdbf774f0814
-- [growth] Baseten: Software Engineer - Model Performance Systems | fit 9 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 310d ago
+- [growth] Baseten: Software Engineer - Model Performance Systems | fit 9 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 311d ago
   https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f
 - [growth] Baseten: Cloud Platform Engineer | fit 11 | San Francisco / Remote / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 400d ago
   https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392
-- [growth] Baseten: Software Engineer - Infrastructure | fit 12 | San Francisco / Remote / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 613d ago
+- [growth] Baseten: Software Engineer - Infrastructure | fit 12 | San Francisco / Remote / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 614d ago
   https://jobs.ashbyhq.com/baseten/ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7
 - [growth] Baseten: Software Engineer - Dedicated Inference | fit 12 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 857d ago
   https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde
@@ -76,7 +78,7 @@
   https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e
 - [growth] Fireworks AI: Member of Technical Staff, AI Training Infrastructure | fit 7 | San Mateo / Greater Seattle Area / New York / San Francisco | $210K–$320K | asks 3+ yrs | posted 105d ago
   https://jobs.ashbyhq.com/fireworks/a2850702-dea3-4e2c-a3ec-7ae257d36eb7
-- [growth] Fireworks AI: Member of Technical Staff, Evals Platform | fit 2 | San Mateo | $210K–$320K | asks 1+ yrs | posted 378d ago
+- [growth] Fireworks AI: Member of Technical Staff, Evals Platform | fit 2 | San Mateo | $210K–$320K | asks 1+ yrs | posted 379d ago
   https://jobs.ashbyhq.com/fireworks/cca38fd5-9cbd-4cee-8fdb-d6e6d230b036
 - [growth] LangChain: Deployed Engineer (NYC) | fit 7 | New York, NY | $185K–$315K | posted 35d ago
   https://jobs.ashbyhq.com/langchain/25d40647-c821-46ff-bf25-bacf21fa38b5
@@ -84,7 +86,7 @@
   https://jobs.ashbyhq.com/Rogo/fd7cecdb-5ae4-494f-a2e1-fd310398efaf
 - [growth] Rogo: Software Engineer: Platform | New York City | $250K–$315K | posted 53d ago
   https://jobs.ashbyhq.com/Rogo/04777127-53d6-49cb-9372-4332280857a1
-- [growth] Clay: Software Engineer, Applied AI | fit 16 | New York | $170K–$300K | posted 90d ago
+- [growth] Clay: Software Engineer, Applied AI | fit 16 | New York | $170K–$300K | posted 91d ago
   https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1
 - [growth] Clay: Software Engineer, Full Stack (Frontend Leaning) | fit 18 | New York | $170K–$300K | asks 4+ yrs | posted 91d ago
   https://jobs.ashbyhq.com/claylabs/4b20eb92-c27c-46fb-8d5b-ead32765a7d8
@@ -92,25 +94,25 @@
   https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874
 - [growth] LangChain: Deployed Engineer (Federal) | fit 10 | Washington DC | $185K–$300K | posted 35d ago
   https://jobs.ashbyhq.com/langchain/6eecbcda-d94f-4700-b8c7-ce54cb212290
-- [growth] LangChain: Deployed Engineer (Chicago) | fit 10 | Chicago, IL | $200K–$300K | posted 99d ago
+- [growth] LangChain: Deployed Engineer (Chicago) | fit 10 | Chicago, IL | $200K–$300K | posted 100d ago
   https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e
 - [growth] Hudson River Trading: Software Engineer (C++ or Python) – 2027 Grads | fit -2 | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore | $300K | posted 123d ago
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122
-- [growth] Tower Research Capital: Software Engineer, GPU Fleet | fit 5 | New York | $200K–$300K | asks 2+ yrs | posted 94d ago
+- [growth] Tower Research Capital: Software Engineer, GPU Fleet | fit 5 | New York | $200K–$300K | asks 2+ yrs | posted 95d ago
   https://www.tower-research.com/open-positions/?gh_jid=8099779
 - [growth] Cognition: Software Engineer, Infrastructure | fit 7 | San Francisco / New York City | $260K–$300K | posted 99d ago
   https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec
 - [growth] Cognition: Software Engineer | fit 4 | San Francisco / New York City | $260K–$300K | posted 99d ago
   https://jobs.ashbyhq.com/cognition/e8086415-62bc-4cc0-96a4-84bb56182d35
-- [growth] EliseAI: Senior Software Engineer | fit 18 | New York City | $240K–$300K | asks 1+ yrs (stretch: senior title) | posted 510d ago
+- [growth] EliseAI: Senior Software Engineer | fit 18 | New York City | $240K–$300K | asks 1+ yrs (stretch: senior title) | posted 511d ago
   https://jobs.ashbyhq.com/EliseAI/3e8782a8-f397-413d-8939-ab5e4913d954
-- [growth] EliseAI: Founding Software Engineer | Healthcare | fit 18 | New York City | $240K–$300K | asks 1+ yrs | posted 510d ago
+- [growth] EliseAI: Founding Software Engineer | Healthcare | fit 18 | New York City | $240K–$300K | asks 1+ yrs | posted 511d ago
   https://jobs.ashbyhq.com/EliseAI/6b756f91-4355-49af-901b-77d3b62d656a
 - [growth] Hex: Software Engineer, Fullstack | fit 10 | San Francisco / New York | $199K–$295K | asks 4+ yrs | posted 267d ago
   https://jobs.ashbyhq.com/hex/996c38fd-0a7a-4df9-a5c3-4234b20b7b71
 - [growth] Hex: Software Engineer, AI Agent | fit 13 | San Francisco / New York | $199K–$295K | asks 4+ yrs | posted 267d ago
   https://jobs.ashbyhq.com/hex/f5e3e677-5fdb-4012-badb-1b709ed37e11
-- [growth] Fireworks AI: Member of Technical Staff, Developer Experience | fit 11 | San Mateo | $200K–$290K | posted 36d ago
+- [growth] Fireworks AI: Member of Technical Staff, Developer Experience | fit 11 | San Mateo | $200K–$290K | posted 37d ago
   https://jobs.ashbyhq.com/fireworks/307c8122-b318-47af-b913-bcdb5d264685
 - [growth] Fireworks AI: Member of Technical Staff, AI Infrastructure Reliability | San Mateo / New York | $200K–$290K | posted 88d ago
   https://jobs.ashbyhq.com/fireworks/ff11ca2c-d95f-4802-8370-09c2cf394842
@@ -118,13 +120,13 @@
   https://jobs.ashbyhq.com/hex/b3921203-d928-40ac-9675-a58a9cdbaafa
 - [growth] Tower Research Capital: Software Engineer, Trading Systems (C++) | fit -4 | New York | $120K–$285K | posted 161d ago
   https://www.tower-research.com/open-positions/?gh_jid=7985905
-- [growth] Cognition: Forward Deployed Engineer - Federal | fit 10 | Washington DC / San Francisco | $180K–$280K | posted 290d ago
+- [growth] Cognition: Forward Deployed Engineer - Federal | fit 10 | Washington DC / San Francisco | $180K–$280K | posted 291d ago
   https://jobs.ashbyhq.com/cognition/f1430967-f367-4afe-9107-e58da423633c
 - [growth] Rogo: Software Engineer: Factory Team | fit 14 | New York City | $200K–$275K | asks 2+ yrs | posted 69d ago
   https://jobs.ashbyhq.com/Rogo/cb7ea008-687b-4689-a185-1df249e5e939
 - [growth] WorkOS: Applied AI Engineer | fit 9 | United States & Canada | $175K–$275K | posted 259d ago
   https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b
-- [growth] Fireworks AI: Member of Technical Staff, Data | fit 2 | San Mateo | $180K–$270K | posted 55d ago
+- [growth] Fireworks AI: Member of Technical Staff, Data | fit 2 | San Mateo | $180K–$270K | posted 56d ago
   https://jobs.ashbyhq.com/fireworks/85486dc8-023f-4a82-9cdb-8394bbfcf1ab
 - [growth] Glean: Founding Forward Deployed Engineer | fit 5 | New York, NY | $160K–$270K | posted 277d ago
   https://job-boards.greenhouse.io/gleanwork/jobs/4659412005
@@ -132,7 +134,7 @@
   https://job-boards.greenhouse.io/gleanwork/jobs/4651991005
 - [growth] EliseAI: Founding Senior Software Engineer (Full Stack) | Healthcare | fit 13 | New York City | $230K–$270K | asks 2+ yrs (stretch: senior title) | posted 472d ago
   https://jobs.ashbyhq.com/EliseAI/d9178355-392e-4197-811f-32a1f9c2887e
-- [growth] EliseAI: Senior Software Engineer (Full Stack) | fit 13 | New York City / San Francisco | $230K–$270K | asks 2+ yrs (stretch: senior title) | posted 510d ago
+- [growth] EliseAI: Senior Software Engineer (Full Stack) | fit 13 | New York City / San Francisco | $230K–$270K | asks 2+ yrs (stretch: senior title) | posted 511d ago
   https://jobs.ashbyhq.com/EliseAI/bd740e67-b145-46f0-b1f0-0a13610365dc
 - [growth] Hex: Software Engineer, Developer Velocity | fit 17 | Remote - US / San Francisco / New York | $199K–$265K | posted 277d ago
   https://jobs.ashbyhq.com/hex/3477e108-195c-414a-a16b-23a6356d1b09
@@ -144,7 +146,7 @@
   https://jobs.ashbyhq.com/langchain/d7454c6d-7025-4e46-befc-e23bedd8f452
 - [growth] Tailscale: Forward Deployed Engineer | fit 8 | Remote (United States) | $150K–$250K | asks 2+ yrs | posted 88d ago
   https://job-boards.greenhouse.io/tailscale/jobs/4724897005
-- [growth] Kalshi: Software Engineer, Trading Platform | fit 8 | New York, New York, United States | $100K–$250K | asks 4+ yrs | posted 485d ago
+- [growth] Kalshi: Software Engineer, Trading Platform | fit 8 | New York, New York, United States | $100K–$250K | asks 4+ yrs | posted 486d ago
   https://job-boards.greenhouse.io/kalshi/jobs/6650541003
 - [growth] Kalshi: Software Engineer, Growth | fit 8 | New York, New York, United States | $120K–$250K | asks 3+ yrs | posted 659d ago
   https://job-boards.greenhouse.io/kalshi/jobs/6335667003
@@ -152,9 +154,9 @@
   https://job-boards.greenhouse.io/kalshi/jobs/6089733003
 - [growth] PDT Partners: Software Engineer | fit 1 | New York, NY | $180K–$250K | asks 3+ yrs | posted 1736d ago
   https://job-boards.greenhouse.io/pdtpartners/jobs/3914106
-- [growth] Kalshi: Software Engineer, Product | fit 11 | New York, New York, United States | $100K–$250K | posted 2126d ago
+- [growth] Kalshi: Software Engineer, Product | fit 11 | New York, New York, United States | $100K–$250K | posted 2127d ago
   https://job-boards.greenhouse.io/kalshi/jobs/4327952003
-- [growth] Tower Research Capital: Software Engineer, Machine Lifecycle | fit 4 | New York | $150K–$250K | posted 94d ago
+- [growth] Tower Research Capital: Software Engineer, Machine Lifecycle | fit 4 | New York | $150K–$250K | posted 95d ago
   https://www.tower-research.com/open-positions/?gh_jid=8099782
 - [growth] Linear: Product Engineer | fit 14 | North America | $174K–$245K | asks 2+ yrs | posted 157d ago
   https://jobs.ashbyhq.com/linear/0c7c2e26-0a98-42cf-a47c-9a3999fb513b
@@ -170,7 +172,7 @@
   https://job-boards.greenhouse.io/addepar1/jobs/8879314002
 - [growth] Temporal: Senior Software Engineer, Nexus Server | fit 11 | Seattle, Washington / San Francisco, California | $141K–$231K | asks 2+ yrs (stretch: senior title) | posted 37d ago
   https://jobs.ashbyhq.com/temporal/15bf95f9-4589-42cf-b853-1f624aef77f2
-- [growth] Clay: Software Engineer, GTM Ops | fit 11 | New York | $160K–$230K | asks 4+ yrs | posted 49d ago
+- [growth] Clay: Software Engineer, GTM Ops | fit 11 | New York | $160K–$230K | asks 4+ yrs | posted 50d ago
   https://jobs.ashbyhq.com/claylabs/8a031b6a-a5b9-4ae1-a10c-364fc5427431
 - [growth] Plaid: Software Engineer, Backend | fit 4 | New York City Office | $176K–$227K | asks 2+ yrs | posted 193d ago
   https://jobs.ashbyhq.com/plaid/7e10c0b5-a09a-4e07-aaa8-899a7f82a0c9
@@ -212,11 +214,11 @@
   https://job-boards.greenhouse.io/addepar1/jobs/8906234002
 - [growth] Addepar: Software Engineer - Customer Facing Applied AI | fit 14 | Remote, USA | $163K–$204K | asks 2+ yrs | posted 29d ago
   https://job-boards.greenhouse.io/addepar1/jobs/8879308002
-- [growth] Sentry: Forward Deployed Engineer | fit 15 | San Francisco, California | $175K–$200K | asks 1+ yrs | posted 3d ago
+- [growth] Sentry: Forward Deployed Engineer | fit 15 | San Francisco, California | $175K–$200K | asks 1+ yrs | posted 4d ago
   https://jobs.ashbyhq.com/sentry/9b759583-60d2-4673-9da6-026731956300
 - [growth] Harness: Forward Deployed Engineer (Implementation Engineering) | fit 12 | Chicago, Illinois, United States; New York, New York, United States; San Francisco, California, United States | $170K–$200K | posted 49d ago
   https://www.harness.io/company/jobs/apply?gh_jid=5249738007&gh_jid=5249738007
-- [growth] LangChain: Frontend Engineer, AI Observability & Evals Platform | fit 8 | San Francisco, CA / Boston, MA / New York, NY | $160K–$195K | asks 2+ yrs | posted 93d ago
+- [growth] LangChain: Frontend Engineer, AI Observability & Evals Platform | fit 8 | San Francisco, CA / Boston, MA / New York, NY | $160K–$195K | asks 2+ yrs | posted 94d ago
   https://jobs.ashbyhq.com/langchain/f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c
 - [growth] Temporal: Software Engineer II, Cloud Applications | fit 5 | United States (Remote) | $118K–$194K | asks 3+ yrs | posted 18d ago
   https://jobs.ashbyhq.com/temporal/e3d7f035-7946-469f-84cf-e1c775bf25e8
@@ -224,7 +226,7 @@
   https://jobs.ashbyhq.com/temporal/81cc8698-59f8-418a-85fd-1fc154b33ee4
 - [growth] Temporal: Software Engineer II, Cloud Enablement | fit 6 | United States (Remote) / Seattle, Washington / San Francisco, California | $118K–$194K | asks 3+ yrs | posted 56d ago
   https://jobs.ashbyhq.com/temporal/7b63cf37-2bdb-462c-858c-473167563623
-- [growth] Deepgram: Forward-Deployed Engineer (FDE), Strategic Accounts | fit 11 | San Francisco, CA / New York City, NY | $155K–$193K | posted 83d ago
+- [growth] Deepgram: Forward-Deployed Engineer (FDE), Strategic Accounts | fit 11 | San Francisco, CA / New York City, NY | $155K–$193K | posted 84d ago
   https://jobs.ashbyhq.com/Deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621
 - [growth] Baseten: AI Engineer | fit 13 | San Francisco | $175K–$190K | asks 3+ yrs | posted 64d ago
   https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616
@@ -250,7 +252,7 @@
   https://job-boards.greenhouse.io/chainguard/jobs/4723523006
 - [growth] Kong: Software Engineer | fit 24 | Toronto, Canada / Washington, United States / California, United States | $118K–$140K | asks 3+ yrs | posted 21d ago
   https://jobs.ashbyhq.com/kong/e75c7ded-f94e-4ee8-9365-794bbd0e0e91
-- [growth] Persona: Field Product Engineer | fit 9 | San Francisco | $100K–$110K | posted 24d ago
+- [growth] Persona: Field Product Engineer | fit 9 | San Francisco | $100K–$110K | posted 25d ago
   https://jobs.ashbyhq.com/persona/fe95a1b5-de1a-4b7f-9637-eeddc4c31b1d
 - [growth] Supabase: Data API Engineer | fit 7 | Remote, Global | asks 3+ yrs | posted 20d ago
   https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0
@@ -278,9 +280,9 @@
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=8234195
 - [growth] Hudson River Trading: Software Engineer - GPU reliability | fit 7 | New York, NY, United States | asks 2+ yrs | posted 274d ago
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=7610947
-- [growth] Hudson River Trading: Software Engineer - Python | fit 3 | Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States | posted 283d ago
+- [growth] Hudson River Trading: Software Engineer - Python | fit 3 | Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States | posted 284d ago
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013
-- [growth] Hudson River Trading: Software Engineer – C++ | fit -3 | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States | asks 1+ yrs | posted 365d ago
+- [growth] Hudson River Trading: Software Engineer – C++ | fit -3 | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States | asks 1+ yrs | posted 366d ago
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=7392942
 - [growth] Hudson River Trading: Software Engineer - Distributed Compute | London, United Kingdom; New York, NY, United States | posted 588d ago
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703954
@@ -292,11 +294,11 @@
   https://jobs.ashbyhq.com/Watershed/275cb3f7-f6f0-4b1e-a9ea-7b377934606c
 - [growth] Cognition: Product Engineer | fit 7 | San Francisco / New York City | posted 99d ago
   https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6
-- [growth] Cognition: Partner Deployed Engineer | fit 9 | San Francisco / New York City / Austin, Texas | posted 275d ago
+- [growth] Cognition: Partner Deployed Engineer | fit 9 | San Francisco / New York City / Austin, Texas | posted 276d ago
   https://jobs.ashbyhq.com/cognition/6d539905-c75e-45e0-8c3e-db9831a5e6e6
 - [growth] Nourish: Senior Full Stack Engineer | fit 15 | New York, NY / Remote | asks 3+ yrs (stretch: senior title) | posted 347d ago
   https://job-boards.greenhouse.io/usenourish/jobs/5011452008
-- [growth] Cognition: Forward Deployed Engineer - US | fit 8 | San Francisco / New York City / Austin, Texas | posted 490d ago
+- [growth] Cognition: Forward Deployed Engineer - US | fit 8 | San Francisco / New York City / Austin, Texas | posted 491d ago
   https://jobs.ashbyhq.com/cognition/d72d584c-bb11-4b6a-b043-d81425ea884a
 - [large] OpenAI: Software Engineer, TPU Compilers | San Francisco | $380K–$500K | posted 24d ago
   https://jobs.ashbyhq.com/openai/0a6f6736-8743-4528-b17c-4e1f4f8ea45c
@@ -316,15 +318,15 @@
   https://jobs.ashbyhq.com/openai/2cba0d45-7a4f-4f38-ac73-3f8633bf0349
 - [large] OpenAI: Software Engineer, Fleet Infrastructure | fit 4 | San Francisco / New York City | $230K–$490K | posted 638d ago
   https://jobs.ashbyhq.com/openai/a58add97-1968-4d5c-b504-ab62bea12df3
-- [large] Perplexity: Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | fit 8 | San Francisco / Remote (United States) / Toronto / Seattle / New York City | $250K–$485K | posted 16d ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | fit 8 | San Francisco / Remote (United States) / Toronto / Seattle / New York City | $250K–$485K | posted 17d ago
   https://jobs.ashbyhq.com/Perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413
 - [large] Perplexity: Member of Technical Staff (AI Inference Engineer) | fit 4 | San Francisco / Palo Alto / New York City | $220K–$485K | asks 3+ yrs | posted 214d ago
   https://jobs.ashbyhq.com/Perplexity/8a976851-9bef-4b07-8d36-567fa9540aef
 - [large] Anthropic: Software Engineer, Sandboxing | fit 2 | San Francisco, CA | New York City, NY | Seattle, WA | $320K–$485K | posted 43d ago
   https://job-boards.greenhouse.io/anthropic/jobs/5440427008
-- [large] OpenAI: Software Engineer, AI for Chip Design | fit 4 | San Francisco | $266K–$468K | posted 65d ago
+- [large] OpenAI: Software Engineer, AI for Chip Design | fit 4 | San Francisco | $266K–$468K | posted 66d ago
   https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405
-- [large] OpenAI: Software Engineer, Life Sciences | fit 5 | San Francisco | $347K–$450K | posted 37d ago
+- [large] OpenAI: Software Engineer, Life Sciences | fit 5 | San Francisco | $347K–$450K | posted 38d ago
   https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075
 - [large] OpenAI: Founding Full Stack Software Engineer, Consulting | fit 5 | San Francisco | $347K–$445K | posted 8d ago
   https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696
@@ -332,15 +334,15 @@
   https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783
 - [large] OpenAI: Full Stack Software Engineer, Monetization Platform | fit 5 | San Francisco / New York City | $266K–$445K | posted 21d ago
   https://jobs.ashbyhq.com/openai/191e42f8-cd62-4082-8f72-505c26505e67
-- [large] OpenAI: Client Platform Engineer | fit 13 | San Francisco | $347K–$445K | posted 29d ago
+- [large] OpenAI: Client Platform Engineer | fit 13 | San Francisco | $347K–$445K | posted 30d ago
   https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236
 - [large] OpenAI: Software Engineer, Shop/Feed Ads | San Francisco | $347K–$445K | posted 38d ago
   https://jobs.ashbyhq.com/openai/4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2
-- [large] OpenAI: Software Engineer, Implicit Signals | fit 4 | San Francisco | $347K–$445K | posted 44d ago
+- [large] OpenAI: Software Engineer, Implicit Signals | fit 4 | San Francisco | $347K–$445K | posted 45d ago
   https://jobs.ashbyhq.com/openai/c7bcdaec-9714-44b0-8ba8-adc824594b54
 - [large] OpenAI: Software Engineer, Product Velocity | fit 9 | San Francisco | $347K–$445K | posted 46d ago
   https://jobs.ashbyhq.com/openai/9909555b-3dc4-4ba2-859e-43eae7c97a34
-- [large] OpenAI: Software Engineer, Search Infrastructure | fit 4 | San Francisco | $266K–$445K | posted 49d ago
+- [large] OpenAI: Software Engineer, Search Infrastructure | fit 4 | San Francisco | $266K–$445K | posted 50d ago
   https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025
 - [large] OpenAI: Software Engineer, Host Assurance | fit 4 | San Francisco / Seattle / US - Remote | $266K–$445K | posted 69d ago
   https://jobs.ashbyhq.com/openai/0b9e565a-ae5f-40fc-8350-b59f71f76df1
@@ -360,11 +362,11 @@
   https://jobs.ashbyhq.com/openai/f873dd71-46c9-4be1-8580-bc67c56b4cad
 - [large] OpenAI: Backend Software Engineer, Applied Foundations | fit 5 | San Francisco / Mountain View | $266K–$445K | posted 190d ago
   https://jobs.ashbyhq.com/openai/b398e1c6-0c32-4464-bb34-6ccda901b688
-- [large] OpenAI: Software Engineer, ChatGPT Infrastructure | fit 3 | San Francisco | $347K–$445K | posted 206d ago
+- [large] OpenAI: Software Engineer, ChatGPT Infrastructure | fit 3 | San Francisco | $347K–$445K | posted 207d ago
   https://jobs.ashbyhq.com/openai/e6981259-c1d0-46de-8376-56bde28cfb10
 - [large] OpenAI: Software Engineer, Kernel Performance & AI Tooling | fit 2 | San Francisco | $266K–$445K | posted 210d ago
   https://jobs.ashbyhq.com/openai/e9627fa6-ac76-4899-9a93-9251419e61a0
-- [large] OpenAI: Software Engineer, Infrastructure - Analytics Platform | fit 2 | San Francisco | $266K–$445K | posted 216d ago
+- [large] OpenAI: Software Engineer, Infrastructure - Analytics Platform | fit 2 | San Francisco | $266K–$445K | posted 217d ago
   https://jobs.ashbyhq.com/openai/e44bfa94-0b82-4d0c-b224-02155b76eea9
 - [large] OpenAI: Software Engineer, Observability | fit 5 | San Francisco / New York City / Mountain View | $266K–$445K | posted 267d ago
   https://jobs.ashbyhq.com/openai/d4dcd344-40cf-44d6-a7dd-172118eb0842
@@ -372,19 +374,19 @@
   https://jobs.ashbyhq.com/openai/98ad9beb-4f91-496c-bd16-ac0b2a8d5bb2
 - [large] OpenAI: Software Engineer, Data Infrastructure | fit 5 | San Francisco / New York City / Seattle / Mountain View | $266K–$445K | posted 869d ago
   https://jobs.ashbyhq.com/openai/f763c6b3-5167-4a67-b691-4c3fa2c44156
-- [large] Perplexity: Member of Technical Staff (Software Engineer, Cybersecurity Products) | fit 14 | San Francisco / Remote (United States) / London / Belgrade / New York City | $220K–$405K | asks 4+ yrs | posted 6h ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, Cybersecurity Products) | fit 14 | San Francisco / Remote (United States) / London / Belgrade / New York City | $220K–$405K | asks 4+ yrs | posted 10h ago
   https://jobs.ashbyhq.com/Perplexity/b23d83e3-add8-48ea-b16e-65a956d1192c
-- [large] Perplexity: Member of Technical Staff, (Software Engineer, Experience) | fit 6 | San Francisco / New York City | $220K–$405K | posted 21d ago
+- [large] Perplexity: Member of Technical Staff, (Software Engineer, Experience) | fit 6 | San Francisco / New York City | $220K–$405K | posted 22d ago
   https://jobs.ashbyhq.com/Perplexity/06dcd116-2b07-4f40-869e-06ed540f7614
-- [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise Trust & Governance) | fit 12 | San Francisco / London / Seattle / New York City / Toronto | $220K–$405K | asks 4+ yrs | posted 27d ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise Trust & Governance) | fit 12 | San Francisco / London / Seattle / New York City / Toronto | $220K–$405K | asks 4+ yrs | posted 28d ago
   https://jobs.ashbyhq.com/Perplexity/63785f62-07ac-4dc5-8f68-57779dddb1f3
 - [large] Perplexity: Member of Technical Staff (Software Engineer, Infrastructure & Platform) | fit 3 | San Francisco / London / Austin / Berlin / Seattle / New York City / Toronto | $220K–$405K | asks 4+ yrs | posted 69d ago
   https://jobs.ashbyhq.com/Perplexity/76c9b39f-aecc-4247-b5f5-ebcd02dff7c3
-- [large] Perplexity: Member of Technical Staff (Software Engineer, Design System) | fit 6 | San Francisco / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 93d ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, Design System) | fit 6 | San Francisco / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 94d ago
   https://jobs.ashbyhq.com/Perplexity/78675022-c4a7-41d2-9259-7c59be4de93c
-- [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise AI Products) | fit 4 | San Francisco / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 126d ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise AI Products) | fit 4 | San Francisco / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 127d ago
   https://jobs.ashbyhq.com/Perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941
-- [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise Knowledge Platform) | fit 10 | San Francisco / Palo Alto / London / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 151d ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise Knowledge Platform) | fit 10 | San Francisco / Palo Alto / London / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 152d ago
   https://jobs.ashbyhq.com/Perplexity/daafcaba-cc39-487a-b941-d7a407753788
 - [large] Perplexity: Member of Technical Staff (Software Engineer, Computer Growth) | fit 14 | San Francisco / New York City | $220K–$405K | asks 2+ yrs | posted 162d ago
   https://jobs.ashbyhq.com/Perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d
@@ -392,17 +394,17 @@
   https://jobs.ashbyhq.com/Perplexity/7795683f-6c5f-40cd-af2d-51294edddd4b
 - [large] Perplexity: Member of Technical Staff (Software Engineer, Monetization) | fit 15 | San Francisco / New York City | $220K–$405K | asks 2+ yrs | posted 204d ago
   https://jobs.ashbyhq.com/Perplexity/043d6a58-87a1-4e3c-bf47-4dc351b94cf4
-- [large] Perplexity: Member of Technical Staff (Software Engineer, Computer) | fit 4 | San Francisco / Palo Alto / New York City | $220K–$405K | asks 4+ yrs | posted 204d ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, Computer) | fit 4 | San Francisco / Palo Alto / New York City | $220K–$405K | asks 4+ yrs | posted 205d ago
   https://jobs.ashbyhq.com/Perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8
-- [large] Perplexity: Member of Technical Staff (Software Engineer, Security) | fit 10 | San Francisco / Remote (United States) / London / Belgrade / New York City | $220K–$405K | asks 4+ yrs | posted 345d ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, Security) | fit 10 | San Francisco / Remote (United States) / London / Belgrade / New York City | $220K–$405K | asks 4+ yrs | posted 346d ago
   https://jobs.ashbyhq.com/Perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03
-- [large] OpenAI: Software Engineer, IP Infrastructure | fit 6 | San Francisco | $266K–$405K | asks 4+ yrs | posted 15d ago
+- [large] OpenAI: Software Engineer, IP Infrastructure | fit 6 | San Francisco | $266K–$405K | asks 4+ yrs | posted 16d ago
   https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b
-- [large] OpenAI: Software Engineer, Compute Infrastructure | fit 8 | San Francisco / New York City / Seattle / London, UK | $230K–$405K | posted 90d ago
+- [large] OpenAI: Software Engineer, Compute Infrastructure | fit 8 | San Francisco / New York City / Seattle / London, UK | $230K–$405K | posted 91d ago
   https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1
-- [large] OpenAI: Full Stack Software Engineer, Agent Enablement | fit 6 | San Francisco | $255K–$405K | posted 148d ago
+- [large] OpenAI: Full Stack Software Engineer, Agent Enablement | fit 6 | San Francisco | $255K–$405K | posted 149d ago
   https://jobs.ashbyhq.com/openai/2d7f1028-ce9b-49c7-acc8-782714ca1cf4
-- [large] OpenAI: Full Stack Software Engineer, Codex | fit 2 | San Francisco | $255K–$405K | posted 154d ago
+- [large] OpenAI: Full Stack Software Engineer, Codex | fit 2 | San Francisco | $255K–$405K | posted 155d ago
   https://jobs.ashbyhq.com/openai/5ebd5f66-75db-4a96-8d39-babc14f1c582
 - [large] Perplexity: Member of Technical Staff (Software Engineer, Desktop Apps) | fit 2 | San Francisco / Remote (United States) / Belgrade / New York City | $200K–$400K | asks 4+ yrs | posted 79d ago
   https://jobs.ashbyhq.com/Perplexity/b00cbb00-f672-4909-a7be-bbd02c7d7b5f
@@ -424,15 +426,15 @@
   https://jobs.ashbyhq.com/Sierra/f51d6c09-d767-4e86-bc62-216b2051e318
 - [large] Sierra: Software Engineer, Agent | fit 10 | San Francisco, CA / New York, NY / Atlanta, GA | $180K–$390K | posted 574d ago
   https://jobs.ashbyhq.com/Sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e
-- [large] OpenAI: Full Stack Software Engineer, ChatGPT Finances | fit 16 | San Francisco | $347K–$385K | posted 1h ago
+- [large] OpenAI: Full Stack Software Engineer, ChatGPT Finances | fit 16 | San Francisco | $347K–$385K | posted 6h ago
   https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9
 - [large] OpenAI: Software Engineer, Agent Platform | fit 8 | San Francisco | $230K–$385K | posted 8d ago
   https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004
 - [large] OpenAI: Software Engineer, Backend — Dots | fit 7 | New York City | $347K–$385K | posted 25d ago
   https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519
-- [large] OpenAI: Software Engineer, Full Stack — Dots | fit 4 | New York City | $347K–$385K | posted 27d ago
+- [large] OpenAI: Software Engineer, Full Stack — Dots | fit 4 | New York City | $347K–$385K | posted 28d ago
   https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445
-- [large] OpenAI: Frontend Software Engineer, ChatGPT Space | fit 6 | San Francisco | $230K–$385K | posted 35d ago
+- [large] OpenAI: Frontend Software Engineer, ChatGPT Space | fit 6 | San Francisco | $230K–$385K | posted 36d ago
   https://jobs.ashbyhq.com/openai/1f99d5d3-4512-4247-aaba-3133a3dabf5a
 - [large] OpenAI: Software Engineer, Ads Integrity | San Francisco | $293K–$385K | posted 60d ago
   https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce
@@ -442,7 +444,7 @@
   https://jobs.ashbyhq.com/openai/9d48e2e6-41a9-4a90-8b3b-6cc960e95c2f
 - [large] OpenAI: Software Engineer, GPT Infrastructure | fit 4 | San Francisco / Seattle | $293K–$385K | posted 200d ago
   https://jobs.ashbyhq.com/openai/f3ddd41c-541f-485e-90d6-86c26e018e9f
-- [large] OpenAI: Software Engineer, Workload Enablement | fit 4 | San Francisco / Seattle | $293K–$385K | posted 230d ago
+- [large] OpenAI: Software Engineer, Workload Enablement | fit 4 | San Francisco / Seattle | $293K–$385K | posted 231d ago
   https://jobs.ashbyhq.com/openai/9efcef02-0515-4672-bace-81329944b38b
 - [large] OpenAI: Applied AI Engineer, Codex Core Agent | fit 3 | San Francisco / New York City / Seattle | $230K–$385K | posted 232d ago
   https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c
@@ -474,9 +476,9 @@
   https://jobs.ashbyhq.com/openai/1e4e9985-babf-4bd9-8fe8-a2016250780d
 - [large] Anthropic: IT Systems Engineer, Client Platform Engineer, macOS | fit 7 | Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC | $285K–$325K | posted 37d ago
   https://job-boards.greenhouse.io/anthropic/jobs/5445625008
-- [large] Anthropic: Applied AI Engineer, Startups (Life Sciences) | fit 4 | San Francisco, CA | New York City, NY | $280K–$320K | asks 4+ yrs | posted 28d ago
+- [large] Anthropic: Applied AI Engineer, Startups (Life Sciences) | fit 4 | San Francisco, CA | New York City, NY | $280K–$320K | asks 4+ yrs | posted 29d ago
   https://job-boards.greenhouse.io/anthropic/jobs/5454650008
-- [large] Anthropic: Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design) | fit 3 | San Francisco, CA | New York City, NY | $280K–$320K | posted 45d ago
+- [large] Anthropic: Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design) | fit 3 | San Francisco, CA | New York City, NY | $280K–$320K | posted 46d ago
   https://job-boards.greenhouse.io/anthropic/jobs/5437172008
 - [large] Anthropic: Front End Engineer, Marketing | fit 6 | San Francisco, CA | New York City, NY | $300K–$320K | posted 87d ago
   https://job-boards.greenhouse.io/anthropic/jobs/5386971008
@@ -486,17 +488,17 @@
   https://jobs.ashbyhq.com/notion/5d8c1ec6-e9ea-416b-9715-880bf5037abc
 - [large] Anthropic: Applied AI Engineer, Enterprise | fit 8 | San Francisco, CA | New York City, NY | $200K–$320K | asks 4+ yrs | posted 309d ago
   https://job-boards.greenhouse.io/anthropic/jobs/5057647008
-- [large] Anthropic: Applied AI Demo Engineer | fit 11 | San Francisco, CA | New York City, NY | $240K–$315K | posted 24d ago
+- [large] Anthropic: Applied AI Demo Engineer | fit 11 | San Francisco, CA | New York City, NY | $240K–$315K | posted 25d ago
   https://job-boards.greenhouse.io/anthropic/jobs/5455961008
 - [large] Vercel: Software Engineer, Platform | fit 5 | Hybrid - San Francisco, New York City | $208K–$312K | posted 58d ago
   https://job-boards.greenhouse.io/vercel/jobs/6195280004
 - [large] Vercel: Security Software Engineer, Detection & Response | fit 14 | Hybrid - San Francisco, New York City, London | $208K–$312K | posted 128d ago
   https://job-boards.greenhouse.io/vercel/jobs/6111332004
-- [large] Vercel: Security Software Engineer, IAM | fit 14 | Hybrid - San Francisco, New York City | $208K–$312K | posted 141d ago
+- [large] Vercel: Security Software Engineer, IAM | fit 14 | Hybrid - San Francisco, New York City | $208K–$312K | posted 142d ago
   https://job-boards.greenhouse.io/vercel/jobs/6093255004
-- [large] OpenAI: Forward Deployed Engineer (FDE), Healthcare - NYC | fit 7 | New York City | $185K–$300K | posted 99d ago
+- [large] OpenAI: Forward Deployed Engineer (FDE), Healthcare - NYC | fit 7 | New York City | $185K–$300K | posted 100d ago
   https://jobs.ashbyhq.com/openai/2a931dd1-5002-47d1-a367-ec1a19ef7e9e
-- [large] OpenAI: Forward Deployed Engineer (FDE), Healthcare - SF | fit 7 | San Francisco | $185K–$300K | posted 99d ago
+- [large] OpenAI: Forward Deployed Engineer (FDE), Healthcare - SF | fit 7 | San Francisco | $185K–$300K | posted 100d ago
   https://jobs.ashbyhq.com/openai/d8b894e3-c399-4303-a708-3cef8ff5c1a2
 - [large] Point72: Software Engineer - Data | fit 9 | New York, NY | $200K–$300K | asks 3+ yrs | posted 144d ago
   https://boards.greenhouse.io/point72/jobs/8544800002?gh_jid=8544800002
@@ -510,13 +512,11 @@
   https://jobs.ashbyhq.com/notion/e3d8dc06-da05-4e9d-a143-2e9c51fa3d51
 - [large] OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 2d ago
   https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e
-- [large] OpenAI: Applied AI Engineer, Enterprise - EDU | fit 11 | San Francisco / New York City / US - Remote | $251K–$278K | posted 6d ago
+- [large] OpenAI: Applied AI Engineer, Enterprise - EDU | fit 11 | San Francisco / New York City / US - Remote | $251K–$278K | posted 7d ago
   https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5
-- [large] OpenAI: Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS) | fit 11 | San Francisco / New York City / US - Remote | $251K–$278K | posted 6d ago
-  https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd
-- [large] OpenAI: Applied AI Engineer, Enterprise | fit 9 | San Francisco / New York City / US - Remote | $251K–$278K | posted 127d ago
+- [large] OpenAI: Applied AI Engineer, Enterprise | fit 9 | San Francisco / New York City / US - Remote | $251K–$278K | posted 128d ago
   https://jobs.ashbyhq.com/openai/01091aed-427d-4e10-8cdb-fb500cf55bb9
-- [large] Perplexity: Member of Technical Staff (GTM Engineer, Growth) | fit 12 | San Francisco / New York City | $180K–$270K | posted 9d ago
+- [large] Perplexity: Member of Technical Staff (GTM Engineer, Growth) | fit 12 | San Francisco / New York City | $180K–$270K | posted 10d ago
   https://jobs.ashbyhq.com/Perplexity/3b523d3a-23bd-4887-8e3c-239d14d66b06
 - [large] Reddit: Software Engineer, Ad Signals | fit 9 | Remote - United States | $191K–$267K | posted 20d ago
   https://job-boards.greenhouse.io/reddit/jobs/8319655
@@ -536,24 +536,22 @@
   https://job-boards.greenhouse.io/reddit/jobs/8194576
 - [large] Reddit: Software Engineer, Content Platform | fit 11 | Remote - United States | $164K–$230K | asks 3+ yrs | posted 87d ago
   https://job-boards.greenhouse.io/reddit/jobs/8139781
-- [large] Reddit: Software Engineer, Ads | fit 13 | Remote - United States | $164K–$230K | asks 3+ yrs | posted 675d ago
+- [large] Reddit: Software Engineer, Ads | fit 13 | Remote - United States | $164K–$230K | asks 3+ yrs | posted 676d ago
   https://job-boards.greenhouse.io/reddit/jobs/6469397
 - [large] Reddit: Front End Software Engineer, Media Player | fit 7 | Remote - United States | $165K–$229K | asks 3+ yrs | posted 63d ago
   https://job-boards.greenhouse.io/reddit/jobs/8198102
-- [large] Reddit: Software Engineer, Consumer Engineering | fit 10 | Remote - United States | $164K–$229K | asks 3+ yrs | posted 64d ago
+- [large] Reddit: Software Engineer, Consumer Engineering | fit 10 | Remote - United States | $164K–$229K | asks 3+ yrs | posted 65d ago
   https://job-boards.greenhouse.io/reddit/jobs/8172457
 - [large] IMC Trading: C++ Software Engineer | fit 3 | Chicago, United States; New York, United States | $175K–$225K | asks 2+ yrs | posted 427d ago
   https://job-boards.eu.greenhouse.io/imc/jobs/4673650101
 - [large] Affirm: Software Engineer II - CIAM | fit 8 | Remote US | $165K–$225K | posted 17d ago
   https://job-boards.greenhouse.io/affirm/jobs/8040751003
-- [large] Affirm: Software Engineer II, Full Stack (Card Acquisition) | fit 5 | Remote US | $165K–$225K | asks 1.5+ yrs | posted 28d ago
+- [large] Affirm: Software Engineer II, Full Stack (Card Acquisition) | fit 5 | Remote US | $165K–$225K | asks 1.5+ yrs | posted 29d ago
   https://job-boards.greenhouse.io/affirm/jobs/8032173003
 - [large] Affirm: Software Engineer II, Fullstack (Ads Platform) | fit 5 | Remote US | $165K–$225K | asks 1.5+ yrs | posted 35d ago
   https://job-boards.greenhouse.io/affirm/jobs/8016866003
 - [large] Affirm: Software Engineer II, Fullstack (App Experience) | fit 5 | Remote US | $165K–$225K | asks 1.5+ yrs | posted 84d ago
   https://job-boards.greenhouse.io/affirm/jobs/7819445003
-- [large] Nationwide: Consultant, Software Engineer (E-Risk Services - Rockaway, New Jersey) | fit 4 | New Jersey - Rockaway, 100 Enterprise Drive | $118K–$222K | posted 22h ago
-  https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/New-Jersey---Rockaway-100-Enterprise-Drive/Consultant--Software-Engineer--E-Risk-Services---Rockaway--New-Jersey-_101380
 - [large] Hinge Health: Senior Software Engineer, Fullstack, Rewards & Incentives | fit 12 | San Francisco-HQ | $164K–$220K | asks 3+ yrs (stretch: senior title) | posted 49d ago
   https://jobs.ashbyhq.com/hinge-health/8da6ed79-cace-4156-9269-6f7124f40e6e
 - [large] Hinge Health: Senior Software Engineer - Backend | fit 19 | San Francisco-HQ | $157K–$218K | asks 2+ yrs (stretch: senior title) | posted 10d ago
@@ -572,17 +570,17 @@
   https://jobs.ashbyhq.com/hinge-health/4d11a165-4f54-4561-80a9-8bc8b3a1d0d0
 - [large] Hinge Health: Senior Software Engineer, App Enablement | fit 12 | San Francisco-HQ | $158K–$217K | asks 3+ yrs (stretch: senior title) | posted 7d ago
   https://jobs.ashbyhq.com/hinge-health/dce84ed4-ecd9-4700-854c-46ed7051cbdd
-- [large] Comcast: Backend Developer | fit 21 | PA - Philadelphia, 1800 Arch St / VA - Reston, 11951 Freedom Dr Ste 900 | $138K–$216K | posted 46h ago
+- [large] Comcast: Backend Developer | fit 21 | PA - Philadelphia, 1800 Arch St / VA - Reston, 11951 Freedom Dr Ste 900 | $138K–$216K | posted 2d ago
   https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Backend-Developer_R448285
 - [large] Toast: Software Engineer II, Backend | fit 10 | Remote US | $133K–$213K | asks 2+ yrs | posted 10d ago
   https://careers.toasttab.com/jobs?gh_jid=8334794
 - [large] Arcesium: Senior Software Engineer - Infrastructure | fit 14 | New York | $175K–$210K | asks 3+ yrs (stretch: senior title) | posted 108d ago
   https://job-boards.greenhouse.io/arcesiumllc/jobs/5194791007
-- [large] MongoDB: Software Engineer 3 | fit 19 | New York City | $106K–$209K | posted 43h ago
+- [large] MongoDB: Software Engineer 3 | fit 19 | New York City | $106K–$209K | posted 47h ago
   https://www.mongodb.com/careers/job/?gh_jid=8348102
-- [large] MongoDB: Software Engineer 3 | fit 13 | New York City | $106K–$209K | asks 3+ yrs | posted 43h ago
+- [large] MongoDB: Software Engineer 3 | fit 13 | New York City | $106K–$209K | asks 3+ yrs | posted 47h ago
   https://www.mongodb.com/careers/job/?gh_jid=8366703
-- [large] MongoDB: Software Engineer 3 | fit 16 | New York City | $106K–$209K | asks 3+ yrs | posted 43h ago
+- [large] MongoDB: Software Engineer 3 | fit 16 | New York City | $106K–$209K | asks 3+ yrs | posted 47h ago
   https://www.mongodb.com/careers/job/?gh_jid=8367902
 - [large] Samsara: Senior Data Engineer II | fit 15 | Remote - US | $134K–$203K | asks 3+ yrs (stretch: senior title) | posted 126d ago
   https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914
@@ -590,9 +588,7 @@
   https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8
 - [large] Notion: Software Engineer, Product Infrastructure | fit 14 | San Francisco, California / New York, New York | $150K–$200K | posted 95d ago
   https://jobs.ashbyhq.com/notion/ca74504a-9b91-4ce3-b0df-97919b46e749
-- [large] Blackstone: Real Estate – Innovation, Applied AI Engineer | fit 11 | New York | $130K–$200K | asks 3+ yrs | posted 38d ago
-  https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/Real-Estate---Innovation--Applied-AI-Engineer_45682
-- [large] Jefferies: Software Developer - Swaps Platform (Corporate Actions) | fit 10 | New York, NY, United States | $175K–$200K | posted 145d ago
+- [large] Jefferies: Software Developer - Swaps Platform (Corporate Actions) | fit 10 | New York, NY, United States | $175K–$200K | posted 146d ago
   https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4447
 - [large] Upstart: Software Engineer, Unsecured Installments | fit 17 | United States | Remote | $142K–$197K | asks 4+ yrs | posted 30d ago
   https://careers.upstart.com/jobs?gh_jid=8274702
@@ -608,7 +604,7 @@
   https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645
 - [large] Samsara: Software Engineer - Data Platform | fit 16 | Remote - US | $114K–$191K | asks 4+ yrs | posted 157d ago
   https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530
-- [large] Brex: Software Engineer II, Frontend (Banking) | fit 3 | New York, New York, United States | $152K–$190K | asks 4+ yrs | posted 27h ago
+- [large] Brex: Software Engineer II, Frontend (Banking) | fit 3 | New York, New York, United States | $152K–$190K | asks 4+ yrs | posted 32h ago
   https://www.brex.com/careers/8928935002?gh_jid=8928935002
 - [large] Brex: Software Engineer II, Backend | fit 1 | New York, New York, United States | $152K–$190K | asks 4+ yrs | posted 58d ago
   https://www.brex.com/careers/8815443002?gh_jid=8815443002
@@ -624,7 +620,7 @@
   https://jobs.lever.co/wealthfront/f5a0963a-ca1a-4140-b9e6-dbf6072093fe
 - [large] Upstart: Software Engineer, Upstart Bank | fit 14 | United States | Remote | $187K | asks 4+ yrs | posted 123d ago
   https://careers.upstart.com/jobs?gh_jid=8060056
-- [large] Airbnb: Software Engineer, Profile & Community, Web | fit 5 | Remote, USA | $162K–$186K | asks 3+ yrs | posted 4h ago
+- [large] Airbnb: Software Engineer, Profile & Community, Web | fit 5 | Remote, USA | $162K–$186K | asks 3+ yrs | posted 9h ago
   https://careers.airbnb.com/positions/8386065?gh_jid=8386065
 - [large] Chime: Software Engineer, Infrastructure Platform | fit 7 | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | $133K–$184K | asks 2+ yrs | posted 42d ago
   https://boards.greenhouse.io/chime/jobs/8859182002?gh_jid=8859182002
@@ -632,9 +628,9 @@
   https://boards.greenhouse.io/chime/jobs/8616359002?gh_jid=8616359002
 - [large] Chime: Software Engineer, Financial Platform | fit 14 | New York, NY, USA; San Francisco, CA, USA | $133K–$184K | asks 4+ yrs | posted 144d ago
   https://boards.greenhouse.io/chime/jobs/8594959002?gh_jid=8594959002
-- [large] OpenAI: Software Engineer, Applied Emerging Talent (2027) | fit 6 | San Francisco | $180K | posted 59d ago
+- [large] OpenAI: Software Engineer, Applied Emerging Talent (2027) | fit 6 | San Francisco | $180K | posted 60d ago
   https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511
-- [large] Affirm: Software Engineer I, Backend (Continuous Delivery) | fit 3 | Remote US | $130K–$180K | posted 23h ago
+- [large] Affirm: Software Engineer I, Backend (Continuous Delivery) | fit 3 | Remote US | $130K–$180K | posted 27h ago
   https://job-boards.greenhouse.io/affirm/jobs/8181183003
 - [large] Affirm: Software Engineer I, Fullstack (Search) | fit 3 | Remote US | $130K–$180K | posted 29d ago
   https://job-boards.greenhouse.io/affirm/jobs/8017340003
@@ -644,28 +640,20 @@
   https://job-boards.greenhouse.io/braze/jobs/8262294
 - [large] Twilio: Software Engineer (L3) Email | fit 25 | Remote - US | $139K–$173K | asks 4+ yrs | posted 10d ago
   https://job-boards.greenhouse.io/twilio/jobs/8026199
-- [large] Blackstone: Software Engineer, Associate - Business Finance Technology | fit 15 | New Jersey | $110K–$170K | asks 3+ yrs | posted 4d ago
-  https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-Jersey/Product-Manager--Associate---Business-Finance-Technology_45207
-- [large] Blackstone: AI Engineer, Associate – Data Analytics & AI | fit 11 | New York | $110K–$170K | posted 72d ago
-  https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Associate---Data-Analytics---AI_45237-1
 - [large] Notion: Software Engineer, Web Infrastructure | fit 6 | San Francisco, California / New York, New York | $150K–$168K | posted 4d ago
   https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042
 - [large] Affirm: Software Engineer II, Fullstack (Capital Orchestration) | fit 6 | Remote US | $146K–$165K | asks 1.5+ yrs | posted 164d ago
   https://job-boards.greenhouse.io/affirm/jobs/7749755003
-- [large] Booz Allen Hamilton: Software Engineer, Mid | fit 7 | Wharton, NJ | $69K–$158K | posted 49d ago
-  https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Software-Engineer--Mid_R0250294
 - [large] Celonis: Software Engineer | fit 7 | Remote, US, Massachusetts | $134K–$158K | asks 3+ yrs | posted 3d ago
   https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003
 - [large] Celonis: Software Engineer - Infrastructure | fit 11 | Remote, US, Massachusetts | $134K–$158K | asks 2+ yrs | posted 3d ago
   https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003
 - [large] Notion: Software Engineer, Early Career (AI) | fit 14 | San Francisco, California | $130K–$150K | posted 130d ago
   https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28
-- [large] Jefferies: Associate, Credit eTrading Software Developer (Java) | fit 5 | New York, NY, United States | $125K–$150K | asks 3+ yrs | posted 242d ago
+- [large] Jefferies: Associate, Credit eTrading Software Developer (Java) | fit 5 | New York, NY, United States | $125K–$150K | asks 3+ yrs | posted 243d ago
   https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3900
 - [large] Samsara: Security Operations Engineer I | fit 7 | Remote - CA | $95K–$144K | posted 7d ago
   https://www.samsara.com/company/careers/roles/8353283?gh_jid=8353283
-- [large] Blackstone: AI Engineer, Analyst – Data Analytics & AI | fit 11 | New York | $80K–$140K | posted 72d ago
-  https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1
 - [large] The New York Times: Front-End Web Engineer - T Brand | fit 12 | New York, NY | $89K–$120K | asks 2+ yrs | posted 25d ago
   https://job-boards.greenhouse.io/thenewyorktimes/jobs/4744538005
 - [large] Samsara: Solutions Integration Engineer III | fit 13 | Remote - AZ; Remote - Dallas; Remote - FL; Remote - GA; Remote - Houston; Remote - PA; Remote - TX | $87K–$118K | asks 3+ yrs | posted 65d ago
@@ -678,47 +666,43 @@
   https://jobs.ashbyhq.com/ElevenLabs/e4e0450f-d139-4f8e-b210-2f326a680d90
 - [large] ElevenLabs: Full-Stack Engineer (Backend Leaning) - Platform Engineering | fit 10 | Remote / Ireland / Europe / United States / Poland / United Kingdom | posted 11d ago
   https://jobs.ashbyhq.com/ElevenLabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0
-- [large] ElevenLabs: Forward Deployed Engineer - Software Engineer - USA | fit 8 | San Francisco / United States / New York | posted 30d ago
+- [large] ElevenLabs: Forward Deployed Engineer - Software Engineer - USA | fit 8 | San Francisco / United States / New York | posted 31d ago
   https://jobs.ashbyhq.com/ElevenLabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6
 - [large] ElevenLabs: Full-Stack Engineer (Backend Leaning) | fit 10 | United Kingdom / Dublin / United States / New York / Sofia / Germany / Portugal / Poland / Madrid / Boston / Amsterdam / Bulgaria | posted 37d ago
   https://jobs.ashbyhq.com/ElevenLabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f
 - [large] ElevenLabs: Full-Stack Engineer | fit 12 | United Kingdom / Dublin / Spain / United States / New York / Sofia / Germany / Poland / Boston / Amsterdam / Bulgaria | posted 798d ago
   https://jobs.ashbyhq.com/ElevenLabs/6a530871-b6c6-4783-ac6b-69cc3b084192
-- [large] MongoDB: Software Engineer 3 | fit 16 | New York City | asks 3+ yrs | posted 43h ago
+- [large] Databricks: Associate Forward Deployed Engineer | fit 15 | New York City, New York | asks 2+ yrs | posted 22d ago
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002
+- [large] MongoDB: Software Engineer 3 | fit 16 | New York City | asks 3+ yrs | posted 47h ago
   https://www.mongodb.com/careers/job/?gh_jid=8351199
-- [large] Affirm: Software Engineer II, Backend | fit 4 | Remote US | asks 1.5+ yrs | posted 6d ago
+- [large] Affirm: Software Engineer II, Backend | fit 4 | Remote US | asks 1.5+ yrs | posted 7d ago
   https://job-boards.greenhouse.io/affirm/jobs/8196112003
 - [large] Affirm: Software Engineer, Early Career (NYC) | fit 1 | New York, New York, United States | posted 38d ago
   https://job-boards.greenhouse.io/affirm/jobs/8008649003
-- [large] Affirm: Software Engineer II, Backend (Streaming) | fit 9 | Remote US | asks 1.5+ yrs | posted 44d ago
-  https://job-boards.greenhouse.io/affirm/jobs/8003020003
 - [large] Affirm: Software Engineer II, Backend (Test Infra) | fit 9 | Remote US | asks 3+ yrs | posted 126d ago
   https://job-boards.greenhouse.io/affirm/jobs/7727320003
-- [large] JPMorganChase: Python Software Engineer III | fit 10 | Jersey City, NJ, United States | asks 3+ yrs | posted 22h ago
+- [large] JPMorganChase: Python Software Engineer III | fit 10 | Jersey City, NJ, United States | asks 3+ yrs | posted 27h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778199
-- [large] JPMorganChase: Software Engineer III - Applied AI | fit 8 | Jersey City, NJ, United States | asks 3+ yrs | posted 22h ago
+- [large] JPMorganChase: Software Engineer III - Applied AI | fit 8 | Jersey City, NJ, United States | asks 3+ yrs | posted 27h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805477
-- [large] JPMorganChase: Software Engineer III-Gen AI/RAG/Python | fit 6 | Jersey City, NJ, United States | asks 3+ yrs | posted 22h ago
+- [large] JPMorganChase: Software Engineer III-Gen AI/RAG/Python | fit 6 | Jersey City, NJ, United States | asks 3+ yrs | posted 27h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808894
-- [large] JPMorganChase: Python Pyspark Software Engineer III | fit 8 | Jersey City, NJ, United States | asks 3+ yrs | posted 46h ago
+- [large] JPMorganChase: Python Pyspark Software Engineer III | fit 8 | Jersey City, NJ, United States | asks 3+ yrs | posted 2d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799340
-- [large] JPMorganChase: Full-Stack Java React Software Engineer III | fit 23 | Jersey City, NJ, United States | asks 3+ yrs | posted 46h ago
+- [large] JPMorganChase: Full-Stack Java React Software Engineer III | fit 23 | Jersey City, NJ, United States | asks 3+ yrs | posted 2d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765945
-- [large] JPMorganChase: Full-Stack Java React Software Engineer III Business Banking | fit 22 | New York, NY, United States | asks 3+ yrs | posted 46h ago
+- [large] JPMorganChase: Full-Stack Java React Software Engineer III Business Banking | fit 22 | New York, NY, United States | asks 3+ yrs | posted 2d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803265
-- [large] JPMorganChase: Software Engineer II (Java) | fit 11 | Jersey City, NJ, United States | asks 2+ yrs | posted 4d ago
+- [large] JPMorganChase: Software Engineer II (Java) | fit 11 | Jersey City, NJ, United States | asks 2+ yrs | posted 5d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804041
-- [large] JPMorganChase: Software Engineer III (Java) | fit 13 | Jersey City, NJ, United States | asks 3+ yrs | posted 4d ago
+- [large] JPMorganChase: Software Engineer III (Java) | fit 13 | Jersey City, NJ, United States | asks 3+ yrs | posted 5d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805882
-- [large] JPMorganChase: Software Engineer III (Java/Agentic) | fit 9 | New York, NY, United States | asks 3+ yrs | posted 9d ago
-  https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772476
-- [large] DTCC: Software Engineer - Java Full Stack | fit 23 | Tampa, FL, United States / Dallas, TX, United States / Jersey City, NJ, United States | asks 4+ yrs | posted 15d ago
+- [large] DTCC: Software Engineer - Java Full Stack | fit 23 | Tampa, FL, United States / Dallas, TX, United States / Jersey City, NJ, United States | asks 4+ yrs | posted 16d ago
   https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/213501
-- [large] DTCC: Platform Engineering Senior Associate | fit 17 | Tampa, FL, United States / Dallas, TX, United States / Jersey City, NJ, United States | asks 3+ yrs (stretch: senior title) | posted 17d ago
+- [large] DTCC: Platform Engineering Senior Associate | fit 17 | Tampa, FL, United States / Dallas, TX, United States / Jersey City, NJ, United States | asks 3+ yrs (stretch: senior title) | posted 18d ago
   https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215117
-- [large] DTCC: Full Stack Developer - Enterprise Integration & Messaging Solutions (Java/AWS/Kafka) | fit 33 | Tampa, FL, United States / Jersey City, NJ, United States | asks 4+ yrs | posted 37d ago
+- [large] DTCC: Full Stack Developer - Enterprise Integration & Messaging Solutions (Java/AWS/Kafka) | fit 33 | Tampa, FL, United States / Jersey City, NJ, United States | asks 4+ yrs | posted 38d ago
   https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214800
-- [large] Nasdaq: Data Software Engineer | fit 8 | USA - Philadelphia - Pennsylvania | asks 2+ yrs | posted 63d ago
-  https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Philadelphia---Pennsylvania/Data-Software-Engineer_R0026752
-- [large] Comcast: Engineer 4, Software Development & Engineering-5646 | PA - Philadelphia, 1800 Arch St | posted 3d ago
+- [large] Comcast: Engineer 4, Software Development & Engineering-5646 | PA - Philadelphia, 1800 Arch St | posted 4d ago
   https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-4--Software-Development---Engineering-5646_R448693
