@@ -871,9 +871,9 @@
   - Member of Data Staff (Analytics Engineer) | San Francisco / New York City | title excluded: Staff
   - Engineering Manager (Enterprise) | San Francisco | title excluded: Manager
   - Member of Technical Staff (Machine Learning Engineer, Search Agent RL) | Belgrade / London / Berlin | title excluded: Machine Learning
-  - Member of Technical Staff (AI Software Engineer, Agent Engine) | San Francisco | location
   - Member of Technical Staff (Software Engineer, Fraud Prevention) | London / Belgrade | location
   - Engineering Manager (Agent Engine) | San Francisco | title excluded: Manager
+  - Member of Technical Staff (AI Software Engineer, Agent Engine) | San Francisco | location
   - Member of Technical Staff (Site Reliability Engineer, Cloud Infrastructure) | San Francisco / Remote (United States) / Seattle / New York City | title excluded: Site Reliability
   - Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives) | San Francisco / Washington D.C. | location
   - Growth GTM Engineer, Revenue Operations | San Francisco / Austin / New York City | title not in include list
@@ -1264,8 +1264,8 @@
   - Associate Sales Engineer, SE Desk - Northeast | Remote - ME; Remote - NH; Remote - PA; Remote - VT | title excluded: Sales
   - Associate Sales Engineer, SE Desk - Southeast | Remote - FL; Remote - GA; Remote - NC; Remote - TN | title excluded: Sales
   - Associate Sales Engineer, SE Desk - TOLA | Remote - LA; Remote - OK; Remote - TX | title excluded: Sales
-  - Data Engineer | Remote - US | title not in include list
   - Data Engineer | Remote - Canada | title not in include list
+  - Data Engineer | Remote - US | title not in include list
   - Director, Field Sales Engineering | Remote - US | title excluded: Director
   - Director, GTM AI Engineering | Remote - US | title excluded: Director
   - Electrical Engineering Co-Op | San Francisco - SF9 | title excluded: Co-Op
@@ -1278,11 +1278,11 @@
   - Enterprise Sales Engineer - US Southeast | Remote - FL; Remote - GA; Remote - NC | title excluded: Sales
   - Firmware Engineer | Remote - Austin; Remote - Seattle; San Francisco, CA, United States | title excluded: Firmware
   - Firmware Engineer Co-Op | San Francisco - SF9 | title excluded: Firmware
-  - Lead Design Engineer | Remote - Canada | title excluded: Lead
   - Lead Design Engineer | Remote - US | title excluded: Lead
+  - Lead Design Engineer | Remote - Canada | title excluded: Lead
   - Manager, Firmware Engineering | Remote - US | title excluded: Manager
-  - Manager II, Software Engineering | Remote - Canada | title excluded: Manager
   - Manager II, Software Engineering | San Francisco - SF9 | title excluded: Manager
+  - Manager II, Software Engineering | Remote - Canada | title excluded: Manager
   - Manager II, Software Engineering, Infrastructure | Remote - Canada | title excluded: Manager
   - Manager II, Software Engineering, Infrastructure | Remote - US | title excluded: Manager
   - People Analytics AI Engineer | Remote - Seattle | experience: asks 8+ yrs
@@ -1294,31 +1294,31 @@
   - Sales Engineer, Mid Market - TOLA | Remote - OK; Remote - TX | title excluded: Sales
   - Sales Engineer - Mid Market - West | Remote - AZ; Remote - CO; Remote - NM; Remote - NV; Remote - OR; Remote - UT | title excluded: Sales
   - Security Operations Engineer | London, England, United Kingdom; Remote - London; Remote - UK | title not in include list
-  - Senior AI Data & Analytics Engineer II | Remote - MA | experience: asks 8+ yrs
+  - Senior AI Data & Analytics Engineer II | Remote - NYC | experience: asks 8+ yrs
   - Senior AI Data & Analytics Engineer II | Remote - Seattle | experience: asks 8+ yrs
-  - Senior AI Data & Analytics Engineer II | Remote - SF Bay Area | experience: asks 8+ yrs
+  - Senior AI Data & Analytics Engineer II | Remote - MA | experience: asks 8+ yrs
   - Senior AI Data & Analytics Engineer II | Remote - Chicago | experience: asks 8+ yrs
+  - Senior AI Data & Analytics Engineer II | Remote - Austin | experience: asks 8+ yrs
   - Senior AI Data & Analytics Engineer II | Remote - CA | experience: asks 8+ yrs
   - Senior AI Data & Analytics Engineer II | Remote - Dallas | experience: asks 8+ yrs
-  - Senior AI Data & Analytics Engineer II | Remote - NYC | experience: asks 8+ yrs
-  - Senior AI Data & Analytics Engineer II | Remote - Austin | experience: asks 8+ yrs
+  - Senior AI Data & Analytics Engineer II | Remote - SF Bay Area | experience: asks 8+ yrs
   - Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI) | Remote - Canada | title excluded: Manager
   - Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI) | Remote - US | title excluded: Manager
   - Senior Security Engineer - Enterprise Security | London, England, United Kingdom; Remote - London | title excluded: Security Engineer
-  - Senior Security Engineer - Threat Detection | Remote - CA | title excluded: Security Engineer
   - Senior Security Engineer - Threat Detection | Remote - Dallas | title excluded: Security Engineer
+  - Senior Security Engineer - Threat Detection | Remote - CA | title excluded: Security Engineer
   - Senior Security Engineer - Threat Detection | Remote - Seattle | title excluded: Security Engineer
-  - Senior Security Operations Engineer | Remote - OR | title not in include list
-  - Senior Security Operations Engineer | San Francisco, CA, United States | title not in include list
-  - Senior Security Operations Engineer | Remote - Seattle | title not in include list
-  - Senior Security Operations Engineer | Remote - Poland | title not in include list
-  - Senior Security Operations Engineer | Remote - CA | title not in include list
   - Senior Security Operations Engineer | Remote - UK | title not in include list
+  - Senior Security Operations Engineer | Remote - Seattle | title not in include list
+  - Senior Security Operations Engineer | San Francisco, CA, United States | title not in include list
+  - Senior Security Operations Engineer | Remote - OR | title not in include list
+  - Senior Security Operations Engineer | Remote - Poland | title not in include list
   - Senior Security Operations Engineer | Remote - Netherlands | title not in include list
+  - Senior Security Operations Engineer | Remote - CA | title not in include list
   - Senior Security Operations Engineer I | Remote - Vancouver | location
   - Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B) | Remote - Poland | experience: asks 5+ yrs
   - Senior Software Engineer II | Remote - Canada | experience: asks 8+ yrs
-## Twilio: 33 engineering roles rejected
+## Twilio: 32 engineering roles rejected
   - Applications Engineer 2 | Remote - India | location
   - Developer Success Engineer | Remote - US | title not in include list
   - DevOps Engineer (Observability) | Remote - Ireland | title not in include list
@@ -1350,7 +1350,6 @@
   - Tech Lead /Sr. Principal Engineer (L6) | Remote - India | title excluded: Lead
   - Technical Support Engineer | Remote - Ireland | title excluded: Support Engineer
   - Technical Support Engineer 2 | Remote - India | title excluded: Support Engineer
-  - Technical Support Engineer 2 | Remote - Ireland | title excluded: Support Engineer
   - Technical Support Engineer 2 | Remote - Ireland | title excluded: Support Engineer
 ## Asana: 37 engineering roles rejected
   - Analytical Engineer | Warsaw | title not in include list
@@ -2940,20 +2939,20 @@
   - Senior DevOps Engineer | Wroclaw - Infinity | title not in include list
   - Quality Engineering - Specialist | India - Mumbai - Maharashtra | title not in include list
   - QA Engineer | Poland | title not in include list
-  - QA Engineer | Stockholm - Zenit | title not in include list
   - Observability Engineer | India - Bangalore - Karnataka | title not in include list
   - DevOps Engineer | Vilnius | title not in include list
+  - QA Engineer | Stockholm - Zenit | title not in include list
   - Engineer, Platform Engineering & Reliability Specialist (Azure) | GA - Glenridge Point | location
   - DevOps Engineer - Specialist | India - Mumbai - Maharashtra | title not in include list
+  - DevOps Cloud Engineer | Canada - Toronto - Ontario | title not in include list
   - Software Developer Intern - Summer 2027 | Sweden - Skolgatan - Umeå | title excluded: Intern
-  - DevOps Cloud Engineer | Canada - Toronto - Ontario | title not in include list
-  - DevOps Cloud Engineer | Canada - Toronto - Ontario | title not in include list
   - QA Engineer – Regulatory Reporting | Poland | title not in include list
+  - DevOps Cloud Engineer | Canada - Toronto - Ontario | title not in include list
   - Platform Operations Engineer | Mexico - Colonia Juarez - Mexico | title not in include list
   - Data Engineering Specialist | CA-Toronto-York St 24/25 | title not in include list
   - Software Developer Intern - Stockholm Summer 2027 | Stockholm - Zenit | title excluded: Intern
-  - Lead QA Test Engineer | CA-Toronto-York St 24/25 | title excluded: Lead
   - Director, AI Engineering & Automation | USA - New York City - New York | title excluded: Director
+  - Lead QA Test Engineer | CA-Toronto-York St 24/25 | title excluded: Lead
   - Senior Specialist - Quality Engineering | India - Bangalore - Karnataka | title not in include list
   - Senior Site Reliability Engineer | Philippines - Taguig City - National Capital Region | title excluded: Site Reliability
   - Sr Specialist- Platform Operations Engineer | Mexico - Colonia Juarez - Mexico | title not in include list
@@ -4711,7 +4710,7 @@
   - Junior Expert IT-System Engineer (alle Geschlechter) | Bitterfeld-Wolfen,Saxony-Anhalt,Germany | title not in include list
   - Regulatory Automation Developer (remote role) | Gdańsk,Pomorskie,Poland / Warszawa,Mazowieckie,Poland / Wrocław,Dolnośląskie,Poland / Bydgoszcz,Kujawsko-pomorskie,Poland / Lublin,Lubelskie,Poland / Gorzów Wielkopolski,Lubuskie,Poland / Łódź,łódzkie,Poland / Kraków,Małopolskie,Poland / Opole,Opolskie,Poland / Białystok,Podlaskie,Poland / Katowice,śląskie,Poland / Olsztyn,Warmińsko-mazurskie,Poland / Poznań,Wielkopolskie,Poland / Szczecin,Zachodniopomorskie,Poland / Kielce,świętokrzyskie,Poland / Rzeszów,Podkarpackie,Poland | title not in include list
   - SAP S/4HANA Lead Developer | Ciudad de México,Ciudad de México,Mexico / Bangalore,Karnataka,India / Barcelona,Cataluña,Spain / Heredia,Heredia,Costa Rica | title excluded: Lead
-## DTCC: 138 engineering roles rejected
+## DTCC: 137 engineering roles rejected
   - Software Engineering Associate - Full Stack Developer | Hyderabad, India / Chennai, India | location
   - Software Engineering Associate - Snowflake | Hyderabad, India | location
   - Software Engineering Senior Associate (Python AND AI) | Hyderabad, India | experience: asks 7+ yrs
@@ -4750,7 +4749,6 @@
   - Blockchain Engineer | Jersey City, NJ, United States / Dallas, TX, United States / Tampa, FL, United States | title not in include list
   - Performance Test Engineering Associate | Hyderabad, India / Chennai, India | title not in include list
   - Software Engineering Senior Associate | Hyderabad, India | experience: asks 5+ yrs
-  - Software Engineering Senior Associate (Java full stack) | Hyderabad, India / Chennai, India | experience: asks 7+ yrs
   - Application Support Engineering Associate | TX, United States | title excluded: Support Engineer
   - Software Engineering Associate Director | Hyderabad, India | title excluded: Director
   - Lead Infrastructure Test Engineer (US Shift) | Manila, Philippines | title excluded: Lead
@@ -4772,6 +4770,7 @@
   - Infrastructure Test Engineering Senior Analyst - Performance Engineering | Hyderabad, India | title not in include list
   - Infrastructure Test Engineering Associate | Manila, Philippines | title not in include list
   - AI & Data Engineering Architect | Hyderabad, India | title excluded: Architect
+  - Systems Engineering Senior Associate | Manila, Philippines | title not in include list
 ## JPMorganChase: 205 engineering roles rejected
   - Director of Software Engineering | Plano, TX, United States | title excluded: Director
   - Lead Software Engineer - Infrastructure Platforms | Plano, TX, United States | title excluded: Lead
