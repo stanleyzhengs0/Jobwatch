@@ -13,7 +13,7 @@ Datadog               384 open,   0 match
 MongoDB               390 open,   5 match
 Affirm                217 open,  11 match
 Spotify                87 open,   1 match
-Toast                 355 open,   1 match
+Toast                 354 open,   1 match
 Alloy                  32 open,   0 match
 Clay                   60 open,   4 match
 Paxos                  24 open,   0 match
@@ -37,7 +37,7 @@ Brex                  286 open,   3 match
 Chime                  71 open,   3 match
 Perplexity            141 open,  18 match
 Sierra                198 open,  10 match
-ElevenLabs            128 open,   5 match
+ElevenLabs            127 open,   5 match
 Notion                165 open,   6 match
 Replit                 30 open,   1 match
 Harvey                388 open,   0 match
@@ -46,7 +46,7 @@ Grafana Labs          140 open,   0 match
 Airtable                9 open,   0 match
 Hinge Health           83 open,  11 match
 Airbnb                214 open,   1 match
-Samsara               319 open,   6 match
+Samsara               318 open,   6 match
 Twilio                114 open,   1 match
 Asana                 109 open,   0 match
 Dropbox                44 open,   0 match
@@ -58,7 +58,7 @@ LangChain             103 open,   6 match
 Abridge                24 open,   0 match
 Fetch Pet Insurance    56 open,   0 match
 Runway                  3 open,   0 match
-Rogo                  103 open,   4 match
+Rogo                  102 open,   4 match
 Kalshi                 28 open,   4 match
 Public.com              3 open,   0 match
 Baseten               102 open,  24 match
@@ -73,13 +73,13 @@ Faire                  71 open,   0 match
 Tailscale              79 open,   6 match
 Chainguard            113 open,   1 match
 WorkOS                 27 open,   1 match
-Ironclad               24 open,   0 match
+Ironclad               23 open,   0 match
 Cresta                 88 open,   1 match
 Apollo.io              44 open,   0 match
 Anyscale               24 open,   1 match
 Deepgram               64 open,   2 match
 Anthropic             668 open,   9 match
-OpenAI                840 open,  66 match
+OpenAI                837 open,  66 match
 Databricks            895 open,   1 match
 Upstart                77 open,   6 match
 Hippo                  17 open,   0 match
@@ -87,8 +87,8 @@ Zapier                 10 open,   0 match
 Greenhouse Software    20 open,   0 match
 Mastercard            284 open,   0 match
 Adobe                 209 open,   1 match
-NVIDIA                664 open,   0 match
-Salesforce            429 open,   0 match
+NVIDIA                663 open,   0 match
+Salesforce            428 open,   0 match
 Johnson & Johnson     195 open,   0 match
 Merck                  99 open,   0 match
 Bank of America        83 open,   4 match
@@ -111,9 +111,9 @@ Autodesk                3 open,   0 match
 DuckDuckGo             10 open,   0 match
 The Trade Desk         98 open,   0 match
 Moloco                 50 open,   0 match
-EliseAI               110 open,   4 match
+EliseAI               111 open,   4 match
 Hightouch              83 open,   8 match
-Celonis               265 open,   3 match
+Celonis               263 open,   3 match
 Box                   149 open,   0 match
 The New York Times    168 open,   2 match
 Hudl                   44 open,   0 match
@@ -164,16 +164,16 @@ Codecademy              0 open,   0 match
 Astronomer             20 open,   0 match
 Semgrep                14 open,   0 match
 Cisco                 454 open,   4 match
-Red Hat                92 open,   0 match
+Red Hat                93 open,   0 match
 Hewlett Packard Enterprise  433 open,   0 match
 Thomson Reuters       219 open,   4 match
 Organon                 1 open,   0 match
 GSK                   106 open,   2 match
-Bayer                  41 open,   0 match
+Bayer                  40 open,   0 match
 DTCC                  333 open,   3 match
 JPMorganChase         485 open,  11 match
 Barclays              233 open,   0 match
-Nokia                 368 open,   0 match
+Nokia                 369 open,   0 match
 Jefferies             135 open,   2 match
 Jefferies             239 open,   0 match
 Broadridge            210 open,   3 match
