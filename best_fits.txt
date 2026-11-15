@@ -4,7 +4,7 @@
   https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15376-1
 - Hinge Health: Senior Software Engineer - AI Platform | fit 26 | San Francisco-HQ | $188K–$257K | asks 3+ yrs (stretch: senior title) | posted 20d ago
   https://jobs.ashbyhq.com/hinge-health/de8d7cf5-6cd2-45ad-9f0b-a8ff1e102600
-- Twilio: Software Engineer (L3) Email | fit 25 | Remote - US | $139K–$173K | asks 4+ yrs | posted 11d ago
+- Twilio: Software Engineer (L3) Email | fit 25 | Remote - US | $139K–$173K | asks 4+ yrs | posted 12d ago
   https://job-boards.greenhouse.io/twilio/jobs/8026199
 - Guidewire: Software Engineer | fit 24 | United States - Exton, PA | $86K–$164K | posted 11d ago
   https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15373-1
@@ -22,7 +22,7 @@
   https://jobs.ashbyhq.com/hinge-health/5011fad1-6e21-4ed2-be58-5b820e4f9b6f
 - Comcast: Backend Developer | fit 21 | PA - Philadelphia, 1800 Arch St / VA - Reston, 11951 Freedom Dr Ste 900 | $138K–$216K | posted 3d ago
   https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Backend-Developer_R448285
-- JPMorganChase: Full-Stack Java React Software Engineer III | fit 20 | Jersey City, NJ, United States | asks 3+ yrs | posted 41h ago
+- JPMorganChase: Full-Stack Java React Software Engineer III | fit 20 | Jersey City, NJ, United States | asks 3+ yrs | posted 46h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787819
 - Disney: Product Software Engineer II | fit 20 | New York, NY, USA | $125K–$167K | asks 3+ yrs | posted 6d ago
   https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-II_10160173
@@ -40,7 +40,7 @@
   https://jobs.ashbyhq.com/hinge-health/2eb66662-40fc-4554-b8b7-eb15bdadc3e4
 - DTCC: Platform Engineering Senior Associate | fit 17 | Tampa, FL, United States / Dallas, TX, United States / Jersey City, NJ, United States | asks 3+ yrs (stretch: senior title) | posted 19d ago
   https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215117
-- OpenAI: Full Stack Software Engineer, ChatGPT Finances | fit 16 | San Francisco | $347K–$385K | posted 44h ago
+- OpenAI: Full Stack Software Engineer, ChatGPT Finances | fit 16 | San Francisco | $347K–$385K | posted 2d ago
   https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9
 - MongoDB: Software Engineer 3 | fit 16 | New York City | $106K–$209K | asks 3+ yrs | posted 3d ago
   https://www.mongodb.com/careers/job/?gh_jid=8367902
@@ -48,7 +48,7 @@
   https://www.mongodb.com/careers/job/?gh_jid=8351199
 - Thomson Reuters: Senior Software Engineer – AI, Tax and Audit, FDE | fit 16 | United States of America, New York, New York / United States of America, Frisco, Texas / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 5d ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Software-Engineer---AI--Tax-and-Audit--FDE_JREQ204981-2
-- Hinge Health: Senior Software Engineer - Search | fit 16 | San Francisco-HQ | $164K–$217K | asks 3+ yrs (stretch: senior title) | posted 5d ago
+- Hinge Health: Senior Software Engineer - Search | fit 16 | San Francisco-HQ | $164K–$217K | asks 3+ yrs (stretch: senior title) | posted 6d ago
   https://jobs.ashbyhq.com/hinge-health/4d11a165-4f54-4561-80a9-8bc8b3a1d0d0
 - Sentry: Forward Deployed Engineer | fit 15 | San Francisco, California | $175K–$200K | asks 1+ yrs | posted 5d ago
   https://jobs.ashbyhq.com/sentry/9b759583-60d2-4673-9da6-026731956300
@@ -68,7 +68,7 @@
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer--Strategic-Accounts---Mid-Law_JREQ205322
 - MongoDB: Software Engineer 3 | fit 13 | New York City | $106K–$209K | asks 3+ yrs | posted 3d ago
   https://www.mongodb.com/careers/job/?gh_jid=8366703
-- OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 3d ago
+- OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 4d ago
   https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e
 - JPMorganChase: Software Engineer III (Java) | fit 13 | Jersey City, NJ, United States | asks 3+ yrs | posted 6d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805882
@@ -84,7 +84,7 @@
   https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003
 - JPMorganChase: Software Engineer II (Java) | fit 11 | Jersey City, NJ, United States | asks 2+ yrs | posted 6d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804041
-- OpenAI: Applied AI Engineer, Enterprise - EDU | fit 11 | San Francisco / New York City / US - Remote | $251K–$278K | posted 8d ago
+- OpenAI: Applied AI Engineer, Enterprise - EDU | fit 11 | San Francisco / New York City / US - Remote | $251K–$278K | posted 9d ago
   https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5
 - Addepar: AI Engineer - AI Platform | fit 11 | New York, NY | $163K–$204K | asks 1+ yrs | posted 19d ago
   https://job-boards.greenhouse.io/addepar1/jobs/8906234002
@@ -92,15 +92,15 @@
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778199
 - Motorola Solutions: Command Center Solutions Services (CCSS) Engineering Organization - Software Engineer | fit 10 | Massachusetts Remote Work / Washington DC Remote Work / Virginia Remote Work / New Jersey Remote Work / New York Remote Work / Pennsylvania Remote Work / Connecticut Remote Work / Rhode Island Remote Work | $95K–$105K | asks 2+ yrs | posted 11d ago
   https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Command-Center-Solutions-Services--CCSS--Engineering-Organization---Software-Engineer_R69567
-- Toast: Software Engineer II, Backend | fit 10 | Remote US | $133K–$213K | asks 2+ yrs | posted 11d ago
+- Toast: Software Engineer II, Backend | fit 10 | Remote US | $133K–$213K | asks 2+ yrs | posted 12d ago
   https://careers.toasttab.com/jobs?gh_jid=8334794
-- ElevenLabs: Full-Stack Engineer (Backend Leaning) - Payments Engineering | fit 10 | Remote / Ireland / Europe / United States / Poland / United Kingdom | posted 12d ago
+- ElevenLabs: Full-Stack Engineer (Backend Leaning) - Payments Engineering | fit 10 | Remote / Ireland / Europe / United States / Poland / United Kingdom | posted 13d ago
   https://jobs.ashbyhq.com/ElevenLabs/e4e0450f-d139-4f8e-b210-2f326a680d90
-- ElevenLabs: Full-Stack Engineer (Backend Leaning) - Platform Engineering | fit 10 | Remote / Ireland / Europe / United States / Poland / United Kingdom | posted 12d ago
+- ElevenLabs: Full-Stack Engineer (Backend Leaning) - Platform Engineering | fit 10 | Remote / Ireland / Europe / United States / Poland / United Kingdom | posted 13d ago
   https://jobs.ashbyhq.com/ElevenLabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0
-- Baseten: Software Engineer, Cloud Platform | fit 9 | San Francisco / Remote / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 40h ago
+- Baseten: Software Engineer, Cloud Platform | fit 9 | San Francisco / Remote / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 45h ago
   https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0
-- JPMorganChase: Python Software Engineer III | fit 9 | Jersey City, NJ, United States | asks 3+ yrs | posted 41h ago
+- JPMorganChase: Python Software Engineer III | fit 9 | Jersey City, NJ, United States | asks 3+ yrs | posted 46h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809499
 - CrowdStrike: Engineer III, OverWatch Labs (Remote) | fit 9 | USA - Remote | $120K–$185K | posted 2d ago
   https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III--OverWatch-Labs--Remote-_R30760
@@ -118,5 +118,5 @@
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805477
 - JPMorganChase: Python Pyspark Software Engineer III | fit 8 | Jersey City, NJ, United States | asks 3+ yrs | posted 3d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799340
-- OpenAI: Software Engineer, Agent Platform | fit 8 | San Francisco | $230K–$385K | posted 9d ago
+- OpenAI: Software Engineer, Agent Platform | fit 8 | San Francisco | $230K–$385K | posted 10d ago
   https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004
