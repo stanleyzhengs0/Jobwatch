@@ -5,12 +5,12 @@
   ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 Hebbia                 23 open,   2 match
 Mercury                79 open,   5 match
-Plaid                 142 open,   4 match
+Plaid                 141 open,   4 match
 Glean                 121 open,   2 match
 Duolingo               59 open,   0 match
-Braze                 345 open,   1 match
+Braze                 346 open,   1 match
 Datadog               384 open,   0 match
-MongoDB               392 open,   5 match
+MongoDB               391 open,   5 match
 Affirm                217 open,  11 match
 Spotify                87 open,   1 match
 Toast                 354 open,   1 match
@@ -36,8 +36,8 @@ Wealthfront            21 open,   2 match
 Brex                  286 open,   3 match
 Chime                  71 open,   3 match
 Perplexity            141 open,  18 match
-Sierra                198 open,  10 match
-ElevenLabs            127 open,   5 match
+Sierra                197 open,  10 match
+ElevenLabs            125 open,   3 match
 Notion                165 open,   6 match
 Replit                 30 open,   1 match
 Harvey                388 open,   0 match
@@ -45,7 +45,7 @@ Vercel                 86 open,   4 match
 Grafana Labs          140 open,   0 match
 Airtable                9 open,   0 match
 Hinge Health           83 open,  11 match
-Airbnb                213 open,   1 match
+Airbnb                212 open,   1 match
 Samsara               317 open,   6 match
 Twilio                114 open,   1 match
 Asana                 109 open,   0 match
@@ -53,7 +53,7 @@ Dropbox                44 open,   0 match
 Reddit                145 open,   8 match
 Elastic               400 open,   0 match
 Lyft                  148 open,   0 match
-Roblox                271 open,   0 match
+Roblox                270 open,   0 match
 LangChain             103 open,   6 match
 Abridge                24 open,   0 match
 Fetch Pet Insurance    56 open,   0 match
@@ -61,7 +61,7 @@ Runway                  3 open,   0 match
 Rogo                  102 open,   4 match
 Kalshi                 28 open,   4 match
 Public.com              3 open,   0 match
-Baseten               102 open,  24 match
+Baseten               103 open,  24 match
 Fireworks AI          100 open,   8 match
 Together AI            80 open,   0 match
 Cognition             112 open,   7 match
@@ -78,7 +78,7 @@ Cresta                 88 open,   1 match
 Apollo.io              44 open,   0 match
 Anyscale               24 open,   1 match
 Deepgram               64 open,   2 match
-Anthropic             666 open,   9 match
+Anthropic             663 open,   9 match
 OpenAI                838 open,  66 match
 Databricks            895 open,   1 match
 Upstart                77 open,   6 match
@@ -88,8 +88,8 @@ Greenhouse Software    20 open,   0 match
 Mastercard            283 open,   0 match
 Adobe                 209 open,   1 match
 NVIDIA                663 open,   0 match
-Salesforce            426 open,   0 match
-Johnson & Johnson     197 open,   0 match
+Salesforce            427 open,   0 match
+Johnson & Johnson     199 open,   0 match
 Merck                  92 open,   0 match
 Bank of America        83 open,   4 match
 Fidelity Investments  165 open,   0 match
@@ -103,7 +103,7 @@ Guidewire             111 open,   2 match
 Arch Capital Group     39 open,   0 match
 Nationwide            136 open,   1 match
 Insurify               16 open,   0 match
-Wiz                   110 open,   0 match
+Wiz                   112 open,   0 match
 Huntress               48 open,   0 match
 CrowdStrike           175 open,   8 match
 Motorola Solutions    422 open,   2 match
@@ -129,15 +129,15 @@ Gong                   89 open,   0 match
 DRW                   159 open,   4 match
 Cedar                   1 open,   0 match
 Dataiku                14 open,   0 match
-Thoughtworks           47 open,   0 match
-ServiceNow            815 open,   0 match
+Thoughtworks           48 open,   0 match
+ServiceNow            813 open,   0 match
 Synchrony              21 open,   0 match
 FactSet                61 open,   0 match
 CME Group              23 open,   0 match
 Blackstone             26 open,   4 match
 Sanofi                 72 open,   0 match
-Novartis              238 open,   0 match
-BD (Becton Dickinson)  292 open,   2 match
+Novartis              237 open,   0 match
+BD (Becton Dickinson)  293 open,   2 match
 Qualcomm                0 open,   0 match
 Booz Allen Hamilton   400 open,   1 match
 Markel                136 open,   0 match
@@ -149,7 +149,7 @@ Northwestern Mutual    12 open,   0 match
 Hudson River Trading   83 open,   7 match
 Tower Research Capital   92 open,   5 match
 AQR Capital Management   48 open,   0 match
-IMC Trading           156 open,   1 match
+IMC Trading           157 open,   1 match
 PDT Partners           13 open,   1 match
 Five Rings             19 open,   0 match
 Squarepoint Capital    90 open,   0 match
@@ -164,16 +164,16 @@ Codecademy              0 open,   0 match
 Astronomer             20 open,   0 match
 Semgrep                14 open,   0 match
 Cisco                 455 open,   4 match
-Red Hat                93 open,   0 match
-Hewlett Packard Enterprise  433 open,   0 match
+Red Hat                94 open,   0 match
+Hewlett Packard Enterprise  439 open,   0 match
 Thomson Reuters       217 open,   4 match
 Organon                 1 open,   0 match
-GSK                   102 open,   2 match
+GSK                   101 open,   2 match
 Bayer                  39 open,   0 match
 DTCC                  333 open,   3 match
-JPMorganChase         486 open,  11 match
-Barclays              233 open,   0 match
-Nokia                 369 open,   0 match
+JPMorganChase         487 open,  11 match
+Barclays              234 open,   0 match
+Nokia                 368 open,   0 match
 Jefferies             135 open,   2 match
 Jefferies             239 open,   0 match
 Broadridge            209 open,   3 match
