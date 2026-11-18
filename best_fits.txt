@@ -68,7 +68,7 @@
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805882
 - Tailscale: Documentation Platform Engineer | fit 13 | Remote (United States) | $163K–$204K | posted 15d ago
   https://job-boards.greenhouse.io/tailscale/jobs/4750594005
-- Twilio: Software Engineer - Platform Engineering | fit 12 | Remote - US | $109K–$136K | posted 6h ago
+- Twilio: Software Engineer - Platform Engineering | fit 12 | Remote - US | $109K–$136K | posted 7h ago
   https://job-boards.greenhouse.io/twilio/jobs/8385593
 - Salesforce: Software Engineer | fit 12 | New York - New York | $172K–$260K | posted 45h ago
   https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Software-Engineer_JR367393
@@ -92,7 +92,7 @@
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778199
 - Motorola Solutions: Command Center Solutions Services (CCSS) Engineering Organization - Software Engineer | fit 10 | Massachusetts Remote Work / Washington DC Remote Work / Virginia Remote Work / New Jersey Remote Work / New York Remote Work / Pennsylvania Remote Work / Connecticut Remote Work / Rhode Island Remote Work | $95K–$105K | asks 2+ yrs | posted 14d ago
   https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Massachusetts-Remote-Work/Command-Center-Solutions-Services--CCSS--Engineering-Organization---Software-Engineer_R69567
-- OpenAI: Full Stack Software Engineer, Dots for Companies | fit 9 | San Francisco | $347K–$385K | posted 23h ago
+- OpenAI: Full Stack Software Engineer, Dots for Companies | fit 9 | San Francisco | $347K–$385K | posted 24h ago
   https://jobs.ashbyhq.com/openai/7447dd43-9bf5-445f-bb8c-ba57756c8d04
 - CrowdStrike: Engineer II, Supply Chain Distribution, Product Security (Remote) | fit 9 | USA - Remote | $100K–$150K | posted 45h ago
   https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29328

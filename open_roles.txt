@@ -8,7 +8,7 @@
   https://jobs.ashbyhq.com/render/a3f88090-5e37-43a7-b392-04b02056db6d
 - [startup] Warp: Software Engineer | fit 9 | Remote within US and Canada | $165K–$260K | posted 1750d ago
   https://job-boards.greenhouse.io/warp/jobs/4324888004
-- [startup] Middesk: Forward Deployed Engineer | fit 12 | San Francisco / New York | $148K–$255K | asks 3+ yrs | posted 195d ago
+- [startup] Middesk: Forward Deployed Engineer | fit 12 | San Francisco / New York | $148K–$255K | asks 3+ yrs | posted 196d ago
   https://jobs.ashbyhq.com/middesk/a72b1048-1001-49b1-92bd-9c44574f939b
 - [startup] Middesk: Software Engineer | fit 6 | San Francisco / New York | $148K–$250K | posted 546d ago
   https://jobs.ashbyhq.com/middesk/e1c6af86-dce1-495f-a710-ad369fd1308c
@@ -58,7 +58,7 @@
   https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1
 - [growth] Baseten: Software Engineer - Testing Frameworks | fit 14 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 98d ago
   https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d
-- [growth] Baseten: Software Engineer - Continuous Delivery | fit 10 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 98d ago
+- [growth] Baseten: Software Engineer - Continuous Delivery | fit 10 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 99d ago
   https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce
 - [growth] Baseten: Software Engineer - Observability | fit 10 | San Francisco / Toronto / New York / Montreal / Seattle | $165K–$330K | posted 100d ago
   https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda
@@ -250,7 +250,7 @@
   https://jobs.ashbyhq.com/persona/fe95a1b5-de1a-4b7f-9637-eeddc4c31b1d
 - [growth] Supabase: Data API Engineer | fit 7 | Remote, Global | asks 3+ yrs | posted 25d ago
   https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0
-- [growth] Supabase: Software Engineer - Turso | fit 9 | Remote, Global | posted 27d ago
+- [growth] Supabase: Software Engineer - Turso | fit 9 | Remote, Global | posted 28d ago
   https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259
 - [growth] Supabase: Platform Engineer - Compute | fit 12 | Remote, Global | asks 3+ yrs | posted 36d ago
   https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757
@@ -392,7 +392,7 @@
   https://jobs.ashbyhq.com/Perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8
 - [large] Perplexity: Member of Technical Staff (Software Engineer, Security) | fit 10 | San Francisco / Remote (United States) / London / Belgrade / New York City / Dublin | $220K–$405K | asks 4+ yrs | posted 350d ago
   https://jobs.ashbyhq.com/Perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03
-- [large] OpenAI: Software Engineer, Agent Identity | fit 7 | San Francisco / Mountain View | $350K–$405K | posted 2h ago
+- [large] OpenAI: Software Engineer, Agent Identity | fit 7 | San Francisco / Mountain View | $350K–$405K | posted 3h ago
   https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0
 - [large] OpenAI: Software Engineer, IP Infrastructure | fit 6 | San Francisco | $266K–$405K | asks 4+ yrs | posted 20d ago
   https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b
@@ -422,7 +422,7 @@
   https://jobs.ashbyhq.com/Sierra/f51d6c09-d767-4e86-bc62-216b2051e318
 - [large] Sierra: Software Engineer, Agent | fit 10 | San Francisco, CA / New York, NY / Atlanta, GA | $180K–$390K | posted 579d ago
   https://jobs.ashbyhq.com/Sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e
-- [large] OpenAI: Full Stack Software Engineer, Dots for Companies | fit 9 | San Francisco | $347K–$385K | posted 23h ago
+- [large] OpenAI: Full Stack Software Engineer, Dots for Companies | fit 9 | San Francisco | $347K–$385K | posted 24h ago
   https://jobs.ashbyhq.com/openai/7447dd43-9bf5-445f-bb8c-ba57756c8d04
 - [large] OpenAI: Full Stack Software Engineer, ChatGPT Finances | fit 16 | San Francisco | $347K–$385K | posted 5d ago
   https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9
@@ -618,7 +618,7 @@
   https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530
 - [large] Brex: Software Engineer II, Frontend (Banking) | fit 3 | New York, New York, United States | $152K–$190K | asks 4+ yrs | posted 6d ago
   https://www.brex.com/careers/8928935002?gh_jid=8928935002
-- [large] Brex: Software Engineer II, Backend | fit 1 | New York, New York, United States | $152K–$190K | asks 4+ yrs | posted 62d ago
+- [large] Brex: Software Engineer II, Backend | fit 1 | New York, New York, United States | $152K–$190K | asks 4+ yrs | posted 63d ago
   https://www.brex.com/careers/8815443002?gh_jid=8815443002
 - [large] Brex: Software Engineer II, Data Enablement Platform | fit 5 | New York, New York, United States | $152K–$190K | asks 3+ yrs | posted 147d ago
   https://www.brex.com/careers/8605062002?gh_jid=8605062002
@@ -658,7 +658,7 @@
   https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511
 - [large] Affirm: Software Engineer I, Backend (Continuous Delivery) | fit 3 | Remote US | $130K–$180K | posted 5d ago
   https://job-boards.greenhouse.io/affirm/jobs/8181183003
-- [large] Affirm: Software Engineer I, Fullstack (Search) | fit 3 | Remote US | $130K–$180K | posted 33d ago
+- [large] Affirm: Software Engineer I, Fullstack (Search) | fit 3 | Remote US | $130K–$180K | posted 34d ago
   https://job-boards.greenhouse.io/affirm/jobs/8017340003
 - [large] CrowdStrike: Engineer III - FinOps Data Analytics (Remote) | fit 15 | USA - Remote | $120K–$180K | asks 3+ yrs | posted 76d ago
   https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II---Data-Analytics--Hybrid-_R28231
@@ -716,7 +716,7 @@
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1
 - [large] BD (Becton Dickinson): Senior Engineer, Combination Products | fit 8 | USA NJ Branchburg | $87K–$140K | asks 2+ yrs (stretch: senior title) | posted 5d ago
   https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ-Branchburg/Combination-Products-Senior-Engineer_R-553015-1
-- [large] Twilio: Software Engineer - Platform Engineering | fit 12 | Remote - US | $109K–$136K | posted 6h ago
+- [large] Twilio: Software Engineer - Platform Engineering | fit 12 | Remote - US | $109K–$136K | posted 7h ago
   https://job-boards.greenhouse.io/twilio/jobs/8385593
 - [large] Broadridge: Sr Software Engineer-Java | fit 8 | Pittsburgh, PA / Newark, NJ | $120K–$125K | asks 3+ yrs (stretch: senior title) | posted 22d ago
   https://broadridge.wd5.myworkdayjobs.com/Careers/job/Pittsburgh-PA/Sr-Software-Engineer-Java_JR1086922
@@ -750,7 +750,7 @@
   https://job-boards.greenhouse.io/affirm/jobs/8196112003
 - [large] Affirm: Software Engineer II, Backend (Test Infra) | fit 9 | Remote US | asks 3+ yrs | posted 131d ago
   https://job-boards.greenhouse.io/affirm/jobs/7727320003
-- [large] Affirm: Software Engineer II, Fullstack (Capital Orchestration) | fit 6 | Remote US | asks 1.5+ yrs | posted 168d ago
+- [large] Affirm: Software Engineer II, Fullstack (Capital Orchestration) | fit 6 | Remote US | asks 1.5+ yrs | posted 169d ago
   https://job-boards.greenhouse.io/affirm/jobs/7749755003
 - [large] JPMorganChase: Data Engineer III-Python/SQL/Snowflake | fit 13 | Jersey City, NJ, United States | asks 3+ yrs | posted 21h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807003

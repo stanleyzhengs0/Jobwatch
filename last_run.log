@@ -6,14 +6,14 @@
 Hebbia                 23 open,   2 match
 Mercury                74 open,   5 match
 Plaid                 143 open,   4 match
-Glean                 123 open,   2 match
+Glean                 124 open,   2 match
 Duolingo               55 open,   0 match
 Braze                 334 open,   1 match
 Datadog               380 open,   0 match
 MongoDB               397 open,   5 match
 Affirm                220 open,  10 match
 Spotify                90 open,   1 match
-Toast                 328 open,   1 match
+Toast                 329 open,   1 match
 Alloy                  33 open,   0 match
 Clay                   61 open,   4 match
 Paxos                  22 open,   0 match
@@ -33,19 +33,19 @@ Ethos                  75 open,   0 match
 Openly                  6 open,   0 match
 At-Bay                 24 open,   0 match
 Wealthfront            20 open,   2 match
-Brex                  266 open,   3 match
+Brex                  269 open,   3 match
 Chime                  77 open,   3 match
 Perplexity            147 open,  18 match
 Sierra                195 open,  10 match
 ElevenLabs            130 open,   5 match
-Notion                166 open,   6 match
+Notion                167 open,   6 match
 Replit                 36 open,   1 match
 Harvey                390 open,   0 match
 Vercel                 86 open,   4 match
 Grafana Labs          138 open,   0 match
 Airtable               11 open,   0 match
 Hinge Health           83 open,  10 match
-Airbnb                204 open,   0 match
+Airbnb                202 open,   0 match
 Samsara               307 open,   6 match
 Twilio                110 open,   4 match
 Asana                 115 open,   0 match
@@ -58,18 +58,18 @@ LangChain             102 open,   5 match
 Abridge                27 open,   0 match
 Fetch Pet Insurance    57 open,   0 match
 Runway                  3 open,   0 match
-Rogo                   99 open,   4 match
+Rogo                  100 open,   4 match
 Kalshi                 28 open,   4 match
 Public.com              4 open,   0 match
 Baseten               103 open,  24 match
 Fireworks AI          104 open,   8 match
 Together AI            73 open,   0 match
 Cognition             110 open,   7 match
-Decagon               111 open,   0 match
+Decagon               110 open,   0 match
 Suno                   62 open,   0 match
 Exa                    67 open,   1 match
 Column                 23 open,   0 match
-Faire                  69 open,   0 match
+Faire                  70 open,   0 match
 Tailscale              76 open,   5 match
 Chainguard            113 open,   1 match
 WorkOS                 27 open,   1 match
@@ -78,10 +78,10 @@ Cresta                 84 open,   1 match
 Apollo.io              45 open,   0 match
 Anyscale               24 open,   1 match
 Deepgram               58 open,   2 match
-Anthropic             648 open,   7 match
-OpenAI                838 open,  65 match
+Anthropic             647 open,   7 match
+OpenAI                837 open,  65 match
 Databricks            899 open,   0 match
-Upstart                75 open,   7 match
+Upstart                76 open,   7 match
 Hippo                  15 open,   0 match
 Zapier                 10 open,   0 match
 Greenhouse Software    27 open,   0 match
@@ -103,7 +103,7 @@ Guidewire             117 open,   3 match
 Arch Capital Group     39 open,   0 match
 Nationwide            138 open,   0 match
 Insurify               16 open,   0 match
-Wiz                   107 open,   0 match
+Wiz                   106 open,   0 match
 Huntress               51 open,   0 match
 CrowdStrike           186 open,  10 match
 Motorola Solutions    422 open,   2 match
@@ -114,8 +114,8 @@ Moloco                 53 open,   0 match
 EliseAI               107 open,   4 match
 Hightouch              82 open,   8 match
 Celonis               261 open,   1 match
-Box                   126 open,   0 match
-The New York Times    144 open,   1 match
+Box                   127 open,   0 match
+The New York Times    145 open,   1 match
 Hudl                   48 open,   0 match
 Everlaw                34 open,   0 match
 Grow Therapy           31 open,   0 match
@@ -140,7 +140,7 @@ Novartis              236 open,   0 match
 BD (Becton Dickinson)  298 open,   2 match
 Qualcomm                0 open,   0 match
 Booz Allen Hamilton   394 open,   2 match
-Markel                126 open,   0 match
+Markel                130 open,   0 match
 Tokio Marine North America Services    5 open,   0 match
 Philadelphia Insurance Companies    0 open,   0 match
 Ladder                  3 open,   0 match
@@ -163,22 +163,22 @@ Watershed              39 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             19 open,   0 match
 Semgrep                16 open,   0 match
-Cisco                 479 open,   4 match
+Cisco                 480 open,   4 match
 Red Hat               110 open,   0 match
 Hewlett Packard Enterprise  423 open,   0 match
-Thomson Reuters       219 open,   3 match
+Thomson Reuters       220 open,   3 match
 Organon                 1 open,   0 match
 GSK                   172 open,   2 match
 Bayer                   0 open,   0 match
 DTCC                  335 open,   3 match
-JPMorganChase         503 open,   9 match
+JPMorganChase         501 open,   9 match
 Barclays              255 open,   0 match
 Nokia                 373 open,   0 match
 Jefferies             139 open,   2 match
 Jefferies             206 open,   0 match
 Broadridge            210 open,   3 match
 DraftKings             17 open,   0 match
-FanDuel               104 open,   0 match
+FanDuel               105 open,   0 match
 Nourish                92 open,   2 match
 Rho                    47 open,   0 match
 Middesk                17 open,   3 match
@@ -191,6 +191,4 @@ LogRocket               8 open,   0 match
 Morgan Stanley        145 open,   3 match
 Etsy                   21 open,   0 match
 
-1 new match(es)
-  + [large] OpenAI: Software Engineer, Agent Identity | fit 7 | San Francisco / Mountain View | $350K–$405K | posted 2h ago
-    https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0
+0 new match(es)
