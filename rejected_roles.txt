@@ -95,7 +95,7 @@
   - Software Engineer, AI & Security | Mountain View, CA | experience: asks 5+ yrs
   - Software Engineer, APIs & Context Platform | Mountain View, CA | experience: asks 8+ yrs
   - Software Engineer, Backend | Bangalore, India | experience: asks 6+ yrs
-  - Software Engineer, Cloud Infrastructure | San Francisco, CA | location
+  - Software Engineer, Cloud Infrastructure & Automation | San Francisco, CA | location
   - Software Engineer, Consumption Billing & Revenue Platform | Mountain View, CA | experience: asks 8+ yrs
   - Software Engineer, Data Foundations | Mountain View, CA | location
   - Software Engineer, Developer Productivity | Mountain View, CA | location
@@ -190,12 +190,12 @@
   - Staff Software Engineer, Messaging Experience | Toronto | title excluded: Staff
   - Staff Software Engineer, Messaging Experience | San Francisco | title excluded: Staff
   - Staff Software Engineer, Messaging Experience | Chicago | title excluded: Staff
-## Datadog: 83 engineering roles rejected
+## Datadog: 85 engineering roles rejected
   - AI Research Engineer - Datadog AI Research (DAIR) | Paris, France | title excluded: Research
   - Commercial & Mid-Market Sales Engineer | Seoul, South Korea | title excluded: Sales
   - Commercial & Mid-Market Sales Engineer | Seoul, South Korea | title excluded: Sales
-  - Commercial Sales Engineer | Bangalore, India | title excluded: Sales
   - Commercial Sales Engineer | Sydney, Australia | title excluded: Sales
+  - Commercial Sales Engineer | Bangalore, India | title excluded: Sales
   - Commercial Sales Engineer 2 (AMER - West) | Denver, Colorado, USA | title excluded: Sales
   - Commercial Sales Engineer 2 (Sao Paulo) | Sao Paulo, Brazil | title excluded: Sales
   - Commercial Sales Engineer (AMER - West) | Denver, Colorado, USA | title excluded: Sales
@@ -209,6 +209,8 @@
   - Director, Sales Engineering - ASEAN | Singapore, Singapore | title excluded: Director
   - Engineering Compensation Partner | Boston, Massachusetts, USA; New York, New York, USA | title not in include list
   - Engineering Manager I, Commercial Audit | New York, New York, USA | title excluded: Manager
+  - Enterprise Sales Engineer | Osaka, Japan | title excluded: Sales
+  - Enterprise Sales Engineer | Osaka, Japan | title excluded: Sales
   - Enterprise Sales Engineer - Rockies | Colorado, USA, Remote | title excluded: Sales
   - Enterprise Sales Engineer - UK/Ireland | Dublin, Ireland; United Kingdom, Remote | title excluded: Sales
   - Forward Deployed Engineering Manager - Datadog for Startups | New York, New York, USA; San Francisco, California, USA | title excluded: Manager
@@ -217,8 +219,8 @@
   - Manager I, Engineering - Client SDKs (Mobile & Browser) | Madrid, Spain; Paris, France | title excluded: Manager
   - Manager I, Engineering - Code Intelligence | New York, New York, USA | title excluded: Manager
   - Manager I, Engineering - Husky | Paris, France | title excluded: Manager
-  - Manager I, Engineering - Language Platform | Madrid, Spain; Paris, France | title excluded: Manager
   - Manager I, Engineering - Language Platform | Lisbon, Portugal | title excluded: Manager
+  - Manager I, Engineering - Language Platform | Madrid, Spain; Paris, France | title excluded: Manager
   - Manager I, Engineering - Observability Pipelines | New York, New York, USA | title excluded: Manager
   - Manager I, Engineering - Sensitive Data Scanner | Paris, France | title excluded: Manager
   - Manager I, Engineering - Zero Trust Networking | New York, New York, USA | title excluded: Manager
@@ -249,8 +251,6 @@
   - Senior Sales Engineer - AI Accounts | California, USA, Remote | title excluded: Sales
   - Senior Sales Engineer - FED | District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote | title excluded: Sales
   - Senior Sales Engineer - Key Accounts | Arizona, USA, Remote; California, USA, Remote; Nevada, USA, Remote; Oregon, USA, Remote; Washington, USA, Remote | title excluded: Sales
-  - Senior Sales Engineer - Majors (Central) | Illinois, USA, Remote; Texas, USA, Remote | title excluded: Sales
-  - Senior Sales Engineer - Majors (East) | New York, USA, Remote | title excluded: Sales
 ## MongoDB: 124 engineering roles rejected
   - 2027 - Software Engineering Intern, AMER | Austin; New York City; San Francisco | title excluded: Intern
   - 2027 - Software Engineer Intern, Dublin - 6 Month Internship | Dublin | title excluded: Intern
@@ -316,11 +316,11 @@
   - IT Engineer Intern (Early Careers Summer 2027) | San Francisco, California, United States | title excluded: Intern
   - Machine Learning Engineer II (ROA + LTV ML) | Remote Canada | title excluded: Machine Learning
   - Manager, Machine Learning Engineering, Checkout | Remote Spain | title excluded: Manager
-  - Manager, Machine Learning Engineering, Checkout | Remote Poland | title excluded: Manager
   - Manager, Machine Learning Engineering, Checkout | Remote UK | title excluded: Manager
+  - Manager, Machine Learning Engineering, Checkout | Remote Poland | title excluded: Manager
   - Manager, Sales Engineering | Remote US | title excluded: Manager
-  - Manager, Software Engineering (Code Standards) | Remote US | title excluded: Manager
   - Manager, Software Engineering (Code Standards) | Remote Canada | title excluded: Manager
+  - Manager, Software Engineering (Code Standards) | Remote US | title excluded: Manager
   - Manager, Software Engineering (Identity) | Remote UK | title excluded: Manager
   - Manager, Software Engineering (Loans Lifecycle) | Remote US | title excluded: Manager
   - Manager, Software Engineering (Marketing and Privacy Engineering) | Remote Canada | title excluded: Manager
@@ -328,8 +328,8 @@
   - Manager, Software Engineering (Resilience Engineering) | Remote US | title excluded: Manager
   - Manager, Software Engineering (Resilience Engineering) | Remote Canada | title excluded: Manager
   - Senior Machine Learning Engineer (Fraud) | Remote Canada | title excluded: Machine Learning
-  - Senior Manager, Software Engineering (Card) | Remote Poland | title excluded: Manager
   - Senior Manager, Software Engineering (Card) | Remote Spain | title excluded: Manager
+  - Senior Manager, Software Engineering (Card) | Remote Poland | title excluded: Manager
   - Senior Sales Engineer | Remote Canada | title excluded: Sales
   - Senior Sales Engineer | Remote Canada | title excluded: Sales
   - Senior Sales Engineer | Remote US | title excluded: Sales
@@ -343,8 +343,8 @@
   - Senior Software Engineer, Backend (Card Integrations and Payments Experience) | Remote Spain | experience: asks 4+ yrs
   - Senior Software Engineer, Backend (Comms Core) | Remote Poland | experience: asks 5+ yrs
   - Senior Software Engineer, Backend (Comms Core) | Remote Spain | experience: asks 5+ yrs
-  - Senior Software Engineer, Backend (Consumer) | Remote US | experience: asks 4+ yrs
   - Senior Software Engineer, Backend (Consumer) | Remote Canada | experience: asks 4+ yrs
+  - Senior Software Engineer, Backend (Consumer) | Remote US | experience: asks 4+ yrs
   - Senior Software Engineer, Backend (Continuous Delivery) | Remote Canada | experience: asks 4+ yrs
   - Senior Software Engineer, Backend (Continuous Delivery) | Remote US | experience: asks 4+ yrs
   - Senior Software Engineer, Backend (International Payments) | Remote UK | experience: asks 4+ yrs
@@ -352,27 +352,27 @@
   - Senior Software Engineer, Backend (Lakehouse Infra) | Remote Canada | experience: asks 4+ yrs
   - Senior Software Engineer, Backend (ML Feature Platform) | Remote US | title excluded: ML
   - Senior Software Engineer, Backend (ML Feature Platform) | Remote Canada | title excluded: ML
-  - Senior Software Engineer, Backend (ML Training and Serving) | Remote US | title excluded: ML
   - Senior Software Engineer, Backend (ML Training and Serving) | Remote Canada | title excluded: ML
+  - Senior Software Engineer, Backend (ML Training and Serving) | Remote US | title excluded: ML
   - Senior Software Engineer, backend (Online Storage) | Remote Canada | experience: asks 5+ yrs
   - Senior Software Engineer, Backend (Online Storage) | Remote US | experience: asks 5+ yrs
   - Senior Software Engineer, Backend (PBA - Growth) | Remote US | experience: asks 4+ yrs
   - Senior Software Engineer, Backend (PBA - Growth) | Remote Canada | experience: asks 4+ yrs
-  - Senior Software Engineer, Backend (Trust & Safety) | Remote Canada | experience: asks 4+ yrs
   - Senior Software Engineer, Backend (Trust & Safety) | Remote US | experience: asks 4+ yrs
+  - Senior Software Engineer, Backend (Trust & Safety) | Remote Canada | experience: asks 4+ yrs
   - Senior Software Engineer, Backend (Workload Safety) | Remote US | experience: asks 5+ yrs
   - Senior Software Engineer, Backend (Workload Safety) | Remote Canada | experience: asks 5+ yrs
   - Senior Software Engineer, Frontend (App Experience) | Remote Canada | experience: asks 4+ yrs
   - Senior Software Engineer, Frontend (Marketing and Privacy) | Remote Canada | experience: asks 4+ yrs
-  - Senior Software Engineer, Fullstack (App Experience) | Remote Canada | experience: asks 4+ yrs
   - Senior Software Engineer, Fullstack (App Experience) | Remote US | experience: asks 4+ yrs
+  - Senior Software Engineer, Fullstack (App Experience) | Remote Canada | experience: asks 4+ yrs
   - Senior Software Engineer, Fullstack (Consumer Engineering) | Remote US | experience: asks 4+ yrs
-  - Senior Software Engineer, Fullstack (International) | Remote Spain | experience: asks 4+ yrs
   - Senior Software Engineer, Fullstack (International) | Remote UK | experience: asks 4+ yrs
+  - Senior Software Engineer, Fullstack (International) | Remote Spain | experience: asks 4+ yrs
   - Senior Software Engineer, Fullstack (International) | Remote Poland | experience: asks 4+ yrs
   - Senior Software Engineer, Fullstack (Repayments UX) | Remote Spain | experience: asks 4+ yrs
   - Senior Software Engineer, Fullstack (Repayments UX) | Remote Poland | experience: asks 4+ yrs
-  - Senior Software Engineer, Mobile (Repayment UX) | Remote Poland | title excluded: Mobile
+  - Senior Software Engineer, Mobile (Repayment UX) | Remote Spain | title excluded: Mobile
 ## Spotify: 27 engineering roles rejected
   - AV Engineer - Platform | Stockholm | title not in include list
   - Backend Engineer - Data Platform | Stockholm / London | location
@@ -401,7 +401,7 @@
   - Staff Engineer - Content Platform | London / Stockholm | title excluded: Staff
   - Staff Machine Learning Engineer, Home Surfaces | New York, NY / Boston, MA | title excluded: Staff
   - VP, Head of Engineering - Advertising | New York, NY | title excluded: VP
-## Toast: 70 engineering roles rejected
+## Toast: 71 engineering roles rejected
   - Android Software Engineer | Dublin, Ireland | title excluded: Android
   - Android Software Engineer | Dublin, Ireland | title excluded: Android
   - Data Engineer | Remote, US  | title not in include list
@@ -410,13 +410,13 @@
   - Engineering Manager II | Bangalore, india | title excluded: Manager
   - GTM Engineer, Web | Remote | title not in include list
   - Lead Salesforce Developer | Bangalore , Karnataka , India | title excluded: Lead
-  - Manager II, Software Engineering | Dublin, Ireland | title excluded: Manager
   - Manager II, Software Engineering | Bangalore, india | title excluded: Manager
+  - Manager II, Software Engineering | Dublin, Ireland | title excluded: Manager
   - Manager, Software Engineering | Remote, US | title excluded: Manager
   - Principal Machine Learning Engineer, Vision AI | Remote, US | title excluded: Principal
+  - Principal Software Engineer | Bangalore | title excluded: Principal
   - Principal Software Engineer | Dublin, Ireland | title excluded: Principal
   - Principal Software Engineer | Chennai | title excluded: Principal
-  - Principal Software Engineer | Bangalore | title excluded: Principal
   - Principal Software Engineer, International Integrations | Remote (Canada) | title excluded: Principal
   - Principal Software Engineer, Tech Lead | Remote, US  | title excluded: Principal
   - Principal Software Engineer, Tech Lead, Retail | Remote, US | title excluded: Principal
@@ -446,10 +446,11 @@
   - Senior Software Engineer, Release Engineering | Remote, US | experience: asks 5+ yrs
   - Senior Software Engineer - Reporting | Dublin, Ireland | experience: asks 5+ yrs
   - Senior Software Engineer, Retail | Remote, US | experience: asks 6+ yrs
+  - Senior Software Engineer, Scheduling | Toronto, Canada | experience: asks 5+ yrs
   - Senior Software Engineer-Timekeeping | Dublin, Ireland | experience: asks 5+ yrs
   - Senior Software Engineer - Toast Connect | Dublin, Ireland | experience: asks 5+ yrs
-  - Senior Solutions Engineer, International | Boston, Massachusetts, USA | title excluded: Solutions Engineer
   - Senior Solutions Engineer, International | Toronto, Ontario | title excluded: Solutions Engineer
+  - Senior Solutions Engineer, International | Boston, Massachusetts, USA | title excluded: Solutions Engineer
   - Senior Solutions Engineer, International | Remote, USA | title excluded: Solutions Engineer
   - Solutions Engineer | London, UK | title excluded: Solutions Engineer
   - Solutions Engineer | Toronto, Ontario, Canada | title excluded: Solutions Engineer
@@ -461,7 +462,6 @@
   - Staff Software Engineer, Application Infrastructure | Remote, US  | title excluded: Staff
   - Staff Software Engineer, Applied AI | Bengaluru, Karnataka, India | title excluded: Staff
   - Staff Software Engineer, Care Experience | Remote, US | title excluded: Staff
-  - Staff Software Engineer - Data Platform | Dublin, Ireland | title excluded: Staff
 ## Alloy: 16 engineering roles rejected
   - Director of Operations (Product, Engineering & Technical Solutions) | New York City | title excluded: Director
   - Engineering Manager, Data Platform | New York City | title excluded: Manager
@@ -629,7 +629,7 @@
   - Senior Developer Success Engineer | United States (Remote) / Los Angeles, California / Seattle, Washington / San Francisco, California / Portland, Oregon | title not in include list
   - Staff Software Engineer, Open Source Server | United States (Remote) / Seattle, Washington / San Francisco, California | title excluded: Staff
   - Senior Software Engineer, Cloud Data Storage | United States (Remote) / Seattle, Washington | experience: asks 5+ yrs
-  - Senior Developer Success Engineer | New York, New York / Austin, Texas / Dallas, Texas / Boston, Massachusetts / Raleigh, North Carolina | title not in include list
+  - Senior Developer Success Engineer | United States (Remote) / Austin, Texas / Dallas, Texas / Boston, Massachusetts / Raleigh, North Carolina / New York, New York | title not in include list
   - Staff Developer Advocate, Enterprise, EMEA | Berlin, Germany | title excluded: Staff
   - Senior Staff Engineer, Open Source Server | United States (Remote) | title excluded: Staff
   - Director of Engineering, Compute | United States (Remote) | title excluded: Director
@@ -703,7 +703,7 @@
   - Site Reliability Engineer (US - Pacific time) | Remote (US) | title excluded: Site Reliability
   - Product Manager, Observability (ex-founder or ex-product engineer) | Remote | title excluded: Manager
   - Developer Marketer - Sales | Remote | title excluded: Sales
-## Cribl: 30 engineering roles rejected
+## Cribl: 31 engineering roles rejected
   - Customer Success Engineer, Sydney | Remote - Australia | title excluded: Customer Success
   - Customer Success Engineer, West Region | Remote - Denver, Colorado | title excluded: Customer Success
   - Partner Solutions Engineer, Southern Europe | Remote - France | title excluded: Solutions Engineer
@@ -727,6 +727,7 @@
   - Solutions Engineer, San Francisco (Enterprise) | Remote - San Francisco, California | title excluded: Solutions Engineer
   - Solutions Engineer, Singapore | Remote - Singapore | title excluded: Solutions Engineer
   - Solutions Engineer, Sydney | Remote - Australia | title excluded: Solutions Engineer
+  - Sr Mgr, Software Engineering (Cribl Detect) | Remote - United States | experience: asks 4+ yrs
   - Sr Software Engineer, Cribl AI | Remote - United States | experience: asks 5+ yrs
   - Sr Staff Site Reliability Engineer | Remote - Australia | title excluded: Staff
   - Sr. Staff Software Engineer, Cribl AI | Remote - United States | title excluded: Staff
@@ -765,60 +766,60 @@
   - Data Engineer | San Francisco, California, United States | title not in include list
   - Engineering Manager, Bill Pay | San Francisco, California, United States | title excluded: Manager
   - Engineering Manager, Bill Pay | Vancouver, British Columbia, Canada | title excluded: Manager
-  - Engineering Manager, Bill Pay | New York, New York, United States | title excluded: Manager
   - Engineering Manager, Bill Pay | Seattle, Washington, United States | title excluded: Manager
-  - Engineering Manager, Salesforce | New York, New York, United States | title excluded: Manager
+  - Engineering Manager, Bill Pay | New York, New York, United States | title excluded: Manager
   - Engineering Manager, Salesforce | San Francisco, California, United States | title excluded: Manager
+  - Engineering Manager, Salesforce | New York, New York, United States | title excluded: Manager
   - Engineering Manager, Salesforce | Seattle, Washington, United States | title excluded: Manager
   - Engineering Manager, Salesforce | Vancouver, British Columbia, Canada | title excluded: Manager
-  - Engineering Manager, Travel | New York, New York, United States | title excluded: Manager
   - Engineering Manager, Travel | Seattle, Washington, United States | title excluded: Manager
-  - Engineering Manager, Travel | Vancouver, British Columbia, Canada | title excluded: Manager
+  - Engineering Manager, Travel | New York, New York, United States | title excluded: Manager
   - Engineering Manager, Travel | San Francisco, California, United States | title excluded: Manager
-  - Manager, Technical Recruiting (Engineering) | New York, New York, United States | title excluded: Manager
-  - Manager, Technical Recruiting (Engineering) | Seattle, Washington, United States | title excluded: Manager
+  - Engineering Manager, Travel | Vancouver, British Columbia, Canada | title excluded: Manager
   - Manager, Technical Recruiting (Engineering) | San Francisco, California, United States | title excluded: Manager
-  - Senior GRC Engineer | New York, New York, United States | title not in include list
-  - Senior GRC Engineer | Vancouver, British Columbia, Canada | title not in include list
+  - Manager, Technical Recruiting (Engineering) | Seattle, Washington, United States | title excluded: Manager
+  - Manager, Technical Recruiting (Engineering) | New York, New York, United States | title excluded: Manager
   - Senior GRC Engineer | San Francisco, California, United States | title not in include list
   - Senior GRC Engineer | Seattle, Washington, United States | title not in include list
-  - Senior Software Engineer, Backend (Product Engineering) | New York, New York, United States | experience: asks 7+ yrs
+  - Senior GRC Engineer | New York, New York, United States | title not in include list
+  - Senior GRC Engineer | Vancouver, British Columbia, Canada | title not in include list
   - Senior Software Engineer, Backend (Product Engineering) | Seattle, Washington, United States | experience: asks 7+ yrs
+  - Senior Software Engineer, Backend (Product Engineering) | New York, New York, United States | experience: asks 7+ yrs
   - Senior Software Engineer, Backend (Product Engineering) | San Francisco, California, United States | experience: asks 7+ yrs
+  - Senior Software Engineer, Frontend | San Francisco, California, United States | experience: asks 7+ yrs
   - Senior Software Engineer, Frontend | New York, New York, United States | experience: asks 7+ yrs
   - Senior Software Engineer, Frontend | São Paulo, São Paulo, Brazil | experience: asks 7+ yrs
-  - Senior Software Engineer, Frontend | San Francisco, California, United States | experience: asks 7+ yrs
   - Senior Software Engineer, Operational AI | São Paulo, São Paulo, Brazil | experience: asks 5+ yrs
   - Senior Software Engineer, Product | São Paulo, São Paulo, Brazil | experience: asks 5+ yrs
-  - Senior Software Engineer, Release Infra | San Francisco, California, United States | experience: asks 7+ yrs
   - Senior Software Engineer, Release Infra | New York, New York, United States | experience: asks 7+ yrs
-  - Software Engineer II, Backend | Vancouver, British Columbia, Canada | location
+  - Senior Software Engineer, Release Infra | San Francisco, California, United States | experience: asks 7+ yrs
   - Software Engineer II, Backend | San Francisco, California, United States | location
+  - Software Engineer II, Backend | Vancouver, British Columbia, Canada | location
   - Software Engineer II, Data Enablement Platform | Seattle, Washington, United States | location
   - Software Engineer II, Data Enablement Platform | San Francisco, California, United States | location
-  - Software Engineer II, Frontend (Banking) | San Francisco, California, United States | location
   - Software Engineer II, Frontend (Banking) | Seattle, Washington, United States | location
+  - Software Engineer II, Frontend (Banking) | San Francisco, California, United States | location
   - Software Engineer II, Identity and Access Management | São Paulo, São Paulo, Brazil | location
   - Software Engineer II, Product | São Paulo, São Paulo, Brazil | location
   - Software Engineer, Internship - 2027 | São Paulo, São Paulo, Brazil | title excluded: Internship
   - Software Engineer, Intern  (Summer 2027) | San Francisco, California, United States | title excluded: Intern
+  - Staff Software Engineer, Acquisition | New York, New York, United States | title excluded: Staff
   - Staff Software Engineer, Acquisition | Vancouver, British Columbia, Canada | title excluded: Staff
   - Staff Software Engineer, Acquisition | San Francisco, California, United States | title excluded: Staff
   - Staff Software Engineer, Acquisition | Seattle, Washington, United States | title excluded: Staff
-  - Staff Software Engineer, Acquisition | New York, New York, United States | title excluded: Staff
-  - Staff Software Engineer, Banking | Vancouver, British Columbia, Canada | title excluded: Staff
-  - Staff Software Engineer, Banking | Seattle, Washington, United States | title excluded: Staff
   - Staff Software Engineer, Banking | New York, New York, United States | title excluded: Staff
+  - Staff Software Engineer, Banking | Vancouver, British Columbia, Canada | title excluded: Staff
   - Staff Software Engineer, Banking | San Francisco, California, United States | title excluded: Staff
-  - Staff Software Engineer - Identity & Access Management | Seattle, Washington, United States | title excluded: Staff
+  - Staff Software Engineer, Banking | Seattle, Washington, United States | title excluded: Staff
   - Staff Software Engineer - Identity & Access Management | Vancouver, British Columbia, Canada | title excluded: Staff
   - Staff Software Engineer - Identity & Access Management | New York, New York, United States | title excluded: Staff
   - Staff Software Engineer - Identity & Access Management | San Francisco, California, United States | title excluded: Staff
-  - Staff Software Engineer, Product Data Platform | Seattle, Washington, United States | title excluded: Staff
+  - Staff Software Engineer - Identity & Access Management | Seattle, Washington, United States | title excluded: Staff
   - Staff Software Engineer, Product Data Platform | Vancouver, British Columbia, Canada | title excluded: Staff
   - Staff Software Engineer, Product Data Platform | San Francisco, California, United States | title excluded: Staff
-  - Staff Software Engineer, Spend | New York, New York, United States | title excluded: Staff
+  - Staff Software Engineer, Product Data Platform | Seattle, Washington, United States | title excluded: Staff
   - Staff Software Engineer, Spend | San Francisco, California, United States | title excluded: Staff
+  - Staff Software Engineer, Spend | Vancouver, British Columbia, Canada | title excluded: Staff
 ## Chime: 25 engineering roles rejected
   - AI/ML Engineer | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | title excluded: ML
   - Director, Data Engineering | San Francisco, CA, USA | title excluded: Director
@@ -1182,14 +1183,15 @@
   - Staff AI Engineer | Canada | Remote | Canada (Remote) | title excluded: Staff
   - Staff AI Engineer | USA | Remote | United States (Remote) | title excluded: Staff
 ## Airtable: 0 engineering roles rejected
-## Hinge Health: 30 engineering roles rejected
+## Hinge Health: 31 engineering roles rejected
   - Senior Product Manager, Developer Experience | San Francisco-HQ | title excluded: Manager
   - Staff Software Engineer, Brain Health, AI | San Francisco-HQ | title excluded: Staff
   - Staff Software Engineer, Enrollment & Onboarding | San Francisco-HQ | title excluded: Staff
   - Staff Software Engineer- Backend | Bengaluru-HQ | title excluded: Staff
   - Senior Software Engineer-Fullstack | Bengaluru-HQ | location
+  - Senior Software Engineer - AI Platform | Montreal-HQ | location
   - Firmware Engineer | San Francisco-HQ | title excluded: Firmware
-  - Engineering Manager, Program Engablement | San Francisco-HQ | title excluded: Manager
+  - Engineering Manager, Program Enablement | San Francisco-HQ | title excluded: Manager
   - Lead Security Engineer | Remote US | title excluded: Lead
   - Senior Staff Data Engineer - Data & ML Platform | San Francisco-HQ | title excluded: Staff
   - Staff Software Engineer, CV UX | San Francisco-HQ | title excluded: Staff
@@ -1213,7 +1215,7 @@
   - Senior Design Quality Engineer | San Francisco-HQ | title not in include list
   - Electrical Engineer | San Francisco-HQ | title not in include list
   - Senior Firmware Engineer | San Francisco-HQ | title excluded: Firmware
-## Airbnb: 55 engineering roles rejected
+## Airbnb: 56 engineering roles rejected
   - Engineering Manager, External Search & AI Optimization | Remote - USA | title excluded: Manager
   - Engineering Manager, Guest & Host | London, United Kingdom | title excluded: Manager
   - Engineering Manager, Guest & Host (Host Listings & Quality) | United States | title excluded: Manager
@@ -1257,6 +1259,7 @@
   - Senior Staff Software Engineer, Tech Foundations | United States | title excluded: Staff
   - Senior Staff Software Engineer, Trust | Remote - US | title excluded: Staff
   - Software Engineer, Analytics Infrastructure | Brazil | experience: asks 5+ yrs
+  - Software Engineer, DevAI | United States | location
   - Staff Machine Learning Engineer, Assistance Engineering | San Francisco, CA | title excluded: Staff
   - Staff Machine Learning Engineer, Traffic Intelligence | United States | title excluded: Staff
   - Staff Software Engineer, Cloud Infrastructure | Remote, USA | title excluded: Staff
@@ -1267,9 +1270,9 @@
   - Staff Software Engineer - Hosting Services | London, United Kingdom | title excluded: Staff
   - Staff Software Engineer, iOS Platform | United States | title excluded: Staff
   - Staff Software Engineer, Prototyping Platform (Full Stack) | United States | title excluded: Staff
-  - Staff Software Engineer, Streaming Infrastructure | United States | title excluded: Staff
+  - Staff Software Engineer, Tech Foundations | United States | title excluded: Staff
   - Systems Engineer, Tech Foundations (Jira cloud) | Remote - Bangalore, India | title not in include list
-## Samsara: 98 engineering roles rejected
+## Samsara: 95 engineering roles rejected
   - AI Engineer, Customer Success | Remote - Austin; Remote - CA; Remote - Chicago; Remote - Dallas; Remote - Houston; Remote - Seattle | title excluded: Customer Success
   - Associate Sales Engineer, SE Desk (French Bilingual) | Remote - AZ; Remote - FL; Remote - GA; Remote - PA; Remote - TX | title excluded: Sales
   - Associate Sales Engineer, SE Desk- Mexico | Remote - Mexico | title excluded: Sales
@@ -1277,8 +1280,8 @@
   - Associate Sales Engineer, SE Desk - Northeast | Remote - ME; Remote - NH; Remote - PA; Remote - VT | title excluded: Sales
   - Associate Sales Engineer, SE Desk - Southeast | Remote - FL; Remote - GA; Remote - NC; Remote - TN | title excluded: Sales
   - Associate Sales Engineer, SE Desk - TOLA | Remote - LA; Remote - OK; Remote - TX | title excluded: Sales
-  - Data Engineer | Remote - Canada | title not in include list
   - Data Engineer | Remote - US | title not in include list
+  - Data Engineer | Remote - Canada | title not in include list
   - Director, Field Sales Engineering | Remote - US | title excluded: Director
   - Director, GTM AI Engineering | Remote - US | title excluded: Director
   - Electrical Engineering Co-Op | San Francisco - SF9 | title excluded: Co-Op
@@ -1289,11 +1292,11 @@
   - Enterprise Core Sales Engineer - West | Remote - AZ; Remote - CA; Remote - CO; Remote - NV; Remote - OR; Remote - Seattle | title excluded: Sales
   - Enterprise Sales Engineer - Public Sector - West | Remote - US | title excluded: Sales
   - Enterprise Sales Engineer - US Southeast | Remote - FL; Remote - GA; Remote - NC | title excluded: Sales
-  - Lead Design Engineer | Remote - US | title excluded: Lead
   - Lead Design Engineer | Remote - Canada | title excluded: Lead
+  - Lead Design Engineer | Remote - US | title excluded: Lead
   - Manager, Firmware Engineering | Remote - US | title excluded: Manager
-  - Manager II, Software Engineering | San Francisco - SF9 | title excluded: Manager
   - Manager II, Software Engineering | Remote - Canada | title excluded: Manager
+  - Manager II, Software Engineering | San Francisco - SF9 | title excluded: Manager
   - Manager II, Software Engineering, Infrastructure | Remote - Canada | title excluded: Manager
   - Manager II, Software Engineering, Infrastructure | Remote - US | title excluded: Manager
   - People Analytics AI Engineer | Remote - Seattle | experience: asks 8+ yrs
@@ -1306,30 +1309,30 @@
   - Sales Engineer, Mid Market - TOLA | Remote - OK; Remote - TX | title excluded: Sales
   - Sales Engineer - Mid Market - West | Remote - AZ; Remote - CO; Remote - NM; Remote - NV; Remote - OR; Remote - UT | title excluded: Sales
   - Security Operations Engineer | London, England, United Kingdom; Remote - London; Remote - UK | title not in include list
-  - Senior AI Data & Analytics Engineer II | Remote - Austin | experience: asks 8+ yrs
-  - Senior AI Data & Analytics Engineer II | Remote - SF Bay Area | experience: asks 8+ yrs
   - Senior AI Data & Analytics Engineer II | Remote - Seattle | experience: asks 8+ yrs
-  - Senior AI Data & Analytics Engineer II | Remote - NYC | experience: asks 8+ yrs
-  - Senior AI Data & Analytics Engineer II | Remote - MA | experience: asks 8+ yrs
-  - Senior AI Data & Analytics Engineer II | Remote - Chicago | experience: asks 8+ yrs
   - Senior AI Data & Analytics Engineer II | Remote - Dallas | experience: asks 8+ yrs
   - Senior AI Data & Analytics Engineer II | Remote - CA | experience: asks 8+ yrs
+  - Senior AI Data & Analytics Engineer II | Remote - Chicago | experience: asks 8+ yrs
+  - Senior AI Data & Analytics Engineer II | Remote - Austin | experience: asks 8+ yrs
+  - Senior AI Data & Analytics Engineer II | Remote - NYC | experience: asks 8+ yrs
+  - Senior AI Data & Analytics Engineer II | Remote - MA | experience: asks 8+ yrs
+  - Senior AI Data & Analytics Engineer II | Remote - SF Bay Area | experience: asks 8+ yrs
   - Senior Manager, Engineering Program Management | San Francisco - SF9 | title excluded: Manager
-  - Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI) | Remote - US | title excluded: Manager
   - Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI) | Remote - Canada | title excluded: Manager
+  - Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI) | Remote - US | title excluded: Manager
   - Senior Sales Engineer, DACH | Remote - Germany | title excluded: Sales
   - Senior Sales Engineer, France | Remote - France | title excluded: Sales
   - Senior Security Engineer - Enterprise Security | London, England, United Kingdom; Remote - London | title excluded: Security Engineer
-  - Senior Security Engineer - Threat Detection | Remote - Dallas | title excluded: Security Engineer
-  - Senior Security Engineer - Threat Detection | Remote - Seattle | title excluded: Security Engineer
-  - Senior Security Engineer - Threat Detection | Remote - CA | title excluded: Security Engineer
-  - Senior Security Operations Engineer | Remote - CA | title not in include list
   - Senior Security Operations Engineer | Remote - Seattle | title not in include list
+  - Senior Security Operations Engineer | Remote - Netherlands | title not in include list
+  - Senior Security Operations Engineer | Remote - CA | title not in include list
+  - Senior Security Operations Engineer | Remote - Poland | title not in include list
   - Senior Security Operations Engineer | Remote - UK | title not in include list
   - Senior Security Operations Engineer | San Francisco, CA, United States | title not in include list
   - Senior Security Operations Engineer | Remote - OR | title not in include list
-  - Senior Security Operations Engineer | Remote - Netherlands | title not in include list
-  - Senior Security Operations Engineer | Remote - Poland | title not in include list
+  - Senior Security Operations Engineer I | Remote - Vancouver | location
+  - Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B) | Remote - Poland | experience: asks 5+ yrs
+  - Senior Software Engineer II | Remote - Canada | experience: asks 8+ yrs
 ## Twilio: 32 engineering roles rejected
   - Applications Engineer 2 | Remote - India | location
   - Developer Evangelist | Remote - US | title not in include list
@@ -1361,8 +1364,8 @@
   - Staff Software Engineer, Mobile (P4) | Remote - Canada | title excluded: Staff
   - Tech Lead /Sr. Principal Engineer (L6) | Remote - India | title excluded: Lead
   - Technical Support Engineer | Remote - Ireland | title excluded: Support Engineer
-  - Technical Support Engineer 2 | Remote - Ireland | title excluded: Support Engineer
   - Technical Support Engineer 2 | Remote - India | title excluded: Support Engineer
+  - Technical Support Engineer 2 | Remote - Ireland | title excluded: Support Engineer
 ## Asana: 40 engineering roles rejected
   - Analytical Engineer | Warsaw | title not in include list
   - Analytical Engineering Manager | Vancouver, BC | title excluded: Manager
@@ -1425,7 +1428,7 @@
   - Senior Corporate Enterprise Platform Engineer, Windows | Remote - US: Select locations | senior title, years not stated
   - Senior Security Engineer, AI Security | Remote - Canada: Select locations | title excluded: Security Engineer
   - Senior Security Engineer, AI Security | Remote - US: Select locations | title excluded: Security Engineer
-## Reddit: 66 engineering roles rejected
+## Reddit: 64 engineering roles rejected
   - Analytics Engineer | Remote - United States | title not in include list
   - Engineering Manager, Ads Product Catalogs | Remote - United Kingdom | title excluded: Manager
   - Engineering Manager, Ads Product Catalogs | Remote - The Netherlands | title excluded: Manager
@@ -1444,13 +1447,12 @@
   - Senior Frontend Engineer, Ads Formats | Remote - United States | experience: asks 5+ yrs
   - Senior Frontend Software Engineer, Consumer Engineering | Remote - United States | senior title, years not stated
   - Senior iOS Software Engineer, Consumer Engineering | San Francisco, CA | title excluded: iOS
-  - Senior Machine Learning Engineer | Remote - Ontario, Canada | title excluded: Machine Learning
   - Senior Machine Learning Engineer | Remote - United States | title excluded: Machine Learning
+  - Senior Machine Learning Engineer | Remote - Ontario, Canada | title excluded: Machine Learning
   - Senior Machine Learning Engineer, Ads Forecasting & Scenarios | Remote - United States | title excluded: Machine Learning
   - Senior Machine Learning Engineer, Ads ML Efficiency | Remote - United States | title excluded: Machine Learning
   - Senior Machine Learning Systems Engineer | Remote - United States | title excluded: Machine Learning
   - Senior Machine Learning Systems Engineer, ML Platform | Remote - United States | title excluded: Machine Learning
-  - Senior Site Reliability Engineer, Ads | San Francisco, CA | title excluded: Site Reliability
   - Senior Software Engineer, Ads | Remote - United States | experience: asks 5+ yrs
   - Senior Software Engineer, Ads | Remote - Ontario, Canada | location
   - Senior Software Engineer, Agentic Ads Experience | Remote - United States | experience: asks 5+ yrs
@@ -1471,9 +1473,9 @@
   - Staff iOS Engineer, Media Foundation | Remote - United States | title excluded: Staff
   - Staff Machine Learning Engineer, Ads Creative Effectiveness | Remote - United States | title excluded: Staff
   - Staff Machine Learning Engineer, Ads Forecasting & Scenarios | Remote - United States | title excluded: Staff
-  - Staff Machine Learning Engineer, Ads Foundational Representations | Remote - United Kingdom | title excluded: Staff
   - Staff Machine Learning Engineer, Ads Foundational Representations | Remote - The Netherlands | title excluded: Staff
   - Staff Machine Learning Engineer, Ads Foundational Representations | New York City, NY | title excluded: Staff
+  - Staff Machine Learning Engineer, Ads Foundational Representations | Remote - United Kingdom | title excluded: Staff
   - Staff Machine Learning Engineer, Ads ML Efficiency | Remote - United States | title excluded: Staff
   - Staff Machine Learning Engineer, AI Security | Remote - United States | title excluded: Staff
   - Staff Machine Learning Engineer, Consumer | Remote - United States | title excluded: Staff
@@ -1481,11 +1483,12 @@
   - Staff Machine Learning Engineer, Retrieval & Targeting | Remote - United States | title excluded: Staff
   - Staff Machine Learning Systems Engineer | Remote - United States | title excluded: Staff
   - Staff Product Security Engineer | Remote - United States | title excluded: Staff
-  - Staff Site Reliability Engineer, Ads | San Francisco, CA | title excluded: Staff
   - Staff Software Engineer, Android Design System | Remote - United States | title excluded: Staff
   - Staff Software Engineer, Consumer Engineering | Remote - United States | title excluded: Staff
   - Staff Software Engineer, Developer Ecosystem | Remote - United States | title excluded: Staff
   - Staff Software Engineer, DevPlatform | Remote - United States | title excluded: Staff
+  - Staff Software Engineer, Identity & Access Management | Remote - United States | title excluded: Staff
+  - Staff Software Engineer - Ingestion Platform | Remote - United States | title excluded: Staff
 ## Elastic: 196 engineering roles rejected
   - Analytics Engineer, HR Analytics | United States | title not in include list
   - Full Stack Technical Developer | Costa Rica | location
@@ -1547,10 +1550,11 @@
   - Principal Software Engineer - Search Infra - Elasticsearch | Norway | title excluded: Principal
   - Principal Software Engineer - Search Infra - Elasticsearch | Portugal | title excluded: Principal
   - Principal Software Engineer - Search Infra - Elasticsearch | United Kingdom | title excluded: Principal
-## Lyft: 47 engineering roles rejected
+## Lyft: 48 engineering roles rejected
   - Android Engineer, Luxury | Mexico City, Mexico | title excluded: Android
   - Android Software Engineer, Lyft Urban Solutions | Montreal, Canada | title excluded: Android
   - Backend Software Engineer, Airports | San Francisco, CA | location
+  - Business Systems Engineer, Intelligent Automation | Toronto, Canada | title not in include list
   - Business Systems Engineer Intern, Finance Technology (Summer 2027) | Toronto, Canada | title excluded: Intern
   - Data Engineer | Toronto, Canada | title not in include list
   - Data Engineer | Toronto, Canada | title not in include list
@@ -1595,7 +1599,7 @@
   - Software Engineer Intern, Machine Learning (Summer 2027 - Toronto) | Toronto, Canada | title excluded: Intern
   - Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | title excluded: Intern
   - Staff Software Engineer, Lyft Business | San Francisco, CA | title excluded: Staff
-## Roblox: 181 engineering roles rejected
+## Roblox: 180 engineering roles rejected
   - [2027] Senior Machine Learning Engineer - PhD Early Career | San Mateo, CA, United States | title excluded: Machine Learning
   - [2027] Software Engineer, Early Career | San Mateo, CA, United States | location
   - Developer Engagement Representative - LATAM (Part-Time Contract) | Remote | title excluded: Contract
@@ -1656,7 +1660,7 @@
   - Principal Software Engineer, GPU Compute | San Mateo, CA, United States | title excluded: Principal
   - Principal Software Engineer, Languages & Compilers | San Mateo, CA, United States | title excluded: Principal
   - Principal Software Engineer, Metrics Platform | San Mateo, CA, United States | title excluded: Principal
-## LangChain: 26 engineering roles rejected
+## LangChain: 25 engineering roles rejected
   - Python OSS Engineer | San Francisco, CA / Boston, MA | title not in include list
   - Senior Frontend Engineer, AI Observability & Evals Platform | Remote - US | senior title, years not stated
   - Software Engineering Manager, AI Observability & Evals Platform (New York, NY) | New York, NY | title excluded: Manager
@@ -1667,7 +1671,6 @@
   - Deployed Engineer (UK) | London | location
   - Senior Frontend Platform Engineer, Design Systems | Remote - US / Boston, MA / New York, NY | senior title, years not stated
   - Security Engineer - Detection & Response | San Francisco, CA / New York, NY | title excluded: Security Engineer
-  - Deployed Engineer (Boston) | Boston, MA | location
   - Deployed Engineer (Atlanta) | Atlanta, GA | location
   - Deployed Engineer (Singapore) - APAC | Singapore | location
   - Deployed Engineer (Seattle) | Seattle, WA | location
@@ -1947,13 +1950,13 @@
   - Staff Security Engineer - Bot & Traffic Defence | Kitchener-Waterloo, ON; Toronto, ON | title excluded: Staff
   - Staff Security Engineer - Bot & Traffic Defence | San Francisco, CA | title excluded: Staff
 ## Tailscale: 21 engineering roles rejected
-  - Billing Engineer | Remote (Canada) | title not in include list
   - Billing Engineer | Remote (United States) | title not in include list
+  - Billing Engineer | Remote (Canada) | title not in include list
   - Customer Reliability Engineer | Remote (Canada) | title not in include list
   - Customer Reliability Engineer | Remote (United States) | title not in include list
-  - Developer Relations Engineer | Remote (United Kingdom) | title not in include list
-  - Developer Relations Engineer | Remote (Canada) | title not in include list
   - Developer Relations Engineer | Remote (United States) | title not in include list
+  - Developer Relations Engineer | Remote (Canada) | title not in include list
+  - Developer Relations Engineer | Remote (United Kingdom) | title not in include list
   - Documentation Platform Engineer | Remote (Canada) | location
   - Engineering Manager | Remote (Canada) | title excluded: Manager
   - Engineering Manager | Remote (United States) | title excluded: Manager
@@ -1964,8 +1967,8 @@
   - Senior Solutions Engineer, Enterprise | Remote (United States) | title excluded: Solutions Engineer
   - Software Engineer, Networking (Dataplane) | Remote (Canada) | location
   - Software Engineer, Strategic Projects | Remote (Canada) | location
-  - Solutions Engineer - Commercial (Expansion Sales) | Remote (United States) | title excluded: Solutions Engineer
   - Solutions Engineer - Commercial (Expansion Sales) | Remote (Canada) | title excluded: Solutions Engineer
+  - Solutions Engineer - Commercial (Expansion Sales) | Remote (United States) | title excluded: Solutions Engineer
   - Solutions Engineer - Commercial (New Business) | Remote (Canada) | title excluded: Solutions Engineer
   - Solutions Engineer - Commercial (New Business) | Remote (United States) | title excluded: Solutions Engineer
 ## Chainguard: 41 engineering roles rejected
@@ -1996,9 +1999,9 @@
   - Senior Product Security Engineer | United States - Remote | title excluded: Security Engineer
   - Senior Software Engineer, Containers | Canada - Remote; Germany - Remote; United Kingdom - Remote; United States - Remote | senior title, years not stated
   - Senior Software Engineer, Containers | Canada - Remote; Germany - Remote; United Kingdom - Remote; United States - Remote | senior title, years not stated
-  - Senior Software Engineer, Customer Platform | United Kingdom - Remote | experience: asks 5+ yrs
   - Senior Software Engineer, Customer Platform | Canada - Remote | experience: asks 5+ yrs
   - Senior Software Engineer, Customer Platform | United States - Remote | experience: asks 5+ yrs
+  - Senior Software Engineer, Customer Platform | United Kingdom - Remote | experience: asks 5+ yrs
   - Senior Technical Support Engineer | United Kingdom - Remote | title excluded: Support Engineer
   - Senior Technical Support Engineer, East | Canada - Remote; United States - Remote | title excluded: Support Engineer
   - Senior Technical Support Engineer, West | United States - Remote | title excluded: Support Engineer
@@ -2049,8 +2052,8 @@
   - Principal Solutions Engineer, AI Agent | United States (Remote) | title excluded: Principal
   - Principal Solutions Engineer, West | United States (Remote) | title excluded: Principal
   - Senior Developer Relations Engineer | United States (Remote) | title not in include list
-  - Senior Forward Deployed Engineer (AI Agent) | Taiwan (Remote) | location
   - Senior Forward Deployed Engineer (AI Agent) | Australia (Remote) | location
+  - Senior Forward Deployed Engineer (AI Agent) | Taiwan (Remote) | location
   - Senior Forward Deployed Engineer (AI Agent) | Canada (Remote) | location
   - Senior Forward Deployed Engineer (AI Agent) - Germany | Berlin, Germany (Hybird)  | location
   - Senior Forward Deployed Engineer (AI Agent) - UK | United Kingdom (Remote) | location
@@ -2127,7 +2130,7 @@
   - Staff Sales Engineer, Voice AI | USA - Remote | title excluded: Staff
   - Software Engineer - Applied AI | San Francisco, CA | location
   - Staff Software Engineer, Console | USA - Remote | title excluded: Staff
-## Anthropic: 230 engineering roles rejected
+## Anthropic: 231 engineering roles rejected
   - Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) | London, UK | location
   - Applied AI Engineer, Beneficial Deployments (Lab Automation) | London, UK | location
   - Applied AI Engineer, Enterprise | Munich, Germany | experience: asks 6+ yrs
@@ -2155,6 +2158,7 @@
   - Developer Education Lead, Claude Platform | San Francisco, CA | New York City, NY | Seattle, WA | title excluded: Lead
   - Developer Relations | San Francisco, CA | New York City, NY | title not in include list
   - Developer Relations Manager, Claude Platform | San Francisco, CA | New York City, NY | title excluded: Manager
+  - Developer Relations, Platform | San Francisco, CA | New York City, NY | title not in include list
   - DevOps / AgentOps Engineer, GTM Systems | San Francisco, CA | title not in include list
   - Director, Finance Systems - Revenue Systems Engineering | San Francisco, CA | Seattle, WA | title excluded: Director
   - Engineering Manager, Agent Runtime Platform | San Francisco, CA | New York City, NY | title excluded: Manager
@@ -2187,11 +2191,11 @@
   - IT Support Engineer | Zürich, CH | title excluded: Support Engineer
   - IT Support Engineer | New York City, NY; San Francisco, CA; Seattle, WA | title excluded: Support Engineer
   - IT Support Engineer, Executive Support | San Francisco, CA | title excluded: Support Engineer
-  - IT Systems Engineer, M&A | Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC | title not in include list
-## OpenAI: 328 engineering roles rejected
+## OpenAI: 329 engineering roles rejected
   - Research Engineer | San Francisco | title excluded: Research
   - Software Engineer, Scaled Abuse | San Francisco | location
   - Training: ML Framework Engineer | San Francisco | title excluded: ML
+  - Software Engineer, Developer Productivity | San Francisco / New York City / Seattle / Mountain View | experience: asks 7+ yrs
   - Data Engineer | San Francisco / Mountain View | title not in include list
   - Software Engineer, Collective Communication | San Francisco | location
   - Software Engineer, Financial Engineering | San Francisco | experience: asks 5+ yrs
@@ -2248,7 +2252,6 @@
   - Software Engineer, Cloud Infrastructure | London, UK | location
   - Forward Deployed Software Engineer, Gov | Washington, DC / Seattle / San Francisco | experience: asks 5+ yrs
   - Software Engineer, Research Developer Productivity | San Francisco | title excluded: Research
-  - Manager, Applied AI Engineering (Digital Natives) | San Francisco / New York City / Seattle / Mountain View | title excluded: Manager
 ## Databricks: 383 engineering roles rejected
   - AI Automation Engineer | Costa Rica | title not in include list
   - AI Engineer - FDE (Forward Deployed Engineer) | Seoul, South Korea | experience: asks 7+ yrs
@@ -2256,9 +2259,9 @@
   - AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus) | Maryland; Virginia; Washington, D.C. | location
   - Applied AI Engineer | Belgrade, Serbia | location
   - Customer Enablement Architect (Capability Engineering & AI Adoption) | Sydney, Australia | title excluded: Architect
-  - Director, Field Engineering | Toronto, Canada | title excluded: Director
-  - Director, Field Engineering | United Kingdom | title excluded: Director
   - Director, Field Engineering | Tokyo, Japan | title excluded: Director
+  - Director, Field Engineering | United Kingdom | title excluded: Director
+  - Director, Field Engineering | Toronto, Canada | title excluded: Director
   - Director, Field Engineering Emerging Enterprises & Startups | San Francisco, California | title excluded: Director
   - Director of Engineering | Bengaluru, India | title excluded: Director
   - Director of Engineering - Databricks Commercialization & Marketplace | Bellevue, Washington | title excluded: Director
@@ -2278,16 +2281,16 @@
   - Evergreen - AI Engineer, AI FDE | Bengaluru, India | experience: asks 5+ yrs
   - Field Engineering Manager, Specialist Solutions Architects | Seoul, South Korea | title excluded: Manager
   - Field Engineering Manager, Specialist Solutions Architects - Nordics | Stockholm, Sweden | title excluded: Manager
-  - Forward Deployed Engineer | Seoul, South Korea | experience: asks 7+ yrs
   - Forward Deployed Engineer | London, United Kingdom | location
+  - Forward Deployed Engineer | Seoul, South Korea | experience: asks 7+ yrs
   - Forward Deployed Engineer | Amsterdam, Netherlands | location
   - Forward Deployed Engineer - Emerging Enterprise & DNB | London, United Kingdom | location
   - Forward Deployed Engineer (FDE) - Public Sector | United States | experience: asks 5+ yrs
   - Forward Deployed Engineer (Full-stack) | Tokyo, Japan | experience: asks 8+ yrs
   - Forward Deployed Engineering Manager | London, United Kingdom | title excluded: Manager
   - Forward Deployed Engineering - Senior Architect | London, United Kingdom | title excluded: Architect
-  - Manager, Developer Relations - Open Source | Seattle, Washington | title excluded: Manager
   - Manager, Developer Relations - Open Source | San Francisco, California | title excluded: Manager
+  - Manager, Developer Relations - Open Source | Seattle, Washington | title excluded: Manager
   - Manager, Engineering - AI/BI | Vancouver, Canada | title excluded: Manager
   - Manager, Field Engineering | Tokyo, Japan | title excluded: Manager
   - Manager, Field Engineering - Financial Services Industry | Toronto, Canada | title excluded: Manager
@@ -2309,7 +2312,7 @@
   - Principal Engineer, Authentication | Bellevue, Washington; Seattle, Washington | title excluded: Principal
   - Principal Engineer, Authentication | Mountain View, California; San Francisco, California | title excluded: Principal
   - Principal Engineer, Compute Fleet Management | Bellevue, Washington | title excluded: Principal
-  - Principal Engineer - Privacy | Amsterdam, Netherlands | title excluded: Principal
+  - Principal Engineer - Privacy | Mountain View, California | title excluded: Principal
 ## Upstart: 21 engineering roles rejected
   - Principal Platform Security Engineer | United States | Remote | title excluded: Principal
   - Principal Software Engineer | United States | Remote | title excluded: Principal
@@ -2346,7 +2349,7 @@
   - Software Engineer | Argentina | location
   - Software Engineer | Ontario | location
   - Software Engineer | British Columbia | location
-## Mastercard: 215 engineering roles rejected
+## Mastercard: 214 engineering roles rejected
   - Software Engineer I | Pune, India | location
   - Lead Site Reliability Engineer (Big Data) | O'Fallon, Missouri | title excluded: Lead
   - Senior Platform Engineer | O'Fallon, Missouri | senior title, years not stated
@@ -2529,7 +2532,10 @@
   - Senior System Software Engineer | India, Pune | senior title, years not stated
   - Senior System Software Engineer | US, CA, Santa Clara | location
   - Senior Software Engineer - Infrastructure | India, Pune | senior title, years not stated
-## Salesforce: 183 engineering roles rejected
+## Salesforce: 181 engineering roles rejected
+  - Software Engineering PMTS | 2 Locations | title excluded: PMTS
+  - Software Engineering LMTS | 2 Locations | title excluded: LMTS
+  - Compliance Engineer | 3 Locations | title not in include list
   - Principal Design Engineer, Experience Strategy & Studio | California - San Francisco | title excluded: Principal
   - Software Development Engineer - Mid/Senior/Lead; Go-To-Market Automation | North Carolina - Raleigh | title excluded: Lead
   - Lead Solution Engineer - Financial Services | 3 Locations | title excluded: Lead
@@ -2573,7 +2579,6 @@
   - LMTS - Lead AI/ML Engineer (LLM Post-Training) | 2 Locations | title excluded: LMTS
   - Senior Staff Prototyping Engineer, iOS | 5 Locations | title excluded: Staff
   - Account Solution Engineer, Higher Education | 11 Locations | title excluded: Solution Engineer
-  - Lead, Account Solution Engineer/Manufacturing & Automotive | 2 Locations | title excluded: Lead
   - Senior Technical Support Engineer | California - San Francisco | title excluded: Support Engineer
   - Forward Deployed Engineer - Spanish Speaker | Spain - Barcelona / Spain - Madrid | experience: asks 6+ yrs
   - Systems Engineer, Marketing Cloud Engagement | Illinois - Chicago | title not in include list
@@ -2588,9 +2593,8 @@
   - Principal Software Engineer, Platform Services (PMTS) | 2 Locations | title excluded: Principal
   - Software Engineering PMTS | New York - New York | title excluded: PMTS
   - Lead Solution Engineer Tableau | 2 Locations | title excluded: Lead
-  - M&A Security Integration Engineer - PMTS | 6 Locations | title excluded: PMTS
-  - Software Engineering MTS | California - Palo Alto / Washington - Seattle / Washington - Bellevue / California - San Francisco | location
-## Johnson & Johnson: 89 engineering roles rejected
+## Johnson & Johnson: 88 engineering roles rejected
+  - Sr. Robotics Solutions Engineer - Field Service | 2 Locations | title excluded: Solutions Engineer
   - Sr Manager R&D - Mechanical Engineering | Boston, Massachusetts, United States of America | title excluded: Manager
   - Sr Manager, Robotics Systems Engineering | 2 Locations | title excluded: Manager
   - Engineering Service & Repair Supervisor | Grecia, Costa Rica | title not in include list
@@ -2633,7 +2637,6 @@
   - Senior Manager Distribution Engineering & Technology | 2 Locations | title excluded: Manager
   - Sr. Design Engineer - New Products | West Chester, Pennsylvania, United States of America | title not in include list
   - Navigation Systems V&V Engineering Manager | 2 Locations | title excluded: V
-  - Product Engineer - TA non-WD | Sao Jose, Brazil | experience: asks 5+ yrs
   - Senior Full Stack Engineer | Singapore, Singapore | experience: asks 4+ yrs
   - [Quality] Sr. Quality Operation Engineer/Specialist [Heart Recovery] | Chiyoda, Tokyo, Japan | title not in include list
   - Sr Manager App Integration Engineer | Raritan, New Jersey, United States of America | title excluded: Manager
@@ -2650,7 +2653,7 @@
   - Lead Engineer, Evidence Management | 2 Locations | title excluded: Lead
   - Senior Robotics Verification & Validation (V&V) Engineering Manager | Boston, Massachusetts, United States of America | title excluded: V
   - Principal R&D Systems Engineer | Boston, Massachusetts, United States of America | title excluded: Principal
-  - Senior Quality Engineer - Orthopedics | Ringaskiddy, Cork, Ireland | title not in include list
+  - 2027 Graduate Automation Engineer | Limerick, Ireland | title not in include list
 ## Merck: 50 engineering roles rejected
   - Specialist, SQL Server Database Administrator (DBA) and Automation Engineer | IND - Telangana - Hyderabad (Hitec City Raidurg) | title not in include list
   - Specialist, Inference Engineering | IND - Telangana - Hyderabad (Hitec City Raidurg) | title not in include list
@@ -2848,9 +2851,9 @@
   - Database Engineer | Gdansk, POL | title not in include list
   - Director, DevOps Engineering | Princeton, NJ | title excluded: Director
   - Detection Engineer | New York, NY | title not in include list
+  - Open Source Supply Chain Engineer | Hyderabad, Telangana | title not in include list
+  - Open Source Supply Chain Engineer | Hyderabad, Telangana | title not in include list
   - Release Train Engineer | 2 Locations | title not in include list
-  - Open Source Supply Chain Engineer | Hyderabad, Telangana | title not in include list
-  - Open Source Supply Chain Engineer | Hyderabad, Telangana | title not in include list
   - Senior Sales Engineer | 3 Locations | title excluded: Sales
   - Release Train Engineer | Hyderabad, Telangana | title not in include list
   - Senior Network Engineer {DNS Infoblox} | Noida, Uttarpradesh | title not in include list
@@ -2866,7 +2869,8 @@
   - Product Software Engineer II | Glendale, CA, USA / Bristol, CT, USA | location
   - Sr Software Engineer - Content Platform Engineering | Glendale, CA, USA / Bristol, CT, USA | experience: asks 5+ yrs
   - Sr Product Software Engineer | New York, NY, USA | experience: asks 5+ yrs
-## Comcast: 39 engineering roles rejected
+## Comcast: 40 engineering roles rejected
+  - DevOps Engineer 3 | India - Chennai, Comcast India Engineering Cent | location
   - Android Engineer | 2 Locations | title excluded: Android
   - Development Engineer 2 | India - Chennai, Comcast India Engineering Cent | location
   - Automation Developer - CDN | 3 Locations | title not in include list
@@ -2957,9 +2961,9 @@
   - QA Engineer | Stockholm - Zenit | title not in include list
   - Engineer, Platform Engineering & Reliability Specialist (Azure) | GA - Glenridge Point | location
   - DevOps Engineer - Specialist | India - Mumbai - Maharashtra | title not in include list
+  - Software Developer Intern - Stockholm Summer 2027 | Stockholm - Zenit | title excluded: Intern
   - QA Engineer – Regulatory Reporting | Poland | title not in include list
   - DevOps Cloud Engineer | Canada - Toronto - Ontario | title not in include list
-  - Software Developer Intern - Stockholm Summer 2027 | Stockholm - Zenit | title excluded: Intern
   - DevOps Cloud Engineer | Canada - Toronto - Ontario | title not in include list
   - Platform Operations Engineer | Mexico - Colonia Juarez - Mexico | title not in include list
   - Director, AI Engineering & Automation | USA - New York City - New York | title excluded: Director
@@ -2967,7 +2971,9 @@
   - Data Engineer Specialist | CA-Toronto-York St 24/25 | title not in include list
   - Lead Data Engineer | CA-Toronto-York St 24/25 | title excluded: Lead
   - Senior Specialist - Quality Engineering | India - Bangalore - Karnataka | title not in include list
-## Zoetis: 2 engineering roles rejected
+## Zoetis: 4 engineering roles rejected
+  - Aseptic Formulation Engineer - Staff Engineer | Kalamazoo - Kilgore Road | title excluded: Staff
+  - Injectable Packaging Engineer - Senior Engineer | Kalamazoo - Portage Road | title not in include list
   - Sr. Engineer- Automation | Atlanta / Douglasville | experience: asks 6+ yrs
   - Maintenance Engineer | Louisville | title not in include list
 ## Marsh McLennan: 46 engineering roles rejected
@@ -3137,10 +3143,10 @@
   - Principal Solutions Engineer | Tel Aviv | title excluded: Principal
   - Security Engineer | Tel Aviv | title excluded: Security Engineer
   - Security Engineer - Product | Remote - Ireland | title excluded: Security Engineer
-  - Security Engineer - Product | London, UK; Remote - United Kingdom | title excluded: Security Engineer
   - Security Engineer - Product | Amsterdam, Netherlands; Remote - Netherlands | title excluded: Security Engineer
-  - Security Engineer - Product | Paris, France; Remote - France | title excluded: Security Engineer
+  - Security Engineer - Product | London, UK; Remote - United Kingdom | title excluded: Security Engineer
   - Security Engineer - Product | Madrid, Spain; Remote - Spain | title excluded: Security Engineer
+  - Security Engineer - Product | Paris, France; Remote - France | title excluded: Security Engineer
   - Security Engineer, Product & Production Infrastructure | Remote - USA | title excluded: Security Engineer
   - Senior Escalation Engineer | Remote - USA | title not in include list
   - Senior Manager, Partner Solutions Engineering (GSI) | Remote - USA | title excluded: Manager
@@ -3470,7 +3476,7 @@
   - Director of Engineering, Games | New York, NY | title excluded: Director
   - Engineering Manager, Analytics Data Products | New York, NY | title excluded: Manager
   - Engineering Manager, Data Platforms | New York, NY | title excluded: Manager
-  - Engineering Manager, Games - Audience | New York, NY | title excluded: Manager
+  - Engineering Manager, Games - Audience Growth | New York, NY | title excluded: Manager
   - Graphics/Multimedia Editor, Elections Data Developer (Election Analytics) | New York, NY; Washington, DC | title not in include list
   - Interactive News Engineering Intern | New York, NY | title excluded: Intern
   - iOS Engineering Intern | New York, NY | title excluded: iOS
@@ -3502,7 +3508,7 @@
   - Software Engineer II - Athlete Performance | London, United Kingdom | location
   - Software Engineer II - Embedded Platform | Den Bosch, Netherlands | title excluded: Embedded
   - Sr. Engineer - Platform | Barcelona, Spain; London, United Kingdom; Spain (Remote); United Kingdom (Remote) | senior title, years not stated
-## Everlaw: 8 engineering roles rejected
+## Everlaw: 7 engineering roles rejected
   - GTM AI Engineer | Oakland, California, United States | location
   - Senior IT Systems Engineer | Oakland, California, United States | title not in include list
   - Senior Software Engineer, AI Platform | Oakland, California, United States | location
@@ -3510,7 +3516,6 @@
   - Senior Software Engineer, Platform | Oakland, California, United States | experience: asks 5+ yrs
   - Software Engineer, Platform | Oakland, California, United States | location
   - Staff AI Engineer | Oakland, California, United States | title excluded: Staff
-  - Technical Program Manager, Engineering | Oakland, California, United States | title excluded: Manager
 ## Grow Therapy: 5 engineering roles rejected
   - Senior/Staff  Security Engineer, Incident Response | Remote / Seattle / New York City / San Francisco | title excluded: Staff
   - Senior/Staff Engineer, Cloud & Infrastructure Security | Remote / Seattle / New York City / San Francisco | title excluded: Staff
@@ -3597,34 +3602,34 @@
   - Campus AI Research Engineer (Full-Time) | Chicago; New York | title excluded: Campus
   - Campus AI Research Engineer (Intern) | Chicago; New York | title excluded: Campus
   - Campus AI Research Engineer – Research Automation (Intern) | Chicago; New York | title excluded: Campus
-  - Campus C++ Software Engineer (Intern) | Singapore | title excluded: Campus
   - Campus C++ Software Engineer (Intern) | Hong Kong; Shanghai | title excluded: Campus
+  - Campus C++ Software Engineer (Intern) | Singapore | title excluded: Campus
   - Campus Data Engineer (Intern) | Chicago | title excluded: Campus
   - Campus ML Research Engineer (Full-Time) | London | title excluded: Campus
-  - Campus Python Software Engineer (Intern) | Singapore | title excluded: Campus
   - Campus Python Software Engineer (Intern) | Hong Kong; Shanghai | title excluded: Campus
-  - Campus Systems Engineer (Full-Time) | Amsterdam | title excluded: Campus
-  - Campus Systems Engineer (Full-Time) | London | title excluded: Campus
+  - Campus Python Software Engineer (Intern) | Singapore | title excluded: Campus
   - Campus Systems Engineer (Full-Time) | Chicago | title excluded: Campus
-  - Campus Systems Engineer (Intern) | London; Amsterdam | title excluded: Campus
+  - Campus Systems Engineer (Full-Time) | London | title excluded: Campus
+  - Campus Systems Engineer (Full-Time) | Amsterdam | title excluded: Campus
   - Campus Systems Engineer (Intern) | Singapore | title excluded: Campus
+  - Campus Systems Engineer (Intern) | London; Amsterdam | title excluded: Campus
   - Campus Systems Engineer (Intern) | Chicago | title excluded: Campus
-  - Campus UI Software Engineer (Intern) | Chicago | title excluded: Campus
   - Campus UI Software Engineer (Intern) | London | title excluded: Campus
+  - Campus UI Software Engineer (Intern) | Chicago | title excluded: Campus
   - Cloud Systems Engineer | Production Engineering | Hong Kong, Singapore  | title not in include list
   - C++ Software Engineer | Trading Team | London | experience: asks 5+ yrs
   - Data Engineer | New York or Chicago | title not in include list
   - DevOps/High Performance Trading System Engineer | London  | title not in include list
   - HPC Operations Engineer | Sydney and Mumbai | title not in include list
-  - HPC Systems Engineer | Chicago | title not in include list
   - HPC Systems Engineer | London | title not in include list
+  - HPC Systems Engineer | Chicago | title not in include list
   - Infrastructure Engineer | Mumbai | title excluded: Infrastructure Engineer
   - Network Engineer | Wireless | Chicago | title not in include list
   - Python Engineer | Python Performance | London | title not in include list
   - Quantitative Developer | Hong Kong | title excluded: Quantitative
   - Quantitative Developer | Trading team | Hong Kong | title excluded: Quantitative
-  - Quantitative Developer | Trading Team | Hong Kong | title excluded: Quantitative
   - Quantitative Developer | Trading Team | Singapore, Hong Kong  | title excluded: Quantitative
+  - Quantitative Developer | Trading Team | Hong Kong | title excluded: Quantitative
   - Research Engineer | AI Agents | Singapore | title excluded: Research
   - Research Scientist/Research Engineer | Deep Learning | Chicago, New York, London | title excluded: Research
   - Senior Software Engineer | Singapore, Hong Kong, Shanghai | location
@@ -3774,7 +3779,8 @@
   - Senior Machine Learning Engineer | Xi'an, China | title excluded: Machine Learning
   - Senior Machine Learning Engineer | Singapore, Singapore | title excluded: Machine Learning
   - Software Developer | Xi'an, China | location
-## ServiceNow: 236 engineering roles rejected
+## ServiceNow: 235 engineering roles rejected
+  - Software Engineer, Agentic Systems - Moveworks | Mountain View, CALIFORNIA, United States, United States | location
   - Senior Software Engineer, Developer Experience - Moveworks | Mountain View, California, United States, United States | experience: asks 5+ yrs
   - Staff Cloud Security Engineer – Financial Services - Office of the CISO | Toronto, Ontario, Canada, CA | title excluded: Staff
   - Applications Dev Engineer | Petah Tikva, , Israel, IL | title not in include list
@@ -3834,7 +3840,6 @@
   - Staff Software Engineer | Hyderabad, , India, IN | title excluded: Staff
   - Senior Staff Data Platform Software Engineer (Java Distributed Systems & Kafka) | Hyderabad, , India, IN | title excluded: Staff
   - Senior Staff Forward Deployed Engineer - Flow | Remote / Addison, Texas, United States, United States | title excluded: Staff
-  - Senior Staff Forward Deployed Engineer - Flow | Remote / San Diego, California, United States, United States | title excluded: Staff
 ## Synchrony: 6 engineering roles rejected
   - AVP, Principal Software Engineer (L11) | Hyderabad IN | title excluded: Principal
   - AVP iOS Software Development Engineer III - MySynchrony | 10 Locations | title excluded: iOS
@@ -4043,7 +4048,7 @@
   - Field Service Engineer (Myrtle Beach or Florence) | 3 Locations | title not in include list
   - Field Service Engineer 2- Part-time (Northern Maine) | USA CA - San Diego Bldg A&B / USA - Maine | location
 ## Qualcomm: 0 engineering roles rejected
-## Booz Allen Hamilton: 316 engineering roles rejected
+## Booz Allen Hamilton: 317 engineering roles rejected
   - Software Engineer | Annapolis Junction, MD | experience: asks 7+ yrs
   - Software Engineer | Aurora, CO | location
   - Software Engineer | Chantilly, VA / Aurora, CO / Herndon, VA | location
@@ -4427,7 +4432,7 @@
   - Head of Field Engineering | San Francisco Office | title excluded: Head of
   - Sales Solutions Engineer - Digital Native | Remote - US | title excluded: Sales
   - Senior Solutions Engineer - APAC | Remote - International | title excluded: Solutions Engineer
-## Cisco: 368 engineering roles rejected
+## Cisco: 371 engineering roles rejected
   - Hardware (ECAD) Engineer | San Jose, California, US | title excluded: Hardware
   - Senior Forward Deployed Engineer | Washington, District of Columbia, US | experience: asks 6+ yrs
   - Hardware Engineering Project Manager | 2 Locations | title excluded: Hardware
@@ -4506,7 +4511,7 @@
   - Principal Forward Deployed Engineer - AI PlatformPrincipal Forward Deployed Engineer - AI Platform/Kubernetes/Pytorch | Singapore | title excluded: Principal
   - Software Engineer | Raleigh | location
   - AI/ML Customer Engineer | Singapore | title excluded: ML
-## Hewlett Packard Enterprise: 351 engineering roles rejected
+## Hewlett Packard Enterprise: 353 engineering roles rejected
   - Software Engineer | Bengaluru, Karnātaka, India | experience: asks 7+ yrs
   - Software Engineer | Bengaluru, Karnātaka, India | location
   - Software Engineer | Bengaluru, Karnātaka, India | experience: asks 6+ yrs
@@ -4536,6 +4541,7 @@
   - Cloud Software Engineer | Bengaluru, Karnātaka, India | location
   - Software Engineer 2 | Bengaluru, Karnātaka, India | location
   - System Software Engineer | Bengaluru, Karnātaka, India | experience: asks 5+ yrs
+  - Software Engineering Manager | 3 Locations | title excluded: Manager
   - Packet Forwarding Software Engineer | Bengaluru, Karnātaka, India | experience: asks 8+ yrs
   - Software Engineer- Datapath Forwarding | Bengaluru, Karnātaka, India | location
   - Principal Systems/Software Engineer | Bengaluru, Karnātaka, India | title excluded: Principal
@@ -4566,8 +4572,8 @@
   - Systems/Software Engineer III | Sunnyvale, California, United States of America | experience: asks 6+ yrs
   - Systems/Software Engineer I | Sunnyvale, California, United States of America | location
   - Storage Systems/Software Engineer | Andover, Massachusetts, United States of America | location
-  - Senior QA Engineer - Software Engineering | Galway, Ireland | experience: asks 5+ yrs
 ## Thomson Reuters: 116 engineering roles rejected
+  - Engineering Manager, Materia AI |  | title excluded: Manager
   - Senior Software Engineer — Customer Files Orchestration | United States of America, Eagan, Minnesota / United States of America, Frisco, Texas | senior title, years not stated
   - Senior Product Security Engineer |  | title excluded: Security Engineer
   - Software Engineer II | India, Bengaluru, Karnataka | location
@@ -4618,7 +4624,6 @@
   - Staff Platform Engineer - Materia AI |  | title excluded: Staff
   - Staff Software Engineer - AI I |  | title excluded: Staff
   - Staff Software Engineer I |  | title excluded: Staff
-  - Engineering Manager, Materia AI |  | title excluded: Manager
   - Lead AI Forward Engineer |  | title excluded: Lead
   - Lead Platform Engineer |  | title excluded: Lead
   - Lead Software Engineer, AI |  | title excluded: Lead
@@ -4745,7 +4750,8 @@
   - Automation Test Engineer | Tampa, FL, United States / Dallas, TX, United States | title not in include list
   - Software Engineer - Java Developer | Hyderabad, India / Chennai, India | location
   - Software Engineer -  Snowflake Developer | Hyderabad, India / Chennai, India | location
-## JPMorganChase: 207 engineering roles rejected
+## JPMorganChase: 206 engineering roles rejected
+  - Senior Lead Software Engineer- Inference Platform Engineer | Seattle, WA, United States | title excluded: Lead
   - Mainframe developer/Software Engineer III | Jersey City, NJ, United States | title excluded: Mainframe
   - Lead Software Engineer - AI & Quantitative Development | Jersey City, NJ, United States / New York, NY, United States | title excluded: Lead
   - Lead Software Engineer - Senior Java Full Stack Developer | Jersey City, NJ, United States | title excluded: Lead
@@ -4805,7 +4811,6 @@
   - Lead Software Engineer | New York, NY, United States | title excluded: Lead
   - Java Backend Software Engineer III | Tampa, FL, United States | location
   - Python Backend Lead Software Engineer | GLASGOW, LANARKSHIRE, United Kingdom | title excluded: Lead
-  - Software Engineer III-Java Full Stack | Mumbai, Maharashtra, India | location
 ## Barclays: 177 engineering roles rejected
   - Service Engineer (AVP) | Building 400-Whippany Campus, Jefferson Park | title not in include list
   - Senior KDB Engineer - VP | New York, 745 7th Avenue | title excluded: VP
@@ -4867,7 +4872,7 @@
   - 2027 Technology Part Time Developer Programme Prague | 2 Locations | title not in include list
   - 2027 Technology Developer Graduate Programme Prague | 2 Locations | title not in include list
   - Engineering Lead | Glasgow Campus | title excluded: Lead
-## Nokia: 199 engineering roles rejected
+## Nokia: 195 engineering roles rejected
   - Junior Software developer – Automation | Greece | location
   - Sr SW Development Engineer | India | title not in include list
   - Staff Software Engineer | India | title excluded: Staff
@@ -4880,7 +4885,6 @@
   - Digital HW Design Engineer, Data Center | United States | title not in include list
   - Fiber Growth : Host Engineer | India | title not in include list
   - Senior Software Engineer | Portugal | experience: asks 8+ yrs
-  - Principal Engineer Global NPI | India | title excluded: Principal
   - SW QA Engineer 2 | India | location
   - Software Quality Engineer (Python, AI & Systems Validation) | Portugal | title not in include list
   - VP IP Hardware Engineering | United States | title excluded: VP
@@ -4928,6 +4932,7 @@
   - Photonic Integrated Circuit - Wafer level Burn-in Engineer | United States | title not in include list
   - Test Development Engineer | Thailand / Malaysia | title not in include list
   - Test Development Engineer | Thailand / Malaysia | title not in include list
+  - Embedded Systems Platform Software Engineer 37823 | United States | title excluded: Embedded
 ## Jefferies: 38 engineering roles rejected
   - Java Engineer – Fixed Income Technology (Assistant Vice President) | London, United Kingdom | location
   - Associate - SRE - Platform Engineering | Mumbai, India | title excluded: SRE
@@ -4967,7 +4972,7 @@
   - Securities Finance Developer (Vice President) | London, United Kingdom | title excluded: Vice President
   - VP - Snowflake Data Engineer - Risk Technology | Pune, India | title excluded: VP
   - Site Reliable Engineer (SRE) for Equity Trading Platform | Hong Kong | title excluded: SRE
-## Jefferies: 117 engineering roles rejected
+## Jefferies: 116 engineering roles rejected
   - Lead Embedded Software Engineer | Santa Clara, CA, United States | title excluded: Lead
   - Process Engineer (Coating) | Saxonburg, PA, United States | title not in include list
   - Senior Engineer | Sunnyvale, CA, United States / Santa Clara, CA, United States | location
@@ -5019,7 +5024,6 @@
   - Lead Engineer, Embedded System Verification | Horsham, PA, United States | title excluded: Lead
   - Process Engineer – Scribe & Break | Sherman, TX, United States | title not in include list
   - Senior Principal Optical Engineer | Santa Clara, CA, United States | title excluded: Principal
-  - Engineering Manager | Wilsonville, OR, United States | title excluded: Manager
   - Senior Engineer, Test Engineering | Sherman, TX, United States | senior title, years not stated
   - Staff Optical Coating Process Engineer | Santa Rosa, CA, United States | title excluded: Staff
   - Senior Manufacturing Engineer | Saxonburg, PA, United States / Newark, DE, United States / Dallas, TX, United States | title not in include list
@@ -5028,7 +5032,8 @@
   - Staff Engineer, Quality | Newark, DE, United States | title excluded: Staff
   - Subject Matter Expert (Manufacturing Engineer) - Optics Polishing | Budd Lake, NJ, United States | title not in include list
   - Senior Process Integration Engineer | Sherman, TX, United States | location
-## Broadridge: 43 engineering roles rejected
+  - Lead Hardware Engineer | Horsham, PA, United States | title excluded: Lead
+## Broadridge: 41 engineering roles rejected
   - Lead Software Engineer | Newark, NJ | title excluded: Lead
   - Senior Software Engineer | Newark, NJ | experience: asks 4+ yrs
   - VP Software Engineering | Newark, NJ | title excluded: VP
@@ -5040,7 +5045,6 @@
   - Senior Software Engineer – Oracle Developer | Toronto, ON | senior title, years not stated
   - Senior Software Engineer - Java-Oracle | Toronto, ON | senior title, years not stated
   - Vice President, Software Engineering (Customer Communications) | 2 Locations | title excluded: Vice President
-  - Sr Software Engineer (Hybrid - Newark, NJ) | Newark, NJ / New York, NY | experience: asks 5+ yrs
   - VP Software Engineering, Asset Management Solutions | 2 Locations | title excluded: VP
   - Senior Backend Software Engineer — Python & Java | Dublin, IE | experience: asks 5+ yrs
   - Principal Full Stack Software Engineer (Hybrid) | Boston - 99 High Street | title excluded: Principal
@@ -5070,7 +5074,6 @@
   - Senior Trading Applications Engineer | Manila - 6805 Ayala Ave | title not in include list
   - Controls Engineering Manager - Onsite | El Dorado Hills, CA | title excluded: Manager
   - Director of Engineering Integrated Platform | Platform Engineering, SRE & DevOps | 3 Locations | title excluded: Director
-  - VP, Enterprise Engineering (Hybrid) | Newark, NJ | title excluded: VP
   - VP,  Head of  Solutions Engineers (Hybrid / NYC) | New York, NY | title excluded: VP
 ## DraftKings: 15 engineering roles rejected
   - Senior Machine Learning Engineer, FinTech | Boston, MA | title excluded: Machine Learning
@@ -5089,28 +5092,28 @@
   - Lead Backend Engineer | Remote - Bulgaria | title excluded: Lead
   - Lead Backend Engineer | Remote - Ukraine | title excluded: Lead
 ## FanDuel: 34 engineering roles rejected
-  - Analytics Engineer | New York City | title not in include list
   - Analytics Engineer | Jersey City, New Jersey, United States | title not in include list
   - Analytics Engineer | New York City | title not in include list
+  - Analytics Engineer | New York City | title not in include list
   - Data API Engineer | Edinburgh, Scotland, United Kingdom | location
+  - Data Engineer | Atlanta, Georgia, United States | title not in include list
+  - Data Engineer | Atlanta, Georgia, United States | title not in include list
   - Data Engineer | New York City | title not in include list
-  - Data Engineer | Atlanta, Georgia, United States | title not in include list
   - Data Engineer | Edinburgh, Scotland, United Kingdom | title not in include list
-  - Data Engineer | Atlanta, Georgia, United States | title not in include list
   - Data Engineering Manager | Edinburgh / Hybrid | title excluded: Manager
   - Data Engineering Senior Manager | Edinburgh, Scotland, United Kingdom | title excluded: Manager
   - Data Platform Engineer | Edinburgh, Scotland, United Kingdom | location
   - Full Stack Engineer - Frontend Focused | Edinburgh, Scotland, United Kingdom | location
-  - Infrastructure Engineering Director | Atlanta, Georgia, United States | title excluded: Infrastructure Engineer
   - Infrastructure Engineering Director | New York City | title excluded: Infrastructure Engineer
+  - Infrastructure Engineering Director | Atlanta, Georgia, United States | title excluded: Infrastructure Engineer
   - Quantitative Software Engineer | Jersey City, New Jersey, United States | title excluded: Quantitative
   - Senior Enterprise Security Engineer | New York City | title excluded: Security Engineer
-  - Senior Platform Engineering Manager | Atlanta, Georgia, United States | title excluded: Manager
   - Senior Platform Engineering Manager | New York City | title excluded: Manager
+  - Senior Platform Engineering Manager | Atlanta, Georgia, United States | title excluded: Manager
+  - Senior Software Engineer | New York City | senior title, years not stated
   - Senior Software Engineer | Edinburgh, Scotland, United Kingdom | senior title, years not stated
   - Senior Software Engineer | Edinburgh, Scotland, United Kingdom | senior title, years not stated
   - Senior Software Engineer | Jersey City, New Jersey, United States | experience: asks 5+ yrs
-  - Senior Software Engineer | New York City | senior title, years not stated
   - Senior Software Engineer - Core Marketing Platforms | Edinburgh, Scotland, United Kingdom | senior title, years not stated
   - Software Engineer | Edinburgh, Scotland, United Kingdom | location
   - Software Engineer - Core Marketing Platforms | Edinburgh, Scotland, United Kingdom | location
@@ -5121,8 +5124,8 @@
   - Staff Analytics Engineer | New York City | title excluded: Staff
   - Staff Infrastructure Engineer | Atlanta, Georgia, United States | title excluded: Staff
   - Staff Infrastructure Engineer | New York City | title excluded: Staff
-  - Staff Machine Learning Engineer - Search | New York City | title excluded: Staff
   - Staff Machine Learning Engineer - Search | Atlanta | title excluded: Staff
+  - Staff Machine Learning Engineer - Search | New York City | title excluded: Staff
 ## Nourish: 12 engineering roles rejected
   - Analytics Engineering Lead | New York, NY | title excluded: Lead
   - Analytics Engineering Manager | New York, NY | title excluded: Manager
