@@ -1,155 +1,149 @@
-  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 Hebbia                 23 open,   2 match
-Mercury                72 open,   5 match
+Mercury                71 open,   5 match
 Plaid                 141 open,   4 match
-Glean                 122 open,   2 match
-Duolingo               54 open,   0 match
-Braze                 333 open,   1 match
-Datadog               379 open,   0 match
-MongoDB               403 open,   5 match
-Affirm                225 open,  10 match
-Spotify                91 open,   1 match
-Toast                 329 open,   1 match
+Glean                 128 open,   2 match
+Duolingo               55 open,   0 match
+Braze                 329 open,   1 match
+Datadog               378 open,   0 match
+MongoDB               411 open,   5 match
+Affirm                227 open,  10 match
+Spotify                93 open,   2 match
+Toast                 332 open,   1 match
 Alloy                  33 open,   0 match
 Clay                   61 open,   4 match
-Paxos                  24 open,   0 match
-iCapital              231 open,   0 match
+Paxos                  25 open,   0 match
+iCapital              233 open,   0 match
 Bluevine                6 open,   0 match
-Addepar               119 open,   5 match
+Addepar               120 open,   5 match
 Persona                13 open,   1 match
 Pinecone                8 open,   1 match
-Hex                    41 open,   4 match
+Hex                    42 open,   4 match
 Linear                 32 open,   1 match
-Temporal               88 open,   4 match
-Supabase               76 open,   9 match
+Temporal               92 open,   4 match
+Supabase               79 open,   9 match
 PostHog                 9 open,   0 match
-Cribl                  83 open,   1 match
+Cribl                  81 open,   1 match
 LaunchDarkly           33 open,   0 match
-Ethos                  74 open,   0 match
+Ethos                  75 open,   0 match
 Openly                  6 open,   0 match
-At-Bay                 23 open,   0 match
+At-Bay                 20 open,   0 match
 Wealthfront            20 open,   2 match
-Brex                  260 open,   3 match
+Brex                  258 open,   3 match
 Chime                  77 open,   3 match
-Perplexity            147 open,  18 match
+Perplexity            148 open,  18 match
 Sierra                195 open,  10 match
-ElevenLabs            129 open,   5 match
-Notion                168 open,   6 match
-Replit                 36 open,   1 match
-Harvey                393 open,   0 match
-Vercel                 86 open,   4 match
-Grafana Labs          135 open,   0 match
+ElevenLabs            128 open,   5 match
+Notion                169 open,   7 match
+Replit                 37 open,   1 match
+Harvey                390 open,   0 match
+Vercel                 87 open,   4 match
+Grafana Labs          137 open,   0 match
 Airtable               11 open,   0 match
-Hinge Health           85 open,  10 match
-Airbnb                197 open,   0 match
-Samsara               311 open,   6 match
-Twilio                109 open,   2 match
-Asana                 116 open,   0 match
-Dropbox                44 open,   0 match
-Reddit                145 open,   8 match
-Elastic               373 open,   0 match
-Lyft                  147 open,   0 match
-Roblox                265 open,   0 match
+Hinge Health           84 open,   9 match
+Airbnb                200 open,   0 match
+Samsara               305 open,   6 match
+Twilio                106 open,   2 match
+Asana                 113 open,   0 match
+Dropbox                46 open,   0 match
+Reddit                144 open,   6 match
+Elastic               372 open,   0 match
+Lyft                  144 open,   0 match
+Roblox                264 open,   0 match
 LangChain             102 open,   6 match
 Abridge                28 open,   0 match
-Fetch Pet Insurance    57 open,   0 match
+Fetch Pet Insurance    52 open,   0 match
 Runway                  3 open,   0 match
-Rogo                  100 open,   4 match
+Rogo                  101 open,   4 match
 Kalshi                 28 open,   4 match
 Public.com              4 open,   0 match
-Baseten               103 open,  24 match
+Baseten               106 open,  25 match
 Fireworks AI          104 open,   8 match
 Together AI            73 open,   0 match
 Cognition             109 open,   7 match
-Decagon               111 open,   0 match
+Decagon               110 open,   0 match
 Suno                   63 open,   0 match
-Exa                    68 open,   1 match
-Column                 23 open,   0 match
-Faire                  71 open,   0 match
+Exa                    67 open,   1 match
+Column                 24 open,   0 match
+Faire                  72 open,   0 match
 Tailscale              81 open,   5 match
-Chainguard            114 open,   1 match
+Chainguard            111 open,   1 match
 WorkOS                 27 open,   1 match
 Ironclad               22 open,   0 match
 Cresta                 84 open,   1 match
 Apollo.io              45 open,   0 match
 Anyscale               24 open,   1 match
-Deepgram               58 open,   2 match
-Anthropic             638 open,   7 match
-OpenAI                833 open,  65 match
-Databricks            905 open,   0 match
-Upstart                77 open,   7 match
-Hippo                  15 open,   0 match
+Deepgram               54 open,   2 match
+Anthropic             637 open,   7 match
+OpenAI                840 open,  65 match
+Databricks            900 open,   0 match
+Upstart                78 open,   7 match
+Hippo                  16 open,   0 match
 Zapier                 10 open,   0 match
-Greenhouse Software    27 open,   0 match
-Mastercard            264 open,   0 match
-Adobe                 209 open,   1 match
-NVIDIA                652 open,   0 match
-Salesforce            419 open,   1 match
-Johnson & Johnson     219 open,   1 match
-Merck                 120 open,   0 match
-Bank of America        91 open,   4 match
-Fidelity Investments  176 open,   0 match
-S&P Global            225 open,   0 match
+Greenhouse Software    28 open,   0 match
+Mastercard            259 open,   0 match
+Adobe                 211 open,   1 match
+NVIDIA                648 open,   0 match
+Salesforce            415 open,   1 match
+Johnson & Johnson     220 open,   1 match
+Merck                 124 open,   0 match
+Bank of America        92 open,   4 match
+Fidelity Investments  173 open,   0 match
+S&P Global            224 open,   0 match
 Disney                  4 open,   0 match
-Comcast                59 open,   2 match
+Comcast                57 open,   2 match
 Nasdaq                161 open,   1 match
 Zoetis                 18 open,   0 match
-Marsh McLennan        305 open,   0 match
+Marsh McLennan        302 open,   0 match
 Guidewire             118 open,   3 match
 Arch Capital Group     39 open,   0 match
-Nationwide            140 open,   0 match
+Nationwide            142 open,   0 match
 Insurify               16 open,   0 match
-Wiz                   106 open,   0 match
+Wiz                   107 open,   0 match
 Huntress               50 open,   0 match
-CrowdStrike           184 open,  10 match
-Motorola Solutions    420 open,   2 match
-Autodesk                4 open,   0 match
+CrowdStrike           181 open,  10 match
+Motorola Solutions    418 open,   2 match
+Autodesk                3 open,   0 match
 DuckDuckGo             10 open,   0 match
-The Trade Desk        108 open,   0 match
-Moloco                 52 open,   0 match
-EliseAI               107 open,   4 match
+The Trade Desk        114 open,   0 match
+Moloco                 51 open,   0 match
+EliseAI               105 open,   4 match
 Hightouch              82 open,   8 match
-Celonis               264 open,   1 match
-Box                   129 open,   0 match
+Celonis               262 open,   1 match
+Box                   131 open,   0 match
 The New York Times    145 open,   1 match
-Hudl                   48 open,   0 match
+Hudl                   47 open,   0 match
 Everlaw                34 open,   0 match
-Grow Therapy           31 open,   0 match
-Doximity               11 open,   0 match
+Grow Therapy           32 open,   0 match
+Doximity               10 open,   0 match
 Thumbtack              43 open,   0 match
 Point72               202 open,   1 match
 Jump Trading           86 open,   0 match
-Fora Travel            33 open,   0 match
+Fora Travel            31 open,   0 match
 Render                 36 open,   1 match
-Gong                   87 open,   0 match
-DRW                   152 open,   4 match
-Cedar                   1 open,   0 match
+Gong                   86 open,   0 match
+DRW                   153 open,   4 match
 Dataiku                13 open,   0 match
 Thoughtworks           31 open,   0 match
-ServiceNow            835 open,   0 match
-Synchrony              21 open,   0 match
+ServiceNow            840 open,   0 match
+Synchrony              22 open,   0 match
 FactSet                65 open,   0 match
 CME Group              25 open,   0 match
-Blackstone             27 open,   4 match
-Sanofi                 78 open,   0 match
+Blackstone             26 open,   4 match
+Sanofi                 81 open,   0 match
 Novartis              236 open,   0 match
 BD (Becton Dickinson)  300 open,   2 match
 Qualcomm                0 open,   0 match
-Booz Allen Hamilton   395 open,   2 match
-Markel                129 open,   0 match
+Booz Allen Hamilton   396 open,   2 match
+Markel                128 open,   0 match
 Tokio Marine North America Services    5 open,   0 match
 Philadelphia Insurance Companies    0 open,   0 match
 Ladder                  3 open,   0 match
 AXIS Capital           67 open,   0 match
-Northwestern Mutual    13 open,   0 match
-Hudson River Trading   86 open,   7 match
+Northwestern Mutual    11 open,   0 match
+Hudson River Trading   87 open,   7 match
 Tower Research Capital   91 open,   5 match
-AQR Capital Management   42 open,   0 match
-IMC Trading           153 open,   1 match
+AQR Capital Management   40 open,   0 match
+IMC Trading           152 open,   1 match
 PDT Partners           13 open,   1 match
 Five Rings             21 open,   0 match
 Squarepoint Capital    87 open,   0 match
@@ -159,28 +153,28 @@ Arcesium               44 open,   1 match
 Monarch Money           6 open,   0 match
 Discord                27 open,   0 match
 Sentry                 42 open,   1 match
-Watershed              39 open,   1 match
+Watershed              40 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             19 open,   0 match
 Semgrep                16 open,   0 match
-Cisco                 477 open,   3 match
-Red Hat               105 open,   0 match
-Hewlett Packard Enterprise  413 open,   0 match
-Thomson Reuters       224 open,   3 match
+Cisco                 479 open,   3 match
+Red Hat               109 open,   0 match
+Hewlett Packard Enterprise  410 open,   0 match
+Thomson Reuters       222 open,   3 match
 Organon                 1 open,   0 match
-GSK                   175 open,   2 match
+GSK                   174 open,   2 match
 Bayer                   0 open,   0 match
-DTCC                  335 open,   3 match
-JPMorganChase         489 open,   8 match
-Barclays              257 open,   0 match
-Nokia                 376 open,   0 match
-Jefferies             145 open,   2 match
-Jefferies             208 open,   0 match
-Broadridge            211 open,   3 match
-DraftKings             17 open,   0 match
-FanDuel               105 open,   0 match
-Nourish                92 open,   2 match
-Rho                    47 open,   0 match
+DTCC                  336 open,   3 match
+JPMorganChase         505 open,   7 match
+Barclays              256 open,   1 match
+Nokia                 374 open,   0 match
+Jefferies             147 open,   2 match
+Jefferies             200 open,   0 match
+Broadridge            210 open,   3 match
+DraftKings             16 open,   0 match
+FanDuel               106 open,   0 match
+Nourish                90 open,   2 match
+Rho                    46 open,   0 match
 Middesk                17 open,   3 match
 Highnote                6 open,   0 match
 Kong                  124 open,   1 match
@@ -188,7 +182,19 @@ Stytch                  0 open,   0 match
 Harness                65 open,   0 match
 Warp                    6 open,   1 match
 LogRocket               8 open,   0 match
-Morgan Stanley        145 open,   3 match
-Etsy                   21 open,   0 match
+Morgan Stanley        144 open,   3 match
+Etsy                   20 open,   0 match
 
-0 new match(es)
+3 new match(es)
+  + [growth] Baseten: Software Engineer - Inference Product | fit 11 | San Francisco / New York | $200K–$400K | posted 5h ago
+    https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a
+  + [large] Barclays: Software Engineer AVP | fit 11 | Building 300-Whippany Campus, Jefferson Park | $150K–$175K | posted 21h ago
+    https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Software-Engineer-AVP_JR-0000140498  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Cedar: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+
+  + [large] Notion: Software Engineer, Collections Infra | fit 8 | San Francisco, California | $150K–$168K | posted 5h ago
+    https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f
