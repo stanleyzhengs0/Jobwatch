@@ -30,7 +30,7 @@
   https://jobs.ashbyhq.com/hightouch-inc/165e1d03-8765-41d6-98ca-fa3e1f5a7e58
 - [growth] Hightouch: Full Stack Product Engineer | fit 9 | Remote (North America) | $180K–$400K | posted 1562d ago
   https://jobs.ashbyhq.com/hightouch-inc/a287cb33-e488-4395-acde-afa0eca9655b
-- [growth] Baseten: Software Engineer - Inference Product | fit 11 | San Francisco / New York | $200K–$400K | posted 19h ago
+- [growth] Baseten: Software Engineer - Inference Product | fit 11 | San Francisco / New York | $200K–$400K | posted 21h ago
   https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a
 - [growth] Baseten: Forward Deployed Engineer (Training) | fit 8 | San Francisco / New York | $200K–$400K | asks 1+ yrs | posted 93d ago
   https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720
@@ -394,7 +394,7 @@
   https://jobs.ashbyhq.com/Perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8
 - [large] Perplexity: Member of Technical Staff (Software Engineer, Security) | fit 10 | San Francisco / Remote (United States) / London / Belgrade / New York City / Dublin | $220K–$405K | asks 4+ yrs | posted 352d ago
   https://jobs.ashbyhq.com/Perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03
-- [large] OpenAI: Software Engineer, Agent Identity | fit 7 | San Francisco / Mountain View | $350K–$405K | posted 40h ago
+- [large] OpenAI: Software Engineer, Agent Identity | fit 7 | San Francisco / Mountain View | $350K–$405K | posted 42h ago
   https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0
 - [large] OpenAI: Software Engineer, IP Infrastructure | fit 6 | San Francisco | $266K–$405K | asks 4+ yrs | posted 22d ago
   https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b
@@ -554,11 +554,11 @@
   https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Cambridge-300-Technology-Square/Engineer-II---Forward-Deployed-Engineer_450884-1
 - [large] Hinge Health: Senior Software Engineer - Frontend | fit 15 | San Francisco-HQ | $157K–$218K | asks 3+ yrs (stretch: senior title) | posted 22d ago
   https://jobs.ashbyhq.com/hinge-health/1f31b983-ea99-4c4e-ad93-5b406d66d66c
-- [large] Hinge Health: Senior Software Engineer - Backend | fit 19 | San Francisco-HQ | $157K–$218K | asks 2+ yrs (stretch: senior title) | posted 23d ago
+- [large] Hinge Health: Senior Software Engineer - Backend | fit 19 | San Francisco-HQ | $157K–$218K | asks 2+ yrs (stretch: senior title) | posted 24d ago
   https://jobs.ashbyhq.com/hinge-health/abbd661e-83fa-44f3-9d35-cfe50798de04
-- [large] Hinge Health: Senior Software Engineer - Accounts | fit 17 | San Francisco-HQ | $157K–$218K | asks 3+ yrs (stretch: senior title) | posted 23d ago
+- [large] Hinge Health: Senior Software Engineer - Accounts | fit 17 | San Francisco-HQ | $157K–$218K | asks 3+ yrs (stretch: senior title) | posted 24d ago
   https://jobs.ashbyhq.com/hinge-health/2eb66662-40fc-4554-b8b7-eb15bdadc3e4
-- [large] Hinge Health: Senior Software Engineer, Full Stack | fit 22 | San Francisco-HQ | $158K–$218K | asks 3+ yrs (stretch: senior title) | posted 23d ago
+- [large] Hinge Health: Senior Software Engineer, Full Stack | fit 22 | San Francisco-HQ | $158K–$218K | asks 3+ yrs (stretch: senior title) | posted 24d ago
   https://jobs.ashbyhq.com/hinge-health/5011fad1-6e21-4ed2-be58-5b820e4f9b6f
 - [large] Hinge Health: Senior Software Engineer, Home | fit 23 | San Francisco-HQ | $158K–$218K | asks 3+ yrs (stretch: senior title) | posted 55d ago
   https://jobs.ashbyhq.com/hinge-health/0a1efa11-60f1-4d86-9f88-43362954c8ef
@@ -668,7 +668,7 @@
   https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8
 - [large] Braze: Software Engineer II, User Targeting | fit 7 | New York City | $104K–$176K | asks 2+ yrs | posted 34d ago
   https://job-boards.greenhouse.io/braze/jobs/8262294
-- [large] Barclays: Software Engineer AVP | fit 11 | Building 300-Whippany Campus, Jefferson Park | $150K–$175K | posted 35h ago
+- [large] Barclays: Software Engineer AVP | fit 11 | Building 300-Whippany Campus, Jefferson Park | $150K–$175K | posted 37h ago
   https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Software-Engineer-AVP_JR-0000140498
 - [large] Blackstone: Software Engineer, Associate - Business Finance Technology | fit 15 | New Jersey | $110K–$170K | asks 3+ yrs | posted 11d ago
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-Jersey/Product-Manager--Associate---Business-Finance-Technology_45207
@@ -678,7 +678,7 @@
   https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Blockchain-Engineer---Software-Engineering_JR046010-1
 - [large] Blackstone: AI Engineer, Associate – Data Analytics & AI | fit 11 | New York | $110K–$170K | posted 79d ago
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Associate---Data-Analytics---AI_45237-1
-- [large] Notion: Software Engineer, Collections Infra | fit 8 | San Francisco, California | $150K–$168K | posted 19h ago
+- [large] Notion: Software Engineer, Collections Infra | fit 8 | San Francisco, California | $150K–$168K | posted 21h ago
   https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f
 - [large] Notion: Software Engineer, Web Infrastructure | fit 6 | San Francisco, California / New York, New York | $150K–$168K | posted 10d ago
   https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042
@@ -708,7 +708,7 @@
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1
 - [large] BD (Becton Dickinson): Senior Engineer, Combination Products | fit 8 | USA NJ Branchburg | $87K–$140K | asks 2+ yrs (stretch: senior title) | posted 7d ago
   https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ-Branchburg/Combination-Products-Senior-Engineer_R-553015-1
-- [large] Twilio: Software Engineer - Platform Engineering | fit 12 | Remote - US | $109K–$136K | posted 44h ago
+- [large] Twilio: Software Engineer - Platform Engineering | fit 12 | Remote - US | $109K–$136K | posted 46h ago
   https://job-boards.greenhouse.io/twilio/jobs/8385593
 - [large] Broadridge: Sr Software Engineer-Java | fit 8 | Pittsburgh, PA / Newark, NJ | $120K–$125K | asks 3+ yrs (stretch: senior title) | posted 24d ago
   https://broadridge.wd5.myworkdayjobs.com/Careers/job/Pittsburgh-PA/Sr-Software-Engineer-Java_JR1086922
@@ -744,11 +744,11 @@
   https://job-boards.greenhouse.io/affirm/jobs/7727320003
 - [large] Affirm: Software Engineer II, Fullstack (Capital Orchestration) | fit 6 | Remote US | asks 1.5+ yrs | posted 170d ago
   https://job-boards.greenhouse.io/affirm/jobs/7749755003
-- [large] JPMorganChase: Software Engineer III - Salesforce | fit 22 | Jersey City, NJ, United States | asks 3+ yrs | posted 11h ago
+- [large] JPMorganChase: Software Engineer III - Salesforce | fit 22 | Jersey City, NJ, United States | asks 3+ yrs | posted 13h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806005
-- [large] JPMorganChase: Software Engineer III - Selenium Automation | fit 20 | Jersey City, NJ, United States | asks 3+ yrs | posted 11h ago
+- [large] JPMorganChase: Software Engineer III - Selenium Automation | fit 20 | Jersey City, NJ, United States | asks 3+ yrs | posted 13h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806044
-- [large] JPMorganChase: Software Engineer II: Fullstack | fit 4 | Jersey City, NJ, United States | asks 2+ yrs | posted 35h ago
+- [large] JPMorganChase: Software Engineer II: Fullstack | fit 4 | Jersey City, NJ, United States | asks 2+ yrs | posted 37h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745587
 - [large] JPMorganChase: Data Engineer III-Python/SQL/Snowflake | fit 13 | Jersey City, NJ, United States | asks 3+ yrs | posted 2d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807003
