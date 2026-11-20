@@ -10,7 +10,7 @@ Plaid                 146 open,   4 match
 Glean                 128 open,   2 match
 Duolingo               55 open,   0 match
 Braze                 332 open,   1 match
-Datadog               380 open,   0 match
+Datadog               382 open,   0 match
 MongoDB               415 open,   5 match
 Affirm                225 open,  10 match
 Spotify                94 open,   3 match
@@ -52,7 +52,7 @@ Twilio                107 open,   2 match
 Asana                 113 open,   0 match
 Dropbox                47 open,   0 match
 Reddit                143 open,   6 match
-Elastic               372 open,   0 match
+Elastic               371 open,   0 match
 Lyft                  144 open,   0 match
 Roblox                265 open,   0 match
 LangChain             103 open,   6 match
@@ -79,8 +79,8 @@ Cresta                 84 open,   1 match
 Apollo.io              46 open,   0 match
 Anyscale               24 open,   1 match
 Deepgram               54 open,   2 match
-Anthropic             636 open,   7 match
-OpenAI                849 open,  65 match
+Anthropic             637 open,   7 match
+OpenAI                854 open,  65 match
 Databricks            897 open,   0 match
 Upstart                78 open,   7 match
 Hippo                  17 open,   0 match
@@ -88,7 +88,7 @@ Zapier                 10 open,   0 match
 Greenhouse Software    28 open,   0 match
 Mastercard            259 open,   0 match
 Adobe                 211 open,   1 match
-NVIDIA                646 open,   0 match
+NVIDIA                647 open,   0 match
 Salesforce            413 open,   1 match
 Johnson & Johnson     220 open,   1 match
 Merck                 124 open,   0 match
@@ -130,7 +130,7 @@ Gong                   84 open,   0 match
 DRW                   153 open,   4 match
 Dataiku                13 open,   0 match
 Thoughtworks           31 open,   0 match
-ServiceNow            843 open,   0 match
+ServiceNow            844 open,   0 match
 Synchrony              22 open,   0 match
 FactSet                65 open,   0 match
 CME Group              25 open,   0 match
@@ -139,7 +139,7 @@ Sanofi                 79 open,   0 match
 Novartis              234 open,   0 match
 BD (Becton Dickinson)  301 open,   2 match
 Qualcomm                0 open,   0 match
-Booz Allen Hamilton   396 open,   2 match
+Booz Allen Hamilton   395 open,   2 match
 Markel                128 open,   0 match
 Tokio Marine North America Services    5 open,   0 match
 Philadelphia Insurance Companies    0 open,   0 match
@@ -157,7 +157,7 @@ Engineers Gate          9 open,   0 match
 Graham Capital Management   12 open,   1 match
 Arcesium               44 open,   1 match
 Monarch Money           6 open,   0 match
-Discord                27 open,   0 match
+Discord                28 open,   0 match
 Sentry                 42 open,   1 match
 Watershed              40 open,   1 match
 Codecademy              0 open,   0 match
@@ -165,25 +165,25 @@ Astronomer             19 open,   0 match
 Semgrep                16 open,   0 match
 Cisco                 477 open,   2 match
 Red Hat               108 open,   0 match
-Hewlett Packard Enterprise  412 open,   0 match
+Hewlett Packard Enterprise  411 open,   0 match
 Thomson Reuters       222 open,   3 match
 Organon                 1 open,   0 match
 GSK                   173 open,   2 match
 Bayer                   0 open,   0 match
 DTCC                  336 open,   3 match
 JPMorganChase         502 open,   7 match
-Barclays              255 open,   1 match
+Barclays              256 open,   1 match
 Nokia                 368 open,   0 match
 Jefferies             147 open,   2 match
 Jefferies             198 open,   0 match
-Broadridge            210 open,   3 match
+Broadridge            211 open,   3 match
 DraftKings             16 open,   0 match
 FanDuel               106 open,   0 match
 Nourish                90 open,   2 match
 Rho                    47 open,   0 match
 Middesk                17 open,   3 match
 Highnote                6 open,   0 match
-Kong                  124 open,   1 match
+Kong                  125 open,   1 match
 Stytch                  0 open,   0 match
 Harness                65 open,   0 match
 Warp                    6 open,   1 match

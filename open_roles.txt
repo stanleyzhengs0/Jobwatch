@@ -30,7 +30,7 @@
   https://jobs.ashbyhq.com/hightouch-inc/165e1d03-8765-41d6-98ca-fa3e1f5a7e58
 - [growth] Hightouch: Full Stack Product Engineer | fit 9 | Remote (North America) | $180K–$400K | posted 1562d ago
   https://jobs.ashbyhq.com/hightouch-inc/a287cb33-e488-4395-acde-afa0eca9655b
-- [growth] Baseten: Software Engineer - Inference Product | fit 11 | San Francisco / New York | $200K–$400K | posted 10h ago
+- [growth] Baseten: Software Engineer - Inference Product | fit 11 | San Francisco / New York | $200K–$400K | posted 11h ago
   https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a
 - [growth] Baseten: Forward Deployed Engineer (Training) | fit 8 | San Francisco / New York | $200K–$400K | asks 1+ yrs | posted 92d ago
   https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720
@@ -98,7 +98,7 @@
   https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e
 - [growth] Hudson River Trading: Software Engineer (C++ or Python) – 2027 Grads | fit -2 | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore | $300K | posted 129d ago
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122
-- [growth] Tower Research Capital: Software Engineer, GPU Fleet | fit 5 | New York | $200K–$300K | asks 2+ yrs | posted 100d ago
+- [growth] Tower Research Capital: Software Engineer, GPU Fleet | fit 5 | New York | $200K–$300K | asks 2+ yrs | posted 101d ago
   https://www.tower-research.com/open-positions/?gh_jid=8099779
 - [growth] Cognition: Software Engineer, Infrastructure | fit 7 | San Francisco / New York City | $260K–$300K | posted 105d ago
   https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec
@@ -158,7 +158,7 @@
   https://job-boards.greenhouse.io/pdtpartners/jobs/3914106
 - [growth] Kalshi: Software Engineer, Product | fit 11 | New York, New York, United States | $100K–$250K | posted 2133d ago
   https://job-boards.greenhouse.io/kalshi/jobs/4327952003
-- [growth] Tower Research Capital: Software Engineer, Machine Lifecycle | fit 4 | New York | $150K–$250K | posted 100d ago
+- [growth] Tower Research Capital: Software Engineer, Machine Lifecycle | fit 4 | New York | $150K–$250K | posted 101d ago
   https://www.tower-research.com/open-positions/?gh_jid=8099782
 - [growth] Linear: Product Engineer | fit 14 | North America | $174K–$245K | asks 2+ yrs | posted 163d ago
   https://jobs.ashbyhq.com/linear/0c7c2e26-0a98-42cf-a47c-9a3999fb513b
@@ -312,7 +312,7 @@
   https://jobs.ashbyhq.com/openai/1faee5e7-3b2f-4d8c-9a6f-ff0f2a4a42a7
 - [large] OpenAI: Software Engineer, Fleet Infrastructure | fit 4 | San Francisco / New York City | $230K–$490K | posted 644d ago
   https://jobs.ashbyhq.com/openai/a58add97-1968-4d5c-b504-ab62bea12df3
-- [large] Perplexity: Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | fit 8 | San Francisco / Remote (United States) / Toronto / Seattle / New York City | $250K–$485K | posted 22d ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, GPU Cluster Infrastructure) | fit 8 | San Francisco / Remote (United States) / Toronto / Seattle / New York City | $250K–$485K | posted 23d ago
   https://jobs.ashbyhq.com/Perplexity/886f4ab3-e691-45ed-b2db-069edf6f5413
 - [large] Perplexity: Member of Technical Staff (AI Inference Engineer) | fit 4 | San Francisco / Palo Alto / New York City | $220K–$485K | asks 3+ yrs | posted 220d ago
   https://jobs.ashbyhq.com/Perplexity/8a976851-9bef-4b07-8d36-567fa9540aef
@@ -382,7 +382,7 @@
   https://jobs.ashbyhq.com/Perplexity/78675022-c4a7-41d2-9259-7c59be4de93c
 - [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise AI Products) | fit 4 | San Francisco / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 133d ago
   https://jobs.ashbyhq.com/Perplexity/2c5fdd71-472a-4c62-bc53-deafb66e7941
-- [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise Knowledge Platform) | fit 10 | San Francisco / Palo Alto / London / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 157d ago
+- [large] Perplexity: Member of Technical Staff (Software Engineer, Enterprise Knowledge Platform) | fit 10 | San Francisco / Palo Alto / London / Seattle / New York City | $220K–$405K | asks 4+ yrs | posted 158d ago
   https://jobs.ashbyhq.com/Perplexity/daafcaba-cc39-487a-b941-d7a407753788
 - [large] Perplexity: Member of Technical Staff (Software Engineer, Computer Growth) | fit 14 | San Francisco / New York City | $220K–$405K | asks 2+ yrs | posted 168d ago
   https://jobs.ashbyhq.com/Perplexity/e7ab0be5-68ba-4a2c-abb1-ee33886d955d
@@ -394,7 +394,7 @@
   https://jobs.ashbyhq.com/Perplexity/4c0ac8bb-55bf-4fb0-b7d7-36d69f55e6c8
 - [large] Perplexity: Member of Technical Staff (Software Engineer, Security) | fit 10 | San Francisco / Remote (United States) / London / Belgrade / New York City / Dublin | $220K–$405K | asks 4+ yrs | posted 352d ago
   https://jobs.ashbyhq.com/Perplexity/6c9b3c71-85ba-47db-bce5-44fd9fa95d03
-- [large] OpenAI: Software Engineer, Agent Identity | fit 7 | San Francisco / Mountain View | $350K–$405K | posted 31h ago
+- [large] OpenAI: Software Engineer, Agent Identity | fit 7 | San Francisco / Mountain View | $350K–$405K | posted 32h ago
   https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0
 - [large] OpenAI: Software Engineer, IP Infrastructure | fit 6 | San Francisco | $266K–$405K | asks 4+ yrs | posted 22d ago
   https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b
@@ -474,7 +474,7 @@
   https://job-boards.greenhouse.io/anthropic/jobs/5445625008
 - [large] Anthropic: Applied AI Engineer, Startups (Life Sciences) | fit 4 | San Francisco, CA | New York City, NY | $280K–$320K | asks 4+ yrs | posted 35d ago
   https://job-boards.greenhouse.io/anthropic/jobs/5454650008
-- [large] Anthropic: Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design) | fit 3 | San Francisco, CA | New York City, NY | $280K–$320K | posted 51d ago
+- [large] Anthropic: Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design) | fit 3 | San Francisco, CA | New York City, NY | $280K–$320K | posted 52d ago
   https://job-boards.greenhouse.io/anthropic/jobs/5437172008
 - [large] Anthropic: Front End Engineer, Marketing | fit 6 | San Francisco, CA | New York City, NY | $300K–$320K | posted 93d ago
   https://job-boards.greenhouse.io/anthropic/jobs/5386971008
@@ -670,7 +670,7 @@
   https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8
 - [large] Braze: Software Engineer II, User Targeting | fit 7 | New York City | $104K–$176K | asks 2+ yrs | posted 34d ago
   https://job-boards.greenhouse.io/braze/jobs/8262294
-- [large] Barclays: Software Engineer AVP | fit 11 | Building 300-Whippany Campus, Jefferson Park | $150K–$175K | posted 26h ago
+- [large] Barclays: Software Engineer AVP | fit 11 | Building 300-Whippany Campus, Jefferson Park | $150K–$175K | posted 27h ago
   https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Software-Engineer-AVP_JR-0000140498
 - [large] Blackstone: Software Engineer, Associate - Business Finance Technology | fit 15 | New Jersey | $110K–$170K | asks 3+ yrs | posted 11d ago
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-Jersey/Product-Manager--Associate---Business-Finance-Technology_45207
@@ -680,7 +680,7 @@
   https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Blockchain-Engineer---Software-Engineering_JR046010-1
 - [large] Blackstone: AI Engineer, Associate – Data Analytics & AI | fit 11 | New York | $110K–$170K | posted 79d ago
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Associate---Data-Analytics---AI_45237-1
-- [large] Notion: Software Engineer, Collections Infra | fit 8 | San Francisco, California | $150K–$168K | posted 10h ago
+- [large] Notion: Software Engineer, Collections Infra | fit 8 | San Francisco, California | $150K–$168K | posted 11h ago
   https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f
 - [large] Notion: Software Engineer, Web Infrastructure | fit 6 | San Francisco, California / New York, New York | $150K–$168K | posted 10d ago
   https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042
@@ -710,7 +710,7 @@
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-York/AI-Engineer--Analyst---Data-Analytics---AI_45238-1
 - [large] BD (Becton Dickinson): Senior Engineer, Combination Products | fit 8 | USA NJ Branchburg | $87K–$140K | asks 2+ yrs (stretch: senior title) | posted 7d ago
   https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ-Branchburg/Combination-Products-Senior-Engineer_R-553015-1
-- [large] Twilio: Software Engineer - Platform Engineering | fit 12 | Remote - US | $109K–$136K | posted 35h ago
+- [large] Twilio: Software Engineer - Platform Engineering | fit 12 | Remote - US | $109K–$136K | posted 36h ago
   https://job-boards.greenhouse.io/twilio/jobs/8385593
 - [large] Broadridge: Sr Software Engineer-Java | fit 8 | Pittsburgh, PA / Newark, NJ | $120K–$125K | asks 3+ yrs (stretch: senior title) | posted 24d ago
   https://broadridge.wd5.myworkdayjobs.com/Careers/job/Pittsburgh-PA/Sr-Software-Engineer-Java_JR1086922
@@ -746,7 +746,7 @@
   https://job-boards.greenhouse.io/affirm/jobs/7727320003
 - [large] Affirm: Software Engineer II, Fullstack (Capital Orchestration) | fit 6 | Remote US | asks 1.5+ yrs | posted 170d ago
   https://job-boards.greenhouse.io/affirm/jobs/7749755003
-- [large] JPMorganChase: Software Engineer II: Fullstack | fit 4 | Jersey City, NJ, United States | asks 2+ yrs | posted 26h ago
+- [large] JPMorganChase: Software Engineer II: Fullstack | fit 4 | Jersey City, NJ, United States | asks 2+ yrs | posted 27h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745587
 - [large] JPMorganChase: Data Engineer III-Python/SQL/Snowflake | fit 13 | Jersey City, NJ, United States | asks 3+ yrs | posted 2d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807003
