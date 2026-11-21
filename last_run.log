@@ -1,47 +1,9 @@
   ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Mastercard: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Adobe: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! NVIDIA: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Johnson & Johnson: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Merck: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Bank of America: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Fidelity Investments: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! S&P Global: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Disney: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Nasdaq: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Zoetis: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Marsh McLennan: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Guidewire: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Arch Capital Group: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Nationwide: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! CrowdStrike: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Motorola Solutions: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Autodesk: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
   ! Cedar: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Synchrony: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! CME Group: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Blackstone: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! BD (Becton Dickinson): JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Booz Allen Hamilton: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Markel: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Tokio Marine North America Services: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Philadelphia Insurance Companies: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! AXIS Capital: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Northwestern Mutual: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Cisco: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Red Hat: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Hewlett Packard Enterprise: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Thomson Reuters: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Organon: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! GSK: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Broadridge: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! DraftKings: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
   ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Morgan Stanley: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-  ! Etsy: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 Hebbia                 23 open,   2 match
 Mercury                70 open,   5 match
 Plaid                 147 open,   4 match
@@ -85,7 +47,7 @@ Grafana Labs          140 open,   0 match
 Airtable               11 open,   0 match
 Hinge Health           88 open,  10 match
 Airbnb                202 open,   0 match
-Samsara               288 open,   6 match
+Samsara               290 open,   6 match
 Twilio                109 open,   2 match
 Asana                 111 open,   0 match
 Dropbox                47 open,   0 match
@@ -117,18 +79,36 @@ Cresta                 84 open,   1 match
 Apollo.io              45 open,   0 match
 Anyscale               24 open,   1 match
 Deepgram               52 open,   2 match
-Anthropic             633 open,   7 match
+Anthropic             635 open,   7 match
 OpenAI                852 open,  65 match
-Databricks            897 open,   0 match
+Databricks            896 open,   0 match
 Upstart                77 open,   7 match
 Hippo                  17 open,   0 match
 Zapier                  9 open,   0 match
 Greenhouse Software    26 open,   0 match
+Mastercard            257 open,   0 match
+Adobe                 211 open,   1 match
+NVIDIA                654 open,   0 match
 Salesforce            411 open,   0 match
+Johnson & Johnson     217 open,   1 match
+Merck                 126 open,   0 match
+Bank of America        90 open,   4 match
+Fidelity Investments  175 open,   0 match
+S&P Global            224 open,   0 match
+Disney                  4 open,   0 match
 Comcast                63 open,   2 match
+Nasdaq                155 open,   1 match
+Zoetis                 16 open,   0 match
+Marsh McLennan        302 open,   0 match
+Guidewire             116 open,   3 match
+Arch Capital Group     38 open,   0 match
+Nationwide            130 open,   0 match
 Insurify               15 open,   0 match
 Wiz                   108 open,   0 match
 Huntress               47 open,   0 match
+CrowdStrike           180 open,  10 match
+Motorola Solutions    424 open,   2 match
+Autodesk                3 open,   0 match
 DuckDuckGo             10 open,   0 match
 The Trade Desk        118 open,   0 match
 Moloco                 49 open,   0 match
@@ -151,14 +131,24 @@ DRW                   150 open,   3 match
 Dataiku                13 open,   0 match
 Thoughtworks           31 open,   0 match
 ServiceNow            998 open,   0 match
+Synchrony              19 open,   0 match
 FactSet                64 open,   0 match
+CME Group              25 open,   0 match
+Blackstone             24 open,   4 match
 Sanofi                 83 open,   0 match
 Novartis              234 open,   0 match
+BD (Becton Dickinson)  295 open,   2 match
 Qualcomm                0 open,   0 match
+Booz Allen Hamilton   394 open,   2 match
+Markel                124 open,   0 match
+Tokio Marine North America Services    5 open,   0 match
+Philadelphia Insurance Companies    0 open,   0 match
 Ladder                  3 open,   0 match
+AXIS Capital           67 open,   0 match
+Northwestern Mutual    11 open,   0 match
 Hudson River Trading   86 open,   7 match
 Tower Research Capital   92 open,   5 match
-AQR Capital Management   40 open,   0 match
+AQR Capital Management   41 open,   0 match
 IMC Trading           151 open,   1 match
 PDT Partners           13 open,   1 match
 Five Rings             21 open,   0 match
@@ -173,6 +163,12 @@ Watershed              39 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             21 open,   0 match
 Semgrep                16 open,   0 match
+Cisco                 464 open,   1 match
+Red Hat               104 open,   0 match
+Hewlett Packard Enterprise  413 open,   0 match
+Thomson Reuters       223 open,   3 match
+Organon                 1 open,   0 match
+GSK                   186 open,   2 match
 Bayer                   0 open,   0 match
 DTCC                  334 open,   3 match
 JPMorganChase         498 open,  10 match
@@ -180,6 +176,8 @@ Barclays              257 open,   1 match
 Nokia                 369 open,   0 match
 Jefferies             147 open,   2 match
 Jefferies             195 open,   0 match
+Broadridge            210 open,   2 match
+DraftKings             16 open,   0 match
 FanDuel               105 open,   0 match
 Nourish                90 open,   2 match
 Rho                    48 open,   0 match
@@ -190,5 +188,7 @@ Stytch                  0 open,   0 match
 Harness                66 open,   0 match
 Warp                    6 open,   1 match
 LogRocket               8 open,   0 match
+Morgan Stanley        149 open,   3 match
+Etsy                   20 open,   0 match
 
 0 new match(es)
