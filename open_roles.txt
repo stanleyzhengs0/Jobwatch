@@ -4,7 +4,7 @@
   https://jobs.ashbyhq.com/hebbia-ai/6e802704-ce96-4110-9db3-6e02dc28d615
 - [startup] Exa: Forward Deployed Engineer, NYC | fit 9 | New York City | $160K–$300K | posted 99d ago
   https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea
-- [startup] Render: Software Engineer, Application Security (all levels) | fit 12 | SF or Remote (US/Canada) | $170K–$290K | posted 3h ago
+- [startup] Render: Software Engineer, Application Security (all levels) | fit 12 | SF or Remote (US/Canada) | $170K–$290K | posted 4h ago
   https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5
 - [startup] Render: Software Engineer, Dev Velocity (all levels) | fit 10 | Remote: United States / Remote: Canada | $170K–$290K | posted 149d ago
   https://jobs.ashbyhq.com/render/a3f88090-5e37-43a7-b392-04b02056db6d
@@ -114,7 +114,7 @@
   https://jobs.ashbyhq.com/hex/996c38fd-0a7a-4df9-a5c3-4234b20b7b71
 - [growth] Hex: Software Engineer, AI Agent | fit 13 | San Francisco / New York | $199K–$295K | asks 4+ yrs | posted 274d ago
   https://jobs.ashbyhq.com/hex/f5e3e677-5fdb-4012-badb-1b709ed37e11
-- [growth] Fireworks AI: Member of Technical Staff, Developer Experience | fit 11 | San Mateo | $200K–$290K | posted 43d ago
+- [growth] Fireworks AI: Member of Technical Staff, Developer Experience | fit 11 | San Mateo | $200K–$290K | posted 44d ago
   https://jobs.ashbyhq.com/fireworks/307c8122-b318-47af-b913-bcdb5d264685
 - [growth] Fireworks AI: Member of Technical Staff, AI Infrastructure Reliability | San Mateo / New York | $200K–$290K | posted 95d ago
   https://jobs.ashbyhq.com/fireworks/ff11ca2c-d95f-4802-8370-09c2cf394842
@@ -220,7 +220,7 @@
   https://job-boards.greenhouse.io/addepar1/jobs/8879308002
 - [growth] Sentry: Forward Deployed Engineer | fit 15 | San Francisco, California | $175K–$200K | asks 1+ yrs | posted 11d ago
   https://jobs.ashbyhq.com/sentry/9b759583-60d2-4673-9da6-026731956300
-- [growth] LangChain: Frontend Engineer, AI Observability & Evals Platform | fit 8 | San Francisco, CA / Boston, MA / New York, NY | $160K–$195K | asks 2+ yrs | posted 100d ago
+- [growth] LangChain: Frontend Engineer, AI Observability & Evals Platform | fit 8 | San Francisco, CA / Boston, MA / New York, NY | $160K–$195K | asks 2+ yrs | posted 101d ago
   https://jobs.ashbyhq.com/langchain/f7de4819-e7aa-4dfb-9acd-8b81ad8caf2c
 - [growth] Temporal: Software Engineer II, Cloud Applications | fit 5 | United States (Remote) | $118K–$194K | asks 3+ yrs | posted 25d ago
   https://jobs.ashbyhq.com/temporal/e3d7f035-7946-469f-84cf-e1c775bf25e8
@@ -746,8 +746,6 @@
   https://job-boards.greenhouse.io/affirm/jobs/7727320003
 - [large] Affirm: Software Engineer II, Fullstack (Capital Orchestration) | fit 6 | Remote US | asks 1.5+ yrs | posted 171d ago
   https://job-boards.greenhouse.io/affirm/jobs/7749755003
-- [large] Twilio: Software Engineer (L2) SuperNetwork | fit 12 | Remote - Estonia | asks 2+ yrs | posted 5h ago
-  https://job-boards.greenhouse.io/twilio/jobs/8405807
 - [large] JPMorganChase: Software Engineer III - AIML | fit 15 | Mc Lean, VA, United States / Jersey City, NJ, United States | asks 3+ yrs | posted 25h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801748
 - [large] JPMorganChase: Python / Agentic AI Software Engineer III | fit 16 | Jersey City, NJ, United States | asks 3+ yrs | posted 25h ago

@@ -1,3 +1,9 @@
+  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Cedar: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 Hebbia                 23 open,   2 match
 Mercury                70 open,   5 match
 Plaid                 149 open,   4 match
@@ -42,7 +48,7 @@ Airtable               11 open,   0 match
 Hinge Health           88 open,  10 match
 Airbnb                205 open,   0 match
 Samsara               288 open,   6 match
-Twilio                108 open,   3 match
+Twilio                108 open,   2 match
 Asana                 111 open,   0 match
 Dropbox                47 open,   0 match
 Reddit                148 open,   6 match
@@ -185,16 +191,4 @@ LogRocket               8 open,   0 match
 Morgan Stanley        149 open,   3 match
 Etsy                   20 open,   0 match
 
-3 new match(es)
-  + [startup] Render: Software Engineer, Application Security (all levels) | fit 12 | SF or Remote (US/Canada) | $170K–$290K | posted 3h ago
-    https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5
-  + [growth] Baseten: Web Engineer | fit 9 | San Francisco / New York | $200K–$240K | asks 4+ yrs | posted 2h ago
-    https://jobs.ashbyhq.com/baseten/8a989ccd-57d6-4015-bf79-2b28444e1e85  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Cedar: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-
-  + [large] Affirm: Software Engineer I, Backend (Streaming Infra) | fit 9 | Remote US | $130K–$180K | posted <1h ago
-    https://job-boards.greenhouse.io/affirm/jobs/8201469003
+0 new match(es)

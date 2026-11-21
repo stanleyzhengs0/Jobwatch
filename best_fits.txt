@@ -1,4 +1,4 @@
-# Best resume fits posted in the last 21 days (75 roles), highest fit first
+# Best resume fits posted in the last 21 days (74 roles), highest fit first
 
 - Guidewire: Software Engineer | fit 30 | United States - Exton, PA | $86K–$164K | posted 17d ago
   https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15376-1
@@ -64,10 +64,8 @@
   https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e
 - Tailscale: Documentation Platform Engineer | fit 13 | Remote (United States) | $163K–$204K | posted 17d ago
   https://job-boards.greenhouse.io/tailscale/jobs/4750594005
-- Render: Software Engineer, Application Security (all levels) | fit 12 | SF or Remote (US/Canada) | $170K–$290K | posted 3h ago
+- Render: Software Engineer, Application Security (all levels) | fit 12 | SF or Remote (US/Canada) | $170K–$290K | posted 4h ago
   https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5
-- Twilio: Software Engineer (L2) SuperNetwork | fit 12 | Remote - Estonia | asks 2+ yrs | posted 5h ago
-  https://job-boards.greenhouse.io/twilio/jobs/8405807
 - Twilio: Software Engineer - Platform Engineering | fit 12 | Remote - US | $109K–$136K | posted 2d ago
   https://job-boards.greenhouse.io/twilio/jobs/8385593
 - Hinge Health: Senior Software Engineer, App Enablement | fit 12 | San Francisco-HQ | $158K–$217K | asks 3+ yrs (stretch: senior title) | posted 14d ago
@@ -120,3 +118,5 @@
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799340
 - OpenAI: Software Engineer, Agent Platform | fit 8 | San Francisco | $230K–$385K | posted 15d ago
   https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004
+- Tailscale: Security Software Engineer | fit 8 | Remote (United States) | $163K–$226K | posted 15d ago
+  https://job-boards.greenhouse.io/tailscale/jobs/4733115005
