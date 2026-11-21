@@ -1300,8 +1300,8 @@
   - Enterprise Core Sales Engineer - West | Remote - AZ; Remote - CA; Remote - CO; Remote - NV; Remote - OR; Remote - Seattle | title excluded: Sales
   - Enterprise Sales Engineer - Public Sector - West | Remote - US | title excluded: Sales
   - Enterprise Sales Engineer - US Southeast | Remote - FL; Remote - GA; Remote - NC | title excluded: Sales
-  - Lead Design Engineer | Remote - Canada | title excluded: Lead
   - Lead Design Engineer | Remote - US | title excluded: Lead
+  - Lead Design Engineer | Remote - Canada | title excluded: Lead
   - Manager, Firmware Engineering | Remote - US | title excluded: Manager
   - Manager II, Software Engineering | Remote - Canada | title excluded: Manager
   - Manager II, Software Engineering | San Francisco - SF9 | title excluded: Manager
@@ -1319,22 +1319,22 @@
   - Senior Sales Engineer, DACH | Remote - Germany | title excluded: Sales
   - Senior Sales Engineer, France | Remote - France | title excluded: Sales
   - Senior Security Engineer - Enterprise Security | London, England, United Kingdom; Remote - London | title excluded: Security Engineer
-  - Senior Security Operations Engineer | Remote - UK | title not in include list
-  - Senior Security Operations Engineer | San Francisco, CA, United States | title not in include list
-  - Senior Security Operations Engineer | Remote - Seattle | title not in include list
-  - Senior Security Operations Engineer | Remote - OR | title not in include list
+  - Senior Security Operations Engineer | Remote - CA | title not in include list
   - Senior Security Operations Engineer | Remote - Poland | title not in include list
   - Senior Security Operations Engineer | Remote - Netherlands | title not in include list
-  - Senior Security Operations Engineer | Remote - CA | title not in include list
+  - Senior Security Operations Engineer | Remote - OR | title not in include list
+  - Senior Security Operations Engineer | San Francisco, CA, United States | title not in include list
+  - Senior Security Operations Engineer | Remote - UK | title not in include list
+  - Senior Security Operations Engineer | Remote - Seattle | title not in include list
   - Senior Security Operations Engineer I | Remote - Vancouver | location
   - Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B) | Remote - Poland | experience: asks 5+ yrs
   - Senior Software Engineer I | Remote - Toronto | experience: asks 4+ yrs
-  - Senior Software Engineer II | Remote - US | experience: asks 6+ yrs
-  - Senior Software Engineer II | Remote - Canada | experience: asks 8+ yrs
   - Senior Software Engineer II | Remote - SF Bay Area | experience: asks 8+ yrs
   - Senior Software Engineer II | Remote - Canada | experience: asks 8+ yrs
-  - Senior Software Engineer I/II - Infrastructure | Remote - Canada | experience: asks 6+ yrs
+  - Senior Software Engineer II | Remote - US | experience: asks 6+ yrs
+  - Senior Software Engineer II | Remote - Canada | experience: asks 8+ yrs
   - Senior Software Engineer I/II - Infrastructure | Remote - SF Bay Area | experience: asks 6+ yrs
+  - Senior Software Engineer I/II - Infrastructure | Remote - Canada | experience: asks 6+ yrs
   - Senior Software Engineer II - Platform | Remote - US | senior title, years not stated
   - Software Engineer - Data Platform | Remote - Canada | location
   - Software Engineering Internship - San Francisco | San Francisco - SF9 | title excluded: Internship
@@ -4017,8 +4017,8 @@
   - Staff Machine Learning Engineer | USA CA - Irvine Laguna Canyon | title excluded: Staff
   - Staff DevOps Engineer, Salesforce | 37 Locations | title excluded: Staff
   - Staff Data Engineer | USA CA - Irvine Laguna Canyon | title excluded: Staff
-  - Senior Director, Engineering Program/Project Mgmt | USA CA - San Diego Bldg A&B | title excluded: Director
   - Principal Engineer – Applied ML/AI Algorithms R&D for Advanced Patient Monitoring | USA CA - Irvine Laguna Canyon | title excluded: Principal
+  - Senior Director, Engineering Program/Project Mgmt | USA CA - San Diego Bldg A&B | title excluded: Director
   - Senior Engineer – Applied ML/AI Algorithms R&D for Advanced Patient Monitoring | USA CA - Irvine Laguna Canyon | title excluded: ML
   - Director, Systems Engineering– Pharmacy Automation | USA NC - Durham - Roche Drive | title excluded: Director
   - Automation Engineer | USA NC - Mebane | title not in include list
@@ -4058,9 +4058,9 @@
   - Field Service Engineer - Los Angeles, CA | 3 Locations | title not in include list
   - Field Service Engineer - San Jose Region | USA CA - San Jose - Montecito | title not in include list
   - Field Service Engineer - Los Angeles Region | USA CA - Irvine Laguna Canyon | title not in include list
+  - Sr. Staff Embedded Firmware/FPGA Systems Engineer | USA CA - Milpitas 155 | title excluded: Staff
   - Field Service Engineer (Orlando, Melbourne, Jupiter FL) | 3 Locations | title not in include list
   - Field Service Engineer (Myrtle Beach or Florence) | 3 Locations | title not in include list
-  - Sr. Staff Embedded Firmware/FPGA Systems Engineer | USA CA - Milpitas 155 | title excluded: Staff
   - Field Service Engineer 2- Part-time (Northern Maine) | USA CA - San Diego Bldg A&B / USA - Maine | location
 ## Qualcomm: 0 engineering roles rejected
 ## Booz Allen Hamilton: 319 engineering roles rejected
@@ -4591,7 +4591,7 @@
   - Systems/Software Engineer- Software Update QA | Bengaluru, Karnātaka, India | experience: asks 5+ yrs
   - Software Engineer Intern, Embedded Firmware | Singapore, Central Singapore, Singapore | title excluded: Intern
   - Principal Security Software Engineer (Storage) | 5 Locations | title excluded: Principal
-## Thomson Reuters: 128 engineering roles rejected
+## Thomson Reuters: 129 engineering roles rejected
   - VP of Legal Engineering |  | title excluded: VP
   - Staff Site Reliability Engineer, FDE |  | title excluded: Staff
   - Legal Engineer, AI Adoption |  | title excluded: Legal Engineer

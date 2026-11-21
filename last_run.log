@@ -1,3 +1,9 @@
+  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Cedar: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 Hebbia                 23 open,   2 match
 Mercury                70 open,   5 match
 Plaid                 147 open,   4 match
@@ -41,7 +47,7 @@ Grafana Labs          140 open,   0 match
 Airtable               11 open,   0 match
 Hinge Health           88 open,  10 match
 Airbnb                202 open,   0 match
-Samsara               298 open,   6 match
+Samsara               299 open,   6 match
 Twilio                109 open,   2 match
 Asana                 111 open,   0 match
 Dropbox                47 open,   0 match
@@ -62,7 +68,7 @@ Together AI            76 open,   0 match
 Cognition             108 open,   7 match
 Decagon               109 open,   0 match
 Suno                   62 open,   0 match
-Exa                    67 open,   1 match
+Exa                    68 open,   1 match
 Column                 24 open,   0 match
 Faire                  74 open,   0 match
 Tailscale              89 open,   5 match
@@ -185,14 +191,4 @@ LogRocket               8 open,   0 match
 Morgan Stanley        149 open,   3 match
 Etsy                   20 open,   0 match
 
-2 new match(es)
-  + [large] Harvey: Creative AI Engineer | fit 6 | San Francisco | $168K–$253K | posted 3h ago
-    https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d
-  + [large] Harvey: Creative AI Engineer | fit 6 | New York | $168K–$253K | posted 3h ago
-    https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Cedar: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-
+0 new match(es)
