@@ -84,7 +84,7 @@ allow_remote_us = true
 us_markers = ['united states', '\bus\b', '\busa\b', 'u\.s\.', 'north america', '\bamericas\b']
 non_us_markers = [
   'canada', 'toronto', 'vancouver', 'montreal', 'waterloo', 'ontario', 'british columbia',
-  'quebec', 'alberta', 'calgary', 'ottawa',
+  'quebec', 'alberta', 'calgary', 'ottawa', 'estonia', 'latvia', 'lithuania', 'tallinn', 'riga', 'vilnius',
   '\buk\b', 'united kingdom', 'london', 'ireland', 'dublin', 'europe', '\bemea\b',
   'germany', 'berlin', 'france', 'paris', 'netherlands', 'amsterdam', 'spain', 'madrid',
   'barcelona', 'poland', 'warsaw', 'portugal', 'lisbon', 'india', 'bengaluru', 'bangalore',
