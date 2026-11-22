@@ -1506,13 +1506,6 @@ rating = 3.6
 size = "large"
 
 [[companies]]
-name = "Walmart Global Tech"  # Hoboken NJ tech hub (3.6)
-ats = "workday"
-slug = "walmart/wd5/WalmartExternal"
-rating = 3.6
-size = "large"
-
-[[companies]]
 name = "Prudential"           # Newark NJ insurer; engineers rate it 4.3 (3.7 overall)
 ats = "workday"
 slug = "pru/wd5/Careers"
