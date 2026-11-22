@@ -1303,8 +1303,8 @@
   - Lead Design Engineer | Remote - US | title excluded: Lead
   - Lead Design Engineer | Remote - Canada | title excluded: Lead
   - Manager, Firmware Engineering | Remote - US | title excluded: Manager
-  - Manager II, Software Engineering | Remote - Canada | title excluded: Manager
   - Manager II, Software Engineering | San Francisco - SF9 | title excluded: Manager
+  - Manager II, Software Engineering | Remote - Canada | title excluded: Manager
   - Manager II, Software Engineering, Infrastructure | Remote - Canada | title excluded: Manager
   - Manager II, Software Engineering, Infrastructure | Remote - US | title excluded: Manager
   - People Analytics AI Engineer | Remote - DC; Remote - NYC; Remote - Seattle; Remote - SF Bay Area | experience: asks 8+ yrs
@@ -1612,7 +1612,7 @@
   - Software Engineer Intern, Machine Learning (Summer 2027 - Toronto) | Toronto, Canada | title excluded: Intern
   - Software Engineer Intern, Test Automation (Summer 2027) | Montreal, Canada | title excluded: Intern
   - Staff Software Engineer, Lyft Business | San Francisco, CA | title excluded: Staff
-## Roblox: 179 engineering roles rejected
+## Roblox: 178 engineering roles rejected
   - [2027] Senior Machine Learning Engineer - PhD Early Career | San Mateo, CA, United States | title excluded: Machine Learning
   - [2027] Software Engineer, Early Career | San Mateo, CA, United States | location
   - Developer Engagement Representative - LATAM (Part-Time Contract) | Remote | title excluded: Contract
@@ -3808,7 +3808,7 @@
   - Senior Machine Learning Engineer | Xi'an, China | title excluded: Machine Learning
   - Senior Machine Learning Engineer | Singapore, Singapore | title excluded: Machine Learning
   - Software Developer | Xi'an, China | location
-## ServiceNow: 238 engineering roles rejected
+## ServiceNow: 237 engineering roles rejected
   - Staff Software Engineer | Hyderabad, , India, IN | title excluded: Staff
   - Senior Application Engineer | Santa Clara, CALIFORNIA, United States, United States | title not in include list
   - Staff Application Engineer | Santa Clara, CALIFORNIA, United States, United States | title excluded: Staff
@@ -3856,7 +3856,6 @@
   - Senior Software Engineer, Developer Experience - Moveworks | Mountain View, California, United States, United States | experience: asks 5+ yrs
   - Senior Quality Performance Engineer - AI | Hyderabad, , India, IN | title not in include list
   - Senior Software Engineer - Conversational AI | Santa Clara, California, United States, United States | experience: asks 5+ yrs
-  - Associate Forward Deployed Solution Engineer Intern (Bachelors Summer 2027) | Santa Clara, CALIFORNIA, United States, United States | title excluded: Solution Engineer
   - Forward Deployed Solution Engineer Intern (Masters Summer 2027) | Santa Clara, CALIFORNIA, United States, United States | title excluded: Solution Engineer
   - Principal Research Engineer/Scientist | Santa Clara, California, United States, United States | title excluded: Principal
   - Staff Software Engineer (Armis/Veza) | Tel Aviv, , Israel, IL | title excluded: Staff
@@ -3869,6 +3868,7 @@
   - Senior Staff Privacy Engineer - Moveworks | Mountain View, CALIFORNIA, United States, United States | title excluded: Staff
   - Senior Software Engineer, Agentic Platform - Moveworks | Mountain View, CALIFORNIA, United States, United States | senior title, years not stated
   - Staff AI Engineer, Agentic AI Harness & Quality - Moveworks | Mountain View, CALIFORNIA, United States, United States | title excluded: Staff
+  - Senior Machine Learning Engineer, Agent Eval Platform | Santa Clara, CALIFORNIA, United States, United States | title excluded: Machine Learning
 ## Synchrony: 4 engineering roles rejected
   - AVP iOS Software Development Engineer III - MySynchrony | 10 Locations | title excluded: iOS
   - AVP - Cloud Database Automation Engineer | Hyderabad IN | title not in include list
@@ -4591,7 +4591,7 @@
   - Systems/Software Engineer- Software Update QA | Bengaluru, Karnātaka, India | experience: asks 5+ yrs
   - Software Engineer Intern, Embedded Firmware | Singapore, Central Singapore, Singapore | title excluded: Intern
   - Principal Security Software Engineer (Storage) | 5 Locations | title excluded: Principal
-## Thomson Reuters: 129 engineering roles rejected
+## Thomson Reuters: 130 engineering roles rejected
   - VP of Legal Engineering |  | title excluded: VP
   - Staff Site Reliability Engineer, FDE |  | title excluded: Staff
   - Legal Engineer, AI Adoption |  | title excluded: Legal Engineer

@@ -54,7 +54,7 @@ Dropbox                47 open,   0 match
 Reddit                148 open,   6 match
 Elastic               382 open,   0 match
 Lyft                  148 open,   0 match
-Roblox                260 open,   0 match
+Roblox                259 open,   0 match
 LangChain             102 open,   6 match
 Abridge                29 open,   0 match
 Fetch Pet Insurance    52 open,   0 match
@@ -91,10 +91,10 @@ Adobe                 211 open,   1 match
 NVIDIA                654 open,   0 match
 Salesforce            411 open,   0 match
 Johnson & Johnson     217 open,   1 match
-Merck                 126 open,   0 match
+Merck                 125 open,   0 match
 Bank of America        90 open,   4 match
 Fidelity Investments  175 open,   0 match
-S&P Global            223 open,   0 match
+S&P Global            224 open,   0 match
 Disney                  4 open,   0 match
 Comcast                53 open,   2 match
 Nasdaq                155 open,   1 match
@@ -130,7 +130,7 @@ Gong                   84 open,   0 match
 DRW                   150 open,   3 match
 Dataiku                13 open,   0 match
 Thoughtworks           31 open,   0 match
-ServiceNow            998 open,   0 match
+ServiceNow            997 open,   0 match
 Synchrony              19 open,   0 match
 FactSet                64 open,   0 match
 CME Group              25 open,   0 match
@@ -163,7 +163,7 @@ Watershed              39 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             21 open,   0 match
 Semgrep                16 open,   0 match
-Cisco                 464 open,   1 match
+Cisco                 465 open,   1 match
 Red Hat               104 open,   0 match
 Hewlett Packard Enterprise  413 open,   0 match
 Thomson Reuters       223 open,   3 match
