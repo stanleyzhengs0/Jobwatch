@@ -1,9 +1,3 @@
-  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Cedar: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 Hebbia                 23 open,   2 match
 Mercury                70 open,   5 match
 Plaid                 147 open,   4 match
@@ -46,7 +40,7 @@ Vercel                 86 open,   4 match
 Grafana Labs          139 open,   0 match
 Airtable               11 open,   0 match
 Hinge Health           88 open,  10 match
-Airbnb                202 open,   0 match
+Airbnb                203 open,   0 match
 Samsara               300 open,   6 match
 Twilio                109 open,   2 match
 Asana                 111 open,   0 match
@@ -68,7 +62,7 @@ Together AI            76 open,   0 match
 Cognition             108 open,   7 match
 Decagon               109 open,   0 match
 Suno                   62 open,   0 match
-Exa                    67 open,   1 match
+Exa                    70 open,   1 match
 Column                 24 open,   0 match
 Faire                  74 open,   0 match
 Tailscale              89 open,   5 match
@@ -88,7 +82,7 @@ Zapier                  9 open,   0 match
 Greenhouse Software    26 open,   0 match
 Mastercard            257 open,   0 match
 Adobe                 211 open,   1 match
-NVIDIA                652 open,   0 match
+NVIDIA                650 open,   0 match
 Salesforce            411 open,   0 match
 Johnson & Johnson     217 open,   1 match
 Merck                 117 open,   0 match
@@ -136,7 +130,7 @@ FactSet                63 open,   0 match
 CME Group              25 open,   0 match
 Blackstone             24 open,   4 match
 Sanofi                 81 open,   0 match
-Novartis              234 open,   0 match
+Novartis              235 open,   0 match
 BD (Becton Dickinson)  295 open,   2 match
 Qualcomm                0 open,   0 match
 Booz Allen Hamilton   395 open,   2 match
@@ -150,7 +144,7 @@ Hudson River Trading   86 open,   7 match
 Tower Research Capital   92 open,   5 match
 AQR Capital Management   41 open,   0 match
 IMC Trading           151 open,   1 match
-PDT Partners           13 open,   1 match
+PDT Partners           14 open,   1 match
 Five Rings             21 open,   0 match
 Squarepoint Capital    87 open,   0 match
 Engineers Gate          9 open,   0 match
@@ -171,7 +165,7 @@ Organon                 1 open,   0 match
 GSK                   169 open,   2 match
 Bayer                   0 open,   0 match
 DTCC                  334 open,   3 match
-JPMorganChase         498 open,  10 match
+JPMorganChase         497 open,  10 match
 Barclays              256 open,   1 match
 Nokia                 369 open,   0 match
 Jefferies             147 open,   2 match
@@ -190,5 +184,29 @@ Warp                    6 open,   1 match
 LogRocket               8 open,   0 match
 Morgan Stanley        149 open,   3 match
 Etsy                   20 open,   0 match
+Cockroach Labs         12 open,   1 match
+Zocdoc                 66 open,   0 match
+Capital One           347 open,  23 match
+Prudential             29 open,   0 match
+Ramp                  187 open,  17 match
+Stripe                778 open,   9 match
+Squarespace            20 open,   0 match
+Figma                 147 open,   5 match
+Pinterest             174 open,   2 match  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Cedar: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+  ! Walmart Global Tech: HTTP 422
 
-0 new match(es)
+
+4 new match(es)
+  + [large] Capital One: Full-stack Engineer 4 | fit 14 | New York, NY / Richmond, VA | $215K–$246K | asks 1+ yrs | posted 22h ago
+    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002785-1
+  + [large] Capital One: Full-stack Engineer 4 | fit 17 | New York, NY | $215K–$246K | asks 1+ yrs | posted 22h ago
+    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1003027-2
+  + [large] Capital One: Full-stack Engineer 4 | fit 17 | McLean, VA / New York, NY | $197K–$225K | asks 1+ yrs | posted 22h ago
+    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001254
+  + [large] Capital One: Front-end Engineer 4 | fit 10 | New York, NY / McLean, VA | $197K–$225K | asks 3+ yrs | posted 2d ago
+    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Front-end-Engineer-4_R1001262-2
