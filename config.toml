@@ -1,7 +1,7 @@
 # jobwatch config
 # Edit this file to change what you get pinged about. Patterns are case-insensitive regex.
 
-min_rating = 3.8         # companies below this Glassdoor rating are skipped (not even fetched)
+min_rating = 3.6         # companies below this Glassdoor rating are skipped (not even fetched)
 max_pushes_per_run = 8    # cap phone notifications per hourly run; the rest go in the email digest
 
 # Resume fit: each keyword found in a posting's title or description adds its weight (once).
@@ -1484,37 +1484,77 @@ slug = "etsy/wd5/Etsy_Careers"
 rating = 4.0
 size = "large"
 
-# ---- Checked and below the bar (kept so you know why they're excluded; never fetched) ----
+[[companies]]
+name = "Cockroach Labs"       # distributed SQL database; NYC HQ (3.6)
+ats = "greenhouse"
+slug = "cockroachlabs"
+rating = 3.6
+size = "growth"
+
+[[companies]]
+name = "Zocdoc"               # healthtech; NYC HQ (3.6)
+ats = "greenhouse"
+slug = "zocdoc"
+rating = 3.6
+size = "growth"
+
+[[companies]]
+name = "Capital One"          # NYC + McLean; big Java/AWS hiring (3.6)
+ats = "workday"
+slug = "capitalone/wd12/Capital_One"
+rating = 3.6
+size = "large"
+
+[[companies]]
+name = "Walmart Global Tech"  # Hoboken NJ tech hub (3.6)
+ats = "workday"
+slug = "walmart/wd5/WalmartExternal"
+rating = 3.6
+size = "large"
+
+[[companies]]
+name = "Prudential"           # Newark NJ insurer; engineers rate it 4.3 (3.7 overall)
+ats = "workday"
+slug = "pru/wd5/Careers"
+rating = 3.7
+size = "large"
+
+# ---- Checked and below the bar (under 3.6) (kept so you know why they're excluded; never fetched) ----
 
 [[companies]]
 name = "Ramp"
 ats = "ashby"
 slug = "ramp"
 rating = 3.7
+size = "growth"
 
 [[companies]]
 name = "Stripe"
 ats = "greenhouse"
 slug = "stripe"
 rating = 3.7
+size = "large"
 
 [[companies]]
 name = "Squarespace"
 ats = "greenhouse"
 slug = "squarespace"
 rating = 3.6
+size = "large"
 
 [[companies]]
 name = "Figma"
 ats = "greenhouse"
 slug = "figma"
 rating = 3.6
+size = "large"
 
 [[companies]]
 name = "Pinterest"
 ats = "greenhouse"
 slug = "pinterest"
 rating = 3.6
+size = "large"
 
 [[companies]]
 name = "GitLab"
