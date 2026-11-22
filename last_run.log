@@ -129,7 +129,7 @@ Synchrony              17 open,   0 match
 FactSet                63 open,   0 match
 CME Group              25 open,   0 match
 Blackstone             24 open,   4 match
-Sanofi                 81 open,   0 match
+Sanofi                 78 open,   0 match
 Novartis              235 open,   0 match
 BD (Becton Dickinson)  295 open,   2 match
 Qualcomm                0 open,   0 match
@@ -198,15 +198,6 @@ Pinterest             174 open,   2 match  ! Whatnot: HTTP 404 (board slug is pr
   ! Boost Insurance: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
-  ! Walmart Global Tech: HTTP 422
 
 
-4 new match(es)
-  + [large] Capital One: Full-stack Engineer 4 | fit 14 | New York, NY / Richmond, VA | $215K–$246K | asks 1+ yrs | posted 22h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002785-1
-  + [large] Capital One: Full-stack Engineer 4 | fit 17 | New York, NY | $215K–$246K | asks 1+ yrs | posted 22h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1003027-2
-  + [large] Capital One: Full-stack Engineer 4 | fit 17 | McLean, VA / New York, NY | $197K–$225K | asks 1+ yrs | posted 22h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001254
-  + [large] Capital One: Front-end Engineer 4 | fit 10 | New York, NY / McLean, VA | $197K–$225K | asks 3+ yrs | posted 2d ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Front-end-Engineer-4_R1001262-2
+0 new match(es)
