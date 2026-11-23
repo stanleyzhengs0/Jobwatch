@@ -1,18 +1,18 @@
 Hebbia                 23 open,   2 match
 Mercury                69 open,   5 match
-Plaid                 147 open,   4 match
+Plaid                 145 open,   4 match
 Glean                 129 open,   2 match
-Duolingo               54 open,   0 match
-Braze                 348 open,   1 match
-Datadog               385 open,   0 match
-MongoDB               418 open,   5 match
+Duolingo               53 open,   0 match
+Braze                 355 open,   1 match
+Datadog               384 open,   0 match
+MongoDB               421 open,   5 match
 Affirm                218 open,  11 match
-Spotify                90 open,   3 match
-Toast                 324 open,   2 match
-Alloy                  33 open,   0 match
+Spotify                88 open,   3 match
+Toast                 312 open,   2 match
+Alloy                  34 open,   0 match
 Clay                   57 open,   4 match
-Paxos                  26 open,   0 match
-iCapital              234 open,   0 match
+Paxos                  25 open,   0 match
+iCapital              235 open,   0 match
 Bluevine                6 open,   0 match
 Addepar               119 open,   5 match
 Persona                13 open,   1 match
@@ -22,34 +22,34 @@ Linear                 31 open,   1 match
 Temporal               91 open,   4 match
 Supabase               81 open,   9 match
 PostHog                 9 open,   0 match
-Cribl                  85 open,   1 match
+Cribl                  86 open,   1 match
 LaunchDarkly           33 open,   0 match
-Ethos                  72 open,   0 match
-Openly                  6 open,   0 match
+Ethos                  73 open,   0 match
+Openly                  8 open,   0 match
 At-Bay                 20 open,   0 match
 Wealthfront            20 open,   2 match
-Brex                  257 open,   3 match
-Chime                  84 open,   3 match
-Perplexity            151 open,  18 match
-Sierra                197 open,  10 match
-ElevenLabs            122 open,   5 match
-Notion                171 open,   7 match
+Brex                  260 open,   3 match
+Chime                  81 open,   3 match
+Perplexity            151 open,  19 match
+Sierra                199 open,  10 match
+ElevenLabs            123 open,   5 match
+Notion                172 open,   7 match
 Replit                 38 open,   1 match
-Harvey                393 open,   2 match
+Harvey                391 open,   2 match
 Vercel                 86 open,   4 match
 Grafana Labs          139 open,   0 match
 Airtable               11 open,   0 match
-Hinge Health           88 open,  10 match
-Airbnb                194 open,   0 match
-Samsara               285 open,   6 match
-Twilio                111 open,   2 match
+Hinge Health           89 open,  10 match
+Airbnb                199 open,   0 match
+Samsara               286 open,   6 match
+Twilio                115 open,   2 match
 Asana                 109 open,   0 match
-Dropbox                47 open,   0 match
-Reddit                148 open,   6 match
-Elastic               385 open,   0 match
+Dropbox                54 open,   0 match
+Reddit                147 open,   6 match
+Elastic               384 open,   0 match
 Lyft                  144 open,   0 match
 Roblox                257 open,   0 match
-LangChain             100 open,   6 match
+LangChain              99 open,   6 match
 Abridge                30 open,   0 match
 Fetch Pet Insurance    52 open,   0 match
 Runway                  3 open,   0 match
@@ -58,69 +58,69 @@ Kalshi                 28 open,   4 match
 Public.com              4 open,   0 match
 Baseten               108 open,  26 match
 Fireworks AI          104 open,   8 match
-Together AI            76 open,   0 match
+Together AI            81 open,   0 match
 Cognition             110 open,   6 match
-Decagon               110 open,   0 match
+Decagon               112 open,   0 match
 Suno                   62 open,   0 match
 Exa                    73 open,   1 match
 Column                 24 open,   0 match
-Faire                  72 open,   0 match
-Tailscale              87 open,   5 match
+Faire                  73 open,   0 match
+Tailscale              85 open,   5 match
 Chainguard            110 open,   1 match
 WorkOS                 26 open,   1 match
 Ironclad               24 open,   0 match
-Cresta                 83 open,   1 match
-Apollo.io              46 open,   0 match
+Cresta                 81 open,   1 match
+Apollo.io              45 open,   0 match
 Anyscale               24 open,   1 match
-Deepgram               49 open,   2 match
+Deepgram               48 open,   2 match
 Anthropic             632 open,   7 match
-OpenAI                854 open,  65 match
-Databricks            883 open,   1 match
+OpenAI                857 open,  66 match
+Databricks            882 open,   0 match
 Upstart                76 open,   7 match
-Hippo                  17 open,   0 match
+Hippo                  19 open,   0 match
 Zapier                  8 open,   0 match
 Greenhouse Software    26 open,   0 match
 Mastercard            251 open,   0 match
 Adobe                 211 open,   1 match
-NVIDIA                646 open,   0 match
-Salesforce            412 open,   0 match
-Johnson & Johnson     215 open,   1 match
-Merck                 116 open,   1 match
-Bank of America        93 open,   4 match
-Fidelity Investments  179 open,   0 match
+NVIDIA                645 open,   0 match
+Salesforce            414 open,   0 match
+Johnson & Johnson     216 open,   1 match
+Merck                 117 open,   1 match
+Bank of America        92 open,   4 match
+Fidelity Investments  176 open,   0 match
 S&P Global            225 open,   0 match
 Disney                  4 open,   0 match
-Comcast                58 open,   3 match
-Nasdaq                152 open,   1 match
+Comcast                59 open,   3 match
+Nasdaq                153 open,   1 match
 Zoetis                 15 open,   0 match
 Marsh McLennan        303 open,   0 match
 Guidewire             122 open,   3 match
 Arch Capital Group     38 open,   0 match
-Nationwide            128 open,   0 match
+Nationwide            131 open,   0 match
 Insurify               15 open,   0 match
 Wiz                   106 open,   0 match
 Huntress               45 open,   0 match
 CrowdStrike           174 open,   9 match
-Motorola Solutions    421 open,   2 match
+Motorola Solutions    422 open,   2 match
 Autodesk                3 open,   0 match
 DuckDuckGo              9 open,   0 match
-The Trade Desk        120 open,   0 match
+The Trade Desk        122 open,   0 match
 Moloco                 49 open,   0 match
 EliseAI               105 open,   4 match
 Hightouch              83 open,   8 match
 Celonis               260 open,   1 match
 Box                   125 open,   0 match
-The New York Times    122 open,   1 match
+The New York Times    118 open,   1 match
 Hudl                   46 open,   0 match
 Everlaw                39 open,   0 match
 Grow Therapy           30 open,   0 match
 Doximity               11 open,   0 match
 Thumbtack              43 open,   0 match
 Point72               201 open,   1 match
-Jump Trading           87 open,   0 match
+Jump Trading           86 open,   0 match
 Fora Travel            26 open,   0 match
 Render                 37 open,   2 match
-Gong                   81 open,   0 match
+Gong                   80 open,   0 match
 DRW                   148 open,   3 match
 Dataiku                15 open,   0 match
 Thoughtworks           31 open,   0 match
@@ -131,24 +131,24 @@ CME Group              25 open,   0 match
 Blackstone             25 open,   4 match
 Sanofi                 79 open,   0 match
 Novartis              235 open,   0 match
-BD (Becton Dickinson)  296 open,   2 match
+BD (Becton Dickinson)  297 open,   2 match
 Qualcomm                0 open,   0 match
-Booz Allen Hamilton   395 open,   2 match
+Booz Allen Hamilton   396 open,   2 match
 Markel                126 open,   0 match
 Tokio Marine North America Services    5 open,   0 match
 Philadelphia Insurance Companies    0 open,   0 match
 Ladder                  3 open,   0 match
-AXIS Capital           66 open,   0 match
+AXIS Capital           67 open,   0 match
 Northwestern Mutual    11 open,   0 match
-Hudson River Trading   86 open,   7 match
+Hudson River Trading   85 open,   7 match
 Tower Research Capital   93 open,   5 match
-AQR Capital Management   41 open,   0 match
+AQR Capital Management   43 open,   0 match
 IMC Trading           153 open,   1 match
 PDT Partners           14 open,   1 match
 Five Rings             21 open,   0 match
 Squarepoint Capital    87 open,   0 match
 Engineers Gate          9 open,   0 match
-Graham Capital Management   12 open,   1 match
+Graham Capital Management   13 open,   1 match
 Arcesium               44 open,   1 match
 Monarch Money           6 open,   0 match
 Discord                29 open,   0 match
@@ -157,15 +157,15 @@ Watershed              40 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             21 open,   0 match
 Semgrep                16 open,   0 match
-Cisco                 458 open,   1 match
+Cisco                 461 open,   1 match
 Red Hat               112 open,   0 match
-Hewlett Packard Enterprise  421 open,   0 match
+Hewlett Packard Enterprise  424 open,   0 match
 Thomson Reuters       221 open,   3 match
 Organon                 1 open,   0 match
-GSK                   172 open,   2 match
+GSK                   173 open,   2 match
 Bayer                   0 open,   0 match
 DTCC                  334 open,   3 match
-JPMorganChase         483 open,  11 match
+JPMorganChase         485 open,  12 match
 Barclays              243 open,   1 match
 Nokia                 368 open,   0 match
 Jefferies             146 open,   2 match
@@ -174,7 +174,7 @@ Broadridge            210 open,   2 match
 DraftKings             15 open,   0 match
 FanDuel               105 open,   0 match
 Nourish                90 open,   2 match
-Rho                    48 open,   0 match
+Rho                    49 open,   0 match
 Middesk                17 open,   3 match
 Highnote                6 open,   0 match
 Kong                  128 open,   1 match
@@ -185,11 +185,11 @@ LogRocket               8 open,   0 match
 Morgan Stanley        149 open,   3 match
 Etsy                   20 open,   0 match
 Cockroach Labs         11 open,   1 match
-Zocdoc                 66 open,   0 match
-Capital One           351 open,  25 match
+Zocdoc                 64 open,   0 match
+Capital One           348 open,  24 match
 Prudential             29 open,   0 match
-Ramp                  182 open,  17 match
-Stripe                779 open,   9 match
+Ramp                  181 open,  17 match
+Stripe                769 open,   9 match
 Squarespace            20 open,   0 match
 Figma                 148 open,   5 match
 Pinterest             171 open,   2 match  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
@@ -200,22 +200,10 @@ Pinterest             171 open,   2 match  ! Whatnot: HTTP 404 (board slug is pr
   ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 
 
-9 new match(es)
-  + [large] Capital One: Full-stack Engineer 4 (Python, Vue, AWS) | fit 23 | New York, NY | $215K–$246K | asks 1+ yrs | posted 19h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Python--Vue--AWS-_R1006271-1
-  + [large] Toast: Software Engineer II, Consumer | fit 12 | Remote, US | $133K–$213K | asks 2+ yrs | posted <1h ago
-    https://careers.toasttab.com/jobs?gh_jid=8164283
-  + [large] Capital One: Full-stack Engineer 3 | fit 9 | McLean, VA / Richmond, VA / Chicago, IL / Plano, TX / San Francisco,  CA / San Jose, CA / New York, NY | $147K–$168K | asks 2+ yrs | posted 19h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-3_R1004699-1
-  + [large] Comcast: Salesforce Engineer 2 - FreeWheel - NYC (Onsite 4x week) | fit 7 | NY - New York, 1407 Broadway Floor 12 | $101K–$152K | posted 19h ago
-    https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Salesforce-Engineer-2---FreeWheel---NYC--Onsite-4x-week-_R449717
-  + [large] Merck: GenAI Specilist, Software Engineering | fit 25 | USA - New Jersey - Rahway / USA - Pennsylvania - North Wales (Upper Gwynedd) | $87K–$137K | asks 2+ yrs | posted 19h ago
-    https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/GenAI-Specilist--Software-Engineering_R427080
-  + [large] JPMorganChase: Software Engineer III - QA Automation with development exp | fit 22 | Jersey City, NJ, United States | asks 3+ yrs | posted 19h ago
-    https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808007
-  + [large] JPMorganChase: Software Engineer III- Python, Databricks | fit 13 | Jersey City, NJ, United States | asks 2+ yrs | posted 19h ago
-    https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810052
-  + [large] JPMorganChase: Software Engineer III: Python/ AWS/PySpark/Glue | fit 18 | Jersey City, NJ, United States | asks 3+ yrs | posted 19h ago
-    https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806717
-  + [large] JPMorganChase: 2027 Applied AI - HR CDAO - Summer Associate | fit 3 | New York, NY, United States | posted 19h ago
-    https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549
+3 new match(es)
+  + [large] Perplexity: Member of Technical Staff (Software Engineer, SPACE - Sandbox Platform) | fit 7 | San Francisco / New York City | $220K–$405K | posted 1h ago
+    https://jobs.ashbyhq.com/Perplexity/9e738c21-f2ab-49d7-b545-b519bb2cf8ae
+  + [large] OpenAI: Applied AI Engineer, Mid-Market Enterprise | fit 9 | San Francisco / New York City / US - Remote | $211K–$278K | posted <1h ago
+    https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4
+  + [large] JPMorganChase: Automation Testing Software Engineer III | fit 22 | New York, NY, United States | asks 3+ yrs | posted 22h ago
+    https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805587

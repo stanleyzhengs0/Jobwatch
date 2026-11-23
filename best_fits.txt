@@ -1,17 +1,19 @@
-# Best resume fits posted in the last 21 days (107 roles), highest fit first
+# Best resume fits posted in the last 21 days (109 roles), highest fit first
 
 - Guidewire: Software Engineer | fit 30 | United States - Exton, PA | $86K–$164K | posted 19d ago
   https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15376-1
-- Merck: GenAI Specilist, Software Engineering | fit 25 | USA - New Jersey - Rahway / USA - Pennsylvania - North Wales (Upper Gwynedd) | $87K–$137K | asks 2+ yrs | posted 19h ago
+- Merck: GenAI Specilist, Software Engineering | fit 25 | USA - New Jersey - Rahway / USA - Pennsylvania - North Wales (Upper Gwynedd) | $87K–$137K | asks 2+ yrs | posted 22h ago
   https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/GenAI-Specilist--Software-Engineering_R427080
 - Hinge Health: AI Engineer II | fit 24 | San Francisco-HQ | $135K–$200K | asks 2+ yrs | posted 3d ago
   https://jobs.ashbyhq.com/hinge-health/7564ec75-617b-4065-8da6-72210460a6ef
 - Guidewire: Software Engineer | fit 24 | United States - Exton, PA | $86K–$164K | posted 19d ago
   https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15373-1
-- Capital One: Full-stack Engineer 4 (Python, Vue, AWS) | fit 23 | New York, NY | $215K–$246K | asks 1+ yrs | posted 19h ago
+- Capital One: Full-stack Engineer 4 (Python, Vue, AWS) | fit 23 | New York, NY | $215K–$246K | asks 1+ yrs | posted 22h ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Python--Vue--AWS-_R1006271-1
-- JPMorganChase: Software Engineer III - QA Automation with development exp | fit 22 | Jersey City, NJ, United States | asks 3+ yrs | posted 19h ago
+- JPMorganChase: Software Engineer III - QA Automation with development exp | fit 22 | Jersey City, NJ, United States | asks 3+ yrs | posted 22h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808007
+- JPMorganChase: Automation Testing Software Engineer III | fit 22 | New York, NY, United States | asks 3+ yrs | posted 22h ago
+  https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805587
 - JPMorganChase: Software Engineer III - Salesforce | fit 22 | Jersey City, NJ, United States | asks 3+ yrs | posted 3d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806005
 - Morgan Stanley: AI Full Stack Engineer (Prime Brokerage Technology) | fit 22 | New York, New York, United States of America | $120K–$170K | asks 4+ yrs | posted 18d ago
@@ -26,15 +28,15 @@
   https://www.mongodb.com/careers/job/?gh_jid=8348102
 - Thomson Reuters: Senior Software Engineer - AI, CoCounsel FDE | fit 19 | United States of America, Frisco, Texas / United States of America, New York, New York / United States of America, Washington, District of Columbia / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 13d ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Software-Engineer---AI--CoCounsel-FDE_JREQ205154
-- JPMorganChase: Software Engineer III: Python/ AWS/PySpark/Glue | fit 18 | Jersey City, NJ, United States | asks 3+ yrs | posted 19h ago
+- JPMorganChase: Software Engineer III: Python/ AWS/PySpark/Glue | fit 18 | Jersey City, NJ, United States | asks 3+ yrs | posted 22h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806717
-- Capital One: Full-stack Engineer 4 | fit 17 | New York, NY | $215K–$246K | asks 1+ yrs | posted 19h ago
+- Capital One: Full-stack Engineer 4 | fit 17 | New York, NY | $215K–$246K | asks 1+ yrs | posted 22h ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1006354-1
-- Capital One: Full-stack Engineer 4 | fit 17 | McLean, VA / New York, NY | $197K–$225K | asks 1+ yrs | posted 19h ago
+- Capital One: Full-stack Engineer 4 | fit 17 | McLean, VA / New York, NY | $197K–$225K | asks 1+ yrs | posted 22h ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1006357-1
-- Capital One: Full-stack Engineer 4 | fit 17 | McLean, VA / New York, NY | $197K–$225K | asks 1+ yrs | posted 43h ago
+- Capital One: Full-stack Engineer 4 | fit 17 | McLean, VA / New York, NY | $197K–$225K | asks 1+ yrs | posted 46h ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001254
-- Capital One: Full-stack Engineer 4 | fit 17 | New York, NY | $215K–$246K | asks 1+ yrs | posted 43h ago
+- Capital One: Full-stack Engineer 4 | fit 17 | New York, NY | $215K–$246K | asks 1+ yrs | posted 46h ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1003027-2
 - Capital One: Full Stack Engineer 4 | fit 17 | New York, NY | $215K–$246K | asks 1+ yrs | posted 3d ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1004419-1
@@ -58,7 +60,7 @@
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002391-1
 - CrowdStrike: Software Engineer III - Cloud Security - FCS Workflow (Hybrid) | fit 16 | USA - New York, NY | $120K–$185K | posted 7d ago
   https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineer-III---Cloud-Security---FCS-Workflow--Hybrid-_R30913
-- OpenAI: Full Stack Software Engineer, ChatGPT Finances | fit 16 | San Francisco | $347K–$385K | posted 9d ago
+- OpenAI: Full Stack Software Engineer, ChatGPT Finances | fit 16 | San Francisco | $347K–$385K | posted 10d ago
   https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9
 - MongoDB: Software Engineer 3 | fit 16 | New York City | $106K–$209K | asks 3+ yrs | posted 11d ago
   https://www.mongodb.com/careers/job/?gh_jid=8367902
@@ -66,7 +68,7 @@
   https://www.mongodb.com/careers/job/?gh_jid=8351199
 - Thomson Reuters: Senior Software Engineer – AI, Tax and Audit, FDE | fit 16 | United States of America, New York, New York / United States of America, Frisco, Texas / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 13d ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Software-Engineer---AI--Tax-and-Audit--FDE_JREQ204981-2
-- Hinge Health: Senior Software Engineer - Search | fit 16 | San Francisco-HQ | $164K–$217K | asks 3+ yrs (stretch: senior title) | posted 13d ago
+- Hinge Health: Senior Software Engineer - Search | fit 16 | San Francisco-HQ | $164K–$217K | asks 3+ yrs (stretch: senior title) | posted 14d ago
   https://jobs.ashbyhq.com/hinge-health/4d11a165-4f54-4561-80a9-8bc8b3a1d0d0
 - JPMorganChase: Software Engineer III - AIML | fit 15 | Mc Lean, VA, United States / Jersey City, NJ, United States | asks 3+ yrs | posted 3d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801748
@@ -80,31 +82,31 @@
   https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Cambridge-300-Technology-Square/Engineer-II---Forward-Deployed-Engineer_450884-1
 - CrowdStrike: Engineer III - Cloud (Remote) | fit 15 | USA - Remote | $120K–$185K | posted 21d ago
   https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Cloud--Remote-_R30482
-- Capital One: Full-stack Engineer 4 | fit 14 | New York, NY / Richmond, VA | $215K–$246K | asks 1+ yrs | posted 43h ago
+- Capital One: Full-stack Engineer 4 | fit 14 | New York, NY / Richmond, VA | $215K–$246K | asks 1+ yrs | posted 46h ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002785-1
 - Perplexity: Member of Technical Staff (Software Engineer, Cybersecurity Products) | fit 14 | San Francisco / Remote (United States) / London / Belgrade / New York City / Dublin | $220K–$405K | asks 4+ yrs | posted 10d ago
   https://jobs.ashbyhq.com/Perplexity/b23d83e3-add8-48ea-b16e-65a956d1192c
 - Capital One: Full-stack Engineer 5 | fit 14 | McLean, VA / Richmond, VA / Plano, TX / New York, NY / Riverwoods, IL | $209K–$238K | asks 1+ yrs | posted 13d ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1002398-1
-- JPMorganChase: Software Engineer III- Python, Databricks | fit 13 | Jersey City, NJ, United States | asks 2+ yrs | posted 19h ago
+- JPMorganChase: Software Engineer III- Python, Databricks | fit 13 | Jersey City, NJ, United States | asks 2+ yrs | posted 22h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810052
 - JPMorganChase: Data Engineer III-Python/SQL/Snowflake | fit 13 | Jersey City, NJ, United States | asks 3+ yrs | posted 5d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807003
 - Capital One: Integration Engineer 3 | fit 13 | Richmond, VA / McLean, VA / New York, NY / Plano, TX | $131K–$150K | asks 1+ yrs | posted 5d ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Integration-Engineer-3_R1006057-1
-- Twilio: Software Engineer, (P2) | fit 13 | Remote - US | $120K–$150K | asks 3+ yrs | posted 6d ago
+- Twilio: Software Engineer, (P2) | fit 13 | Remote - US | $120K–$150K | asks 3+ yrs | posted 7d ago
   https://job-boards.greenhouse.io/twilio/jobs/8131089
 - Thomson Reuters: Legal AI Engineer, Strategic Accounts - Mid Law | fit 13 | United States of America, Eagan, Minnesota / United States of America, New York, New York / United States of America, Ann Arbor, Michigan / United States of America, Los Angeles, California / United States of America, Frisco, Texas / United States of America, Chicago, Illinois / United States of America, Washington, District of Columbia | $256K–$474K | posted 10d ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Legal-AI-Engineer--Strategic-Accounts---Mid-Law_JREQ205322
 - MongoDB: Software Engineer 3 | fit 13 | New York City | $106K–$209K | asks 3+ yrs | posted 11d ago
   https://www.mongodb.com/careers/job/?gh_jid=8366703
-- OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 11d ago
+- OpenAI: Partner Applied AI Engineer, Google Cloud | fit 13 | San Francisco | $197K–$278K | posted 12d ago
   https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e
 - Tailscale: Documentation Platform Engineer | fit 13 | Remote (United States) | $163K–$204K | posted 20d ago
   https://job-boards.greenhouse.io/tailscale/jobs/4750594005
-- Toast: Software Engineer II, Consumer | fit 12 | Remote, US | $133K–$213K | asks 2+ yrs | posted <1h ago
+- Toast: Software Engineer II, Consumer | fit 12 | Remote, US | $133K–$213K | asks 2+ yrs | posted 3h ago
   https://careers.toasttab.com/jobs?gh_jid=8164283
-- Render: Software Engineer, Application Security (all levels) | fit 12 | SF or Remote (US/Canada) | $170K–$290K | posted 2d ago
+- Render: Software Engineer, Application Security (all levels) | fit 12 | SF or Remote (US/Canada) | $170K–$290K | posted 3d ago
   https://jobs.ashbyhq.com/render/9c7e862a-c9fe-48a8-aaf8-26f8e25c66f5
 - Twilio: Software Engineer - Platform Engineering | fit 12 | Remote - US | $109K–$136K | posted 5d ago
   https://job-boards.greenhouse.io/twilio/jobs/8385593
@@ -118,5 +120,3 @@
   https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a
 - Barclays: Software Engineer AVP | fit 11 | Building 300-Whippany Campus, Jefferson Park | $150K–$175K | posted 4d ago
   https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Software-Engineer-AVP_JR-0000140498
-- CrowdStrike: Engineer III, Supply Chain Source, Product Security (Remote) | fit 11 | USA - Remote | $120K–$185K | posted 6d ago
-  https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908
