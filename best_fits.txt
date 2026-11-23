@@ -20,9 +20,9 @@
   https://www.mongodb.com/careers/job/?gh_jid=8348102
 - Thomson Reuters: Senior Software Engineer - AI, CoCounsel FDE | fit 19 | United States of America, Frisco, Texas / United States of America, New York, New York / United States of America, Washington, District of Columbia / Canada, Toronto, Ontario / United States of America, Ann Arbor, Michigan / United States of America, Eagan, Minnesota | $136K–$253K | asks 2+ yrs (stretch: senior title) | posted 13d ago
   https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Software-Engineer---AI--CoCounsel-FDE_JREQ205154
-- Capital One: Full-stack Engineer 4 | fit 17 | McLean, VA / New York, NY | $197K–$225K | asks 1+ yrs | posted 34h ago
+- Capital One: Full-stack Engineer 4 | fit 17 | McLean, VA / New York, NY | $197K–$225K | asks 1+ yrs | posted 38h ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001254
-- Capital One: Full-stack Engineer 4 | fit 17 | New York, NY | $215K–$246K | asks 1+ yrs | posted 34h ago
+- Capital One: Full-stack Engineer 4 | fit 17 | New York, NY | $215K–$246K | asks 1+ yrs | posted 38h ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1003027-2
 - Capital One: Full Stack Engineer 4 | fit 17 | New York, NY | $215K–$246K | asks 1+ yrs | posted 3d ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1004419-1
@@ -74,7 +74,7 @@
   https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Cambridge-300-Technology-Square/Engineer-II---Forward-Deployed-Engineer_450884-1
 - CrowdStrike: Engineer III - Cloud (Remote) | fit 15 | USA - Remote | $120K–$185K | posted 21d ago
   https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Cloud--Remote-_R30482
-- Capital One: Full-stack Engineer 4 | fit 14 | New York, NY / Richmond, VA | $215K–$246K | asks 1+ yrs | posted 34h ago
+- Capital One: Full-stack Engineer 4 | fit 14 | New York, NY / Richmond, VA | $215K–$246K | asks 1+ yrs | posted 38h ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002785-1
 - Perplexity: Member of Technical Staff (Software Engineer, Cybersecurity Products) | fit 14 | San Francisco / Remote (United States) / London / Belgrade / New York City / Dublin | $220K–$405K | asks 4+ yrs | posted 9d ago
   https://jobs.ashbyhq.com/Perplexity/b23d83e3-add8-48ea-b16e-65a956d1192c
