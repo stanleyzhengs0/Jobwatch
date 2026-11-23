@@ -41,7 +41,7 @@ Grafana Labs          139 open,   0 match
 Airtable               11 open,   0 match
 Hinge Health           88 open,  10 match
 Airbnb                203 open,   0 match
-Samsara               300 open,   6 match
+Samsara               301 open,   6 match
 Twilio                109 open,   2 match
 Asana                 111 open,   0 match
 Dropbox                47 open,   0 match
@@ -49,7 +49,7 @@ Reddit                148 open,   6 match
 Elastic               382 open,   0 match
 Lyft                  145 open,   0 match
 Roblox                259 open,   0 match
-LangChain             102 open,   6 match
+LangChain             100 open,   6 match
 Abridge                29 open,   0 match
 Fetch Pet Insurance    52 open,   0 match
 Runway                  3 open,   0 match
@@ -62,7 +62,7 @@ Together AI            76 open,   0 match
 Cognition             108 open,   7 match
 Decagon               109 open,   0 match
 Suno                   62 open,   0 match
-Exa                    70 open,   1 match
+Exa                    72 open,   1 match
 Column                 24 open,   0 match
 Faire                  74 open,   0 match
 Tailscale              89 open,   5 match
@@ -75,14 +75,14 @@ Anyscale               24 open,   1 match
 Deepgram               52 open,   2 match
 Anthropic             636 open,   7 match
 OpenAI                852 open,  65 match
-Databricks            893 open,   0 match
+Databricks            895 open,   1 match
 Upstart                77 open,   7 match
 Hippo                  17 open,   0 match
 Zapier                  9 open,   0 match
 Greenhouse Software    26 open,   0 match
-Mastercard            257 open,   0 match
+Mastercard            256 open,   0 match
 Adobe                 211 open,   1 match
-NVIDIA                650 open,   0 match
+NVIDIA                651 open,   0 match
 Salesforce            411 open,   0 match
 Johnson & Johnson     217 open,   1 match
 Merck                 117 open,   0 match
@@ -94,7 +94,7 @@ Comcast                52 open,   2 match
 Nasdaq                155 open,   1 match
 Zoetis                 16 open,   0 match
 Marsh McLennan        302 open,   0 match
-Guidewire             116 open,   3 match
+Guidewire             119 open,   3 match
 Arch Capital Group     37 open,   0 match
 Nationwide            131 open,   0 match
 Insurify               15 open,   0 match
@@ -124,7 +124,7 @@ Gong                   82 open,   0 match
 DRW                   150 open,   3 match
 Dataiku                13 open,   0 match
 Thoughtworks           31 open,   0 match
-ServiceNow           1000 open,   0 match
+ServiceNow            998 open,   0 match
 Synchrony              17 open,   0 match
 FactSet                63 open,   0 match
 CME Group              25 open,   0 match
@@ -157,17 +157,17 @@ Watershed              39 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             21 open,   0 match
 Semgrep                16 open,   0 match
-Cisco                 461 open,   1 match
+Cisco                 463 open,   1 match
 Red Hat               107 open,   0 match
-Hewlett Packard Enterprise  419 open,   0 match
-Thomson Reuters       222 open,   3 match
+Hewlett Packard Enterprise  423 open,   0 match
+Thomson Reuters       221 open,   3 match
 Organon                 1 open,   0 match
 GSK                   169 open,   2 match
 Bayer                   0 open,   0 match
 DTCC                  334 open,   3 match
 JPMorganChase         497 open,  10 match
-Barclays              256 open,   1 match
-Nokia                 369 open,   0 match
+Barclays              254 open,   1 match
+Nokia                 368 open,   0 match
 Jefferies             147 open,   2 match
 Jefferies             195 open,   0 match
 Broadridge            210 open,   2 match
