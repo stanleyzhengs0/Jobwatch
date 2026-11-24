@@ -2,11 +2,11 @@ Hebbia                 23 open,   2 match
 Mercury                69 open,   4 match
 Plaid                 145 open,   4 match
 Glean                 128 open,   2 match
-Duolingo               52 open,   0 match
+Duolingo               53 open,   0 match
 Braze                 348 open,   1 match
 Datadog               386 open,   0 match
 MongoDB               418 open,   5 match
-Affirm                215 open,  11 match
+Affirm                216 open,  11 match
 Spotify                89 open,   3 match
 Toast                 308 open,   2 match
 Alloy                  34 open,   0 match
@@ -15,7 +15,7 @@ Paxos                  25 open,   0 match
 iCapital              234 open,   0 match
 Bluevine                6 open,   0 match
 Addepar               119 open,   5 match
-Persona                13 open,   1 match
+Persona                12 open,   1 match
 Pinecone                8 open,   1 match
 Hex                    43 open,   4 match
 Linear                 30 open,   1 match
@@ -28,21 +28,21 @@ Ethos                  72 open,   0 match
 Openly                  9 open,   0 match
 At-Bay                 20 open,   0 match
 Wealthfront            19 open,   2 match
-Brex                  261 open,   3 match
+Brex                  262 open,   3 match
 Chime                  79 open,   3 match
 Perplexity            151 open,  19 match
 Sierra                203 open,  10 match
 ElevenLabs            119 open,   5 match
 Notion                172 open,   7 match
 Replit                 38 open,   1 match
-Harvey                397 open,   2 match
+Harvey                393 open,   2 match
 Vercel                 85 open,   4 match
 Grafana Labs          137 open,   0 match
 Airtable               10 open,   0 match
 Hinge Health           87 open,  10 match
 Airbnb                199 open,   1 match
 Samsara               289 open,   6 match
-Twilio                114 open,   2 match
+Twilio                113 open,   2 match
 Asana                 109 open,   0 match
 Dropbox                54 open,   0 match
 Reddit                148 open,   6 match
@@ -73,28 +73,28 @@ Cresta                 81 open,   1 match
 Apollo.io              46 open,   0 match
 Anyscale               24 open,   1 match
 Deepgram               49 open,   2 match
-Anthropic             633 open,   7 match
+Anthropic             634 open,   7 match
 OpenAI                868 open,  66 match
-Databricks            887 open,   0 match
+Databricks            888 open,   1 match
 Upstart                76 open,   7 match
 Hippo                  18 open,   0 match
 Zapier                  9 open,   0 match
 Greenhouse Software    24 open,   0 match
 Mastercard            252 open,   0 match
 Adobe                 210 open,   1 match
-NVIDIA                649 open,   0 match
+NVIDIA                648 open,   0 match
 Salesforce            411 open,   0 match
 Johnson & Johnson     216 open,   1 match
-Merck                 122 open,   1 match
+Merck                 119 open,   1 match
 Bank of America        97 open,   5 match
 Fidelity Investments  174 open,   0 match
 S&P Global            225 open,   0 match
 Disney                  4 open,   0 match
-Comcast                59 open,   2 match
+Comcast                57 open,   2 match
 Nasdaq                157 open,   1 match
 Zoetis                 14 open,   0 match
-Marsh McLennan        300 open,   0 match
-Guidewire             118 open,   3 match
+Marsh McLennan        301 open,   0 match
+Guidewire             117 open,   3 match
 Arch Capital Group     37 open,   0 match
 Nationwide            131 open,   0 match
 Insurify               15 open,   0 match
@@ -127,17 +127,17 @@ ServiceNow            993 open,   0 match
 Synchrony              22 open,   0 match
 FactSet                59 open,   0 match
 CME Group              25 open,   0 match
-Blackstone             25 open,   4 match
+Blackstone             23 open,   4 match
 Sanofi                 78 open,   0 match
 Novartis              236 open,   0 match
 BD (Becton Dickinson)  299 open,   2 match
 Qualcomm                0 open,   0 match
-Booz Allen Hamilton   389 open,   2 match
+Booz Allen Hamilton   392 open,   2 match
 Markel                118 open,   0 match
 Tokio Marine North America Services    5 open,   0 match
 Philadelphia Insurance Companies    0 open,   0 match
 Ladder                  3 open,   0 match
-AXIS Capital           69 open,   0 match
+AXIS Capital           65 open,   0 match
 Northwestern Mutual    14 open,   0 match
 Hudson River Trading   85 open,   7 match
 Tower Research Capital   93 open,   5 match
@@ -156,22 +156,22 @@ Watershed              40 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             23 open,   0 match
 Semgrep                16 open,   0 match
-Cisco                 461 open,   3 match
+Cisco                 462 open,   3 match
 Red Hat               116 open,   0 match
-Hewlett Packard Enterprise  422 open,   0 match
+Hewlett Packard Enterprise  421 open,   0 match
 Thomson Reuters       227 open,   3 match
 Organon                 1 open,   0 match
-GSK                   179 open,   2 match
+GSK                   163 open,   2 match
 Bayer                   0 open,   0 match
 DTCC                  334 open,   3 match
-JPMorganChase         481 open,  11 match
-Barclays              244 open,   1 match
+JPMorganChase         489 open,  11 match
+Barclays              243 open,   1 match
 Nokia                 372 open,   0 match
 Jefferies             152 open,   2 match
 Jefferies             195 open,   0 match
-Broadridge            212 open,   2 match
+Broadridge            211 open,   2 match
 DraftKings             16 open,   0 match
-FanDuel               111 open,   0 match
+FanDuel               110 open,   0 match
 Nourish                90 open,   2 match
 Rho                    48 open,   0 match
 Middesk                17 open,   3 match
@@ -185,15 +185,15 @@ Morgan Stanley        149 open,   3 match
 Etsy                   20 open,   0 match
 Cockroach Labs         11 open,   1 match
 Zocdoc                 63 open,   0 match
-Capital One           352 open,  31 match
+Capital One           354 open,  32 match
 Prudential             29 open,   0 match
 Ramp                  180 open,  17 match
-Stripe                772 open,   9 match
+Stripe                770 open,   9 match
 Squarespace            20 open,   0 match
 Figma                 145 open,   5 match
 Pinterest             168 open,   2 match
 
-12 new match(es)  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+1 new match(es)  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Cedar: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Thoughtworks: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
@@ -201,27 +201,5 @@ Pinterest             168 open,   2 match
   ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 
-  + [large] Capital One: AI Engineer 5 (GenAI Platform Services) | fit 4 | San Jose, CA / San Francisco,  CA / McLean, VA / Cambridge, MA / New York, NY | $230K–$262K | asks 4+ yrs | posted 18h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--GenAI-Platform-Services-_R1006497-1
-  + [large] Capital One: AI Engineer 5 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation) | fit 4 | San Francisco,  CA / McLean, VA / Cambridge, MA / San Jose, CA / New York, NY | $230K–$262K | asks 4+ yrs | posted 18h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-AI--Guardrails--Evaluation-_R1003168-1
-  + [large] Capital One: AI Engineer 5 (Gen AI Platform Services: Agentic AI) | fit 4 | San Jose, CA / San Francisco,  CA / McLean, VA / Cambridge, MA / New York, NY | $230K–$262K | asks 4+ yrs | posted 18h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-AI-_R1003179-1
-  + [large] Capital One: Full-stack Engineer 4 - CORE Technology (Python, DynamoDB) | fit 17 | Plano, TX / New York, NY / McLean, VA | $197K–$225K | asks 1+ yrs | posted 18h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Full-stack-Engineer-4---CORE-Technology--Python--DynamoDB-_R1006397-1
-  + [large] Capital One: AI Engineer 4 (Gen AI Platform Services: Agentic Systems) | fit 4 | San Francisco,  CA / McLean, VA / Cambridge, MA / San Jose, CA / New York, NY | $197K–$225K | asks 2+ yrs | posted 18h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services--Agentic-Systems-_R1004590-1
-  + [large] Capital One: AI Engineer 4 (Gen AI Platform Services: Agentic AI) | fit 5 | New York, NY / San Francisco,  CA / McLean, VA / Cambridge, MA / San Jose, CA | $197K–$225K | asks 2+ yrs | posted 18h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-4--Gen-AI-Platform-Services--Agentic-AI-_R1004477-1
-  + [large] Cisco: Software Engineer | fit 25 | Arlington, Virginia, US | $138K–$198K | asks 3+ yrs | posted 18h ago
-    https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Arlington-Virginia-US/Software-Engineer_2030706-1
-  + [large] The Trade Desk: Front-End Engineer II - Data Marketplace Experiences | fit 13 | New York | $103K–$189K | asks 4+ yrs | posted 1h ago
-    https://job-boards.greenhouse.io/thetradedesk/jobs/5294066007
-  + [large] Cisco: Software Engineer | fit 5 | Boxborough, Massachusetts, US | $112K–$157K | asks 2+ yrs | posted 18h ago
-    https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Boxborough-Massachusetts-US/Software-Engineer_2030719-1
-  + [large] CrowdStrike: Full Stack Engineer II - Infrastructure Team (Remote) | fit 15 | USA - Remote | $100K–$150K | asks 3+ yrs | posted 18h ago
-    https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer--Infrastructure--Remote-_R30380
-  + [large] JPMorganChase: Software Engineer I-Java/Springboot/SQL | fit 9 | Newark, DE, United States | posted 18h ago
-    https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021
-  + [large] Stripe: Software Engineer, Experimental Projects | fit 6 | New York City  | asks 2+ yrs | posted 1h ago
-    https://stripe.com/jobs/search?gh_jid=8394936
+  + [large] Capital One: AI Engineer 5 (Gen AI Platform Services: Agentic Systems) | fit 4 | New York, NY / San Francisco,  CA / McLean, VA / Cambridge, MA / San Jose, CA | $230K–$262K | asks 4+ yrs | posted 18h ago
+    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-Systems-_R1003178-1

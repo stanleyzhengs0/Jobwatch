@@ -1,4 +1,4 @@
-# Best resume fits posted in the last 21 days (123 roles), highest fit first
+# Best resume fits posted in the last 21 days (124 roles), highest fit first
 
 - Guidewire: Software Engineer | fit 30 | United States - Exton, PA | $86K–$164K | posted 20d ago
   https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15376-1
@@ -6,7 +6,7 @@
   https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Arlington-Virginia-US/Software-Engineer_2030706-1
 - Merck: GenAI Specilist, Software Engineering | fit 25 | USA - New Jersey - Rahway / USA - Pennsylvania - North Wales (Upper Gwynedd) | $87K–$137K | asks 2+ yrs | posted 42h ago
   https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/GenAI-Specilist--Software-Engineering_R427080
-- Hinge Health: AI Engineer II | fit 24 | San Francisco-HQ | $135K–$200K | asks 2+ yrs | posted 3d ago
+- Hinge Health: AI Engineer II | fit 24 | San Francisco-HQ | $135K–$200K | asks 2+ yrs | posted 4d ago
   https://jobs.ashbyhq.com/hinge-health/7564ec75-617b-4065-8da6-72210460a6ef
 - Guidewire: Software Engineer | fit 24 | United States - Exton, PA | $86K–$164K | posted 20d ago
   https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---Exton-PA/Software-Engineer_JR_15373-1
@@ -88,7 +88,7 @@
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-Jersey/Product-Manager--Associate---Business-Finance-Technology_45207
 - GSK: Engineer II - Forward Deployed Engineer | fit 15 | Cambridge 300 Technology Square / UK – London – New Oxford Street / Philadelphia Walnut Street / Durham Blackwell Street | $131K–$219K | asks 3+ yrs | posted 18d ago
   https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Cambridge-300-Technology-Square/Engineer-II---Forward-Deployed-Engineer_450884-1
-- Decagon: Software Engineer, Developer Platform | fit 14 | San Francisco / New York City | $200K–$400K | asks 3+ yrs | posted 19h ago
+- Decagon: Software Engineer, Developer Platform | fit 14 | San Francisco / New York City | $200K–$400K | asks 3+ yrs | posted 20h ago
   https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed
 - Capital One: Full-stack Engineer 4 | fit 14 | New York, NY / Richmond, VA | $215K–$246K | asks 1+ yrs | posted 2d ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002785-1
@@ -96,7 +96,7 @@
   https://jobs.ashbyhq.com/Perplexity/b23d83e3-add8-48ea-b16e-65a956d1192c
 - Capital One: Full-stack Engineer 5 | fit 14 | McLean, VA / Richmond, VA / Plano, TX / New York, NY / Riverwoods, IL | $209K–$238K | asks 1+ yrs | posted 14d ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1002398-1
-- The Trade Desk: Front-End Engineer II - Data Marketplace Experiences | fit 13 | New York | $103K–$189K | asks 4+ yrs | posted 1h ago
+- The Trade Desk: Front-End Engineer II - Data Marketplace Experiences | fit 13 | New York | $103K–$189K | asks 4+ yrs | posted 2h ago
   https://job-boards.greenhouse.io/thetradedesk/jobs/5294066007
 - JPMorganChase: Software Engineer III- Python, Databricks | fit 13 | Jersey City, NJ, United States | asks 2+ yrs | posted 42h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810052
