@@ -40,9 +40,9 @@
   https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a
 - [growth] Baseten: Forward Deployed Engineer (Training) | fit 8 | San Francisco / New York | $200K–$400K | asks 1+ yrs | posted 98d ago
   https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720
-- [growth] Decagon: Software Engineer, Developer Platform | fit 14 | San Francisco / New York City | $200K–$400K | asks 3+ yrs | posted 40h ago
+- [growth] Decagon: Software Engineer, Developer Platform | fit 14 | San Francisco / New York City | $200K–$400K | asks 3+ yrs | posted 41h ago
   https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed
-- [growth] Decagon: Software Engineer, Cloud Infrastructure | fit 11 | San Francisco / New York City | $200K–$400K | posted 40h ago
+- [growth] Decagon: Software Engineer, Cloud Infrastructure | fit 11 | San Francisco / New York City | $200K–$400K | posted 41h ago
   https://jobs.ashbyhq.com/decagon/87d6c46a-365c-4d97-98ca-de7e29b6cf72
 - [growth] Ramp: Software Engineer, Security, Privacy | fit 9 | New York, NY (HQ) / San Francisco, CA / Remote (US) | $185K–$375K | asks 2+ yrs | posted 308d ago
   https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36
@@ -326,8 +326,6 @@
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703954
 - [growth] Hudson River Trading: Software Engineer - Distributed Systems (Storage/Databases) | fit -3 | New York, NY, United States | posted 599d ago
   https://www.hudsonrivertrading.com/careers/job/?gh_jid=6703952
-- [growth] Cognition: Forward Deployed Engineer - MENA | fit 8 | Riyadh | posted 4h ago
-  https://jobs.ashbyhq.com/cognition/0ad5c578-71c4-47aa-b0b3-6c79a6343c96
 - [growth] Nourish: Senior Full Stack Engineer | fit 15 | San Francisco, CA / Remote | asks 3+ yrs (stretch: senior title) | posted 53d ago
   https://job-boards.greenhouse.io/usenourish/jobs/5442374008
 - [growth] Watershed: Software engineer, energy management | fit 6 | New York City | posted 110d ago
@@ -368,9 +366,9 @@
   https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405
 - [large] OpenAI: Software Engineer, Life Sciences | fit 5 | San Francisco | $347K–$450K | posted 49d ago
   https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075
-- [large] OpenAI: Software Engineer, Space Foundations — Real-Time Systems | fit 2 | Seattle | $347K–$445K | posted 15h ago
+- [large] OpenAI: Software Engineer, Space Foundations — Real-Time Systems | fit 2 | Seattle | $347K–$445K | posted 16h ago
   https://jobs.ashbyhq.com/openai/e1823ba3-a94c-410f-b064-217a1d71c866
-- [large] OpenAI: Software Engineer, Space Foundations — Search & Databases | fit 2 | Seattle | $347K–$445K | posted 15h ago
+- [large] OpenAI: Software Engineer, Space Foundations — Search & Databases | fit 2 | Seattle | $347K–$445K | posted 16h ago
   https://jobs.ashbyhq.com/openai/f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092
 - [large] OpenAI: Software Engineer, Backend — ChatGPT Voice | San Francisco | $347K–$445K | posted 17h ago
   https://jobs.ashbyhq.com/openai/d22b6934-3bdc-459f-b801-87195d79be8a

@@ -46,7 +46,7 @@ Twilio                110 open,   1 match
 Asana                 111 open,   0 match
 Dropbox                51 open,   0 match
 Reddit                146 open,   6 match
-Elastic               390 open,   0 match
+Elastic               389 open,   0 match
 Lyft                  144 open,   0 match
 Roblox                255 open,   0 match
 LangChain             101 open,   6 match
@@ -59,7 +59,7 @@ Public.com              4 open,   0 match
 Baseten               109 open,  27 match
 Fireworks AI          103 open,   8 match
 Together AI            81 open,   0 match
-Cognition             116 open,   7 match
+Cognition             116 open,   6 match
 Decagon               105 open,   2 match
 Suno                   61 open,   0 match
 Exa                    73 open,   1 match
@@ -80,10 +80,10 @@ Upstart                77 open,   7 match
 Hippo                  18 open,   0 match
 Zapier                  9 open,   0 match
 Greenhouse Software    24 open,   0 match
-Mastercard            255 open,   0 match
+Mastercard            254 open,   0 match
 Adobe                 212 open,   1 match
 NVIDIA                647 open,   0 match
-Salesforce            411 open,   0 match
+Salesforce            410 open,   0 match
 Johnson & Johnson     216 open,   1 match
 Merck                 120 open,   1 match
 Bank of America        95 open,   5 match
@@ -91,12 +91,12 @@ Fidelity Investments  174 open,   0 match
 S&P Global            227 open,   0 match
 Disney                  4 open,   0 match
 Comcast                67 open,   2 match
-Nasdaq                159 open,   1 match
+Nasdaq                158 open,   1 match
 Zoetis                 14 open,   0 match
 Marsh McLennan        306 open,   0 match
 Guidewire             121 open,   3 match
 Arch Capital Group     39 open,   0 match
-Nationwide            138 open,   0 match
+Nationwide            139 open,   0 match
 Insurify               15 open,   0 match
 Wiz                   101 open,   0 match
 Huntress               45 open,   0 match
@@ -141,7 +141,7 @@ AXIS Capital           66 open,   0 match
 Northwestern Mutual    13 open,   0 match
 Hudson River Trading   86 open,   7 match
 Tower Research Capital   92 open,   5 match
-AQR Capital Management   43 open,   0 match
+AQR Capital Management   44 open,   0 match
 IMC Trading           152 open,   1 match
 PDT Partners           15 open,   1 match
 Five Rings             22 open,   0 match
@@ -156,10 +156,10 @@ Watershed              41 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             23 open,   0 match
 Semgrep                16 open,   0 match
-Cisco                 459 open,   3 match
+Cisco                 458 open,   3 match
 Red Hat               113 open,   0 match
 Hewlett Packard Enterprise  421 open,   0 match
-Thomson Reuters       226 open,   3 match
+Thomson Reuters       227 open,   3 match
 Organon                 1 open,   0 match
 GSK                   167 open,   2 match
 Bayer                   0 open,   0 match
@@ -188,7 +188,7 @@ Zocdoc                 64 open,   0 match
 Capital One           355 open,  33 match
 Prudential             29 open,   0 match
 Ramp                  182 open,  17 match
-Stripe                771 open,   9 match
+Stripe                772 open,   9 match
 Squarespace            20 open,   0 match
 Figma                 145 open,   5 match
 Pinterest             166 open,   2 match
