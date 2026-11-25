@@ -1,64 +1,64 @@
 Hebbia                 23 open,   2 match
-Mercury                69 open,   4 match
-Plaid                 145 open,   4 match
+Mercury                68 open,   4 match
+Plaid                 144 open,   4 match
 Glean                 122 open,   2 match
 Duolingo               53 open,   0 match
-Braze                 350 open,   1 match
-Datadog               387 open,   0 match
-MongoDB               420 open,   5 match
+Braze                 351 open,   1 match
+Datadog               390 open,   0 match
+MongoDB               421 open,   5 match
 Affirm                215 open,  11 match
-Spotify                92 open,   2 match
+Spotify                93 open,   2 match
 Toast                 300 open,   2 match
 Alloy                  34 open,   0 match
-Clay                   60 open,   4 match
+Clay                   62 open,   4 match
 Paxos                  24 open,   0 match
-iCapital              234 open,   0 match
+iCapital              233 open,   0 match
 Bluevine                6 open,   0 match
-Addepar               118 open,   5 match
+Addepar               119 open,   5 match
 Persona                13 open,   1 match
 Pinecone                8 open,   1 match
 Hex                    44 open,   4 match
 Linear                 30 open,   1 match
-Temporal               92 open,   4 match
-Supabase               81 open,   8 match
+Temporal               91 open,   4 match
+Supabase               82 open,   8 match
 PostHog                 9 open,   0 match
-Cribl                  84 open,   1 match
+Cribl                  81 open,   1 match
 LaunchDarkly           35 open,   0 match
-Ethos                  69 open,   0 match
+Ethos                  68 open,   0 match
 Openly                  9 open,   0 match
 At-Bay                 20 open,   0 match
 Wealthfront            19 open,   2 match
-Brex                  256 open,   3 match
+Brex                  261 open,   3 match
 Chime                  78 open,   3 match
-Perplexity            151 open,  19 match
+Perplexity            150 open,  19 match
 Sierra                204 open,  10 match
 ElevenLabs            117 open,   5 match
-Notion                173 open,   7 match
+Notion                172 open,   7 match
 Replit                 37 open,   1 match
 Harvey                388 open,   2 match
 Vercel                 86 open,   4 match
 Grafana Labs          138 open,   0 match
 Airtable                7 open,   0 match
-Hinge Health           87 open,  10 match
-Airbnb                198 open,   1 match
-Samsara               295 open,   6 match
+Hinge Health           85 open,  10 match
+Airbnb                200 open,   1 match
+Samsara               294 open,   6 match
 Twilio                110 open,   1 match
-Asana                 111 open,   0 match
+Asana                 110 open,   0 match
 Dropbox                51 open,   0 match
-Reddit                146 open,   6 match
-Elastic               389 open,   0 match
+Reddit                149 open,   6 match
+Elastic               391 open,   0 match
 Lyft                  144 open,   0 match
 Roblox                255 open,   0 match
 LangChain             101 open,   6 match
 Abridge                34 open,   0 match
 Fetch Pet Insurance    53 open,   0 match
 Runway                  3 open,   0 match
-Rogo                  104 open,   4 match
+Rogo                  102 open,   4 match
 Kalshi                 28 open,   4 match
 Public.com              4 open,   0 match
 Baseten               109 open,  27 match
 Fireworks AI          103 open,   8 match
-Together AI            81 open,   0 match
+Together AI            80 open,   0 match
 Cognition             116 open,   6 match
 Decagon               105 open,   2 match
 Suno                   61 open,   0 match
@@ -70,37 +70,37 @@ Chainguard            106 open,   1 match
 WorkOS                 26 open,   1 match
 Ironclad               22 open,   0 match
 Cresta                 79 open,   1 match
-Apollo.io              46 open,   0 match
+Apollo.io              45 open,   0 match
 Anyscale               24 open,   1 match
-Deepgram               46 open,   2 match
-Anthropic             635 open,   7 match
-OpenAI                876 open,  70 match
-Databricks            875 open,   1 match
-Upstart                77 open,   7 match
+Deepgram               41 open,   2 match
+Anthropic             636 open,   7 match
+OpenAI                877 open,  70 match
+Databricks            874 open,   1 match
+Upstart                75 open,   7 match
 Hippo                  18 open,   0 match
 Zapier                  9 open,   0 match
 Greenhouse Software    24 open,   0 match
 Mastercard            254 open,   0 match
 Adobe                 212 open,   1 match
-NVIDIA                647 open,   0 match
-Salesforce            410 open,   0 match
-Johnson & Johnson     216 open,   1 match
-Merck                 120 open,   1 match
-Bank of America        95 open,   5 match
-Fidelity Investments  174 open,   0 match
-S&P Global            227 open,   0 match
+NVIDIA                627 open,   0 match
+Salesforce            407 open,   0 match
+Johnson & Johnson     217 open,   1 match
+Merck                 113 open,   1 match
+Bank of America        94 open,   6 match
+Fidelity Investments  172 open,   0 match
+S&P Global            226 open,   0 match
 Disney                  4 open,   0 match
-Comcast                67 open,   2 match
+Comcast                65 open,   2 match
 Nasdaq                158 open,   1 match
 Zoetis                 14 open,   0 match
-Marsh McLennan        306 open,   0 match
-Guidewire             121 open,   3 match
-Arch Capital Group     39 open,   0 match
-Nationwide            139 open,   0 match
+Marsh McLennan        307 open,   0 match
+Guidewire             122 open,   3 match
+Arch Capital Group     40 open,   0 match
+Nationwide            140 open,   0 match
 Insurify               15 open,   0 match
 Wiz                   101 open,   0 match
-Huntress               45 open,   0 match
-CrowdStrike           168 open,  10 match
+Huntress               44 open,   0 match
+CrowdStrike           171 open,  11 match
 Motorola Solutions    423 open,   2 match
 Autodesk                4 open,   0 match
 DuckDuckGo              9 open,   0 match
@@ -109,39 +109,39 @@ Moloco                 50 open,   0 match
 EliseAI               106 open,   4 match
 Hightouch              84 open,   9 match
 Celonis               260 open,   1 match
-Box                   131 open,   0 match
-The New York Times    118 open,   1 match
-Hudl                   43 open,   0 match
+Box                   129 open,   0 match
+The New York Times    119 open,   1 match
+Hudl                   44 open,   0 match
 Everlaw                40 open,   0 match
 Grow Therapy           30 open,   0 match
 Doximity               11 open,   0 match
 Thumbtack              42 open,   0 match
-Point72               199 open,   2 match
-Jump Trading           86 open,   0 match
+Point72               200 open,   2 match
+Jump Trading           81 open,   0 match
 Fora Travel            26 open,   0 match
-Render                 39 open,   3 match
-Gong                   82 open,   0 match
-DRW                   148 open,   3 match
+Render                 39 open,   4 match
+Gong                   81 open,   0 match
+DRW                   149 open,   3 match
 Dataiku                16 open,   0 match
-ServiceNow            973 open,   0 match
-Synchrony              21 open,   0 match
+ServiceNow            972 open,   0 match
+Synchrony              23 open,   0 match
 FactSet                61 open,   0 match
 CME Group              26 open,   0 match
 Blackstone             25 open,   4 match
 Sanofi                 77 open,   0 match
-Novartis              237 open,   0 match
+Novartis              238 open,   0 match
 BD (Becton Dickinson)  300 open,   2 match
 Qualcomm                0 open,   0 match
-Booz Allen Hamilton   391 open,   2 match
-Markel                117 open,   0 match
+Booz Allen Hamilton   390 open,   2 match
+Markel                116 open,   0 match
 Tokio Marine North America Services    5 open,   0 match
 Philadelphia Insurance Companies    0 open,   0 match
 Ladder                  3 open,   0 match
-AXIS Capital           66 open,   0 match
-Northwestern Mutual    13 open,   0 match
+AXIS Capital           65 open,   0 match
+Northwestern Mutual    14 open,   0 match
 Hudson River Trading   86 open,   7 match
-Tower Research Capital   92 open,   5 match
-AQR Capital Management   44 open,   0 match
+Tower Research Capital   93 open,   5 match
+AQR Capital Management   43 open,   0 match
 IMC Trading           152 open,   1 match
 PDT Partners           15 open,   1 match
 Five Rings             22 open,   0 match
@@ -150,29 +150,29 @@ Engineers Gate          9 open,   0 match
 Graham Capital Management   13 open,   1 match
 Arcesium               44 open,   1 match
 Monarch Money           6 open,   0 match
-Discord                29 open,   0 match
+Discord                30 open,   0 match
 Sentry                 41 open,   1 match
 Watershed              41 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             23 open,   0 match
 Semgrep                16 open,   0 match
-Cisco                 458 open,   3 match
+Cisco                 459 open,   1 match
 Red Hat               113 open,   0 match
-Hewlett Packard Enterprise  421 open,   0 match
+Hewlett Packard Enterprise  422 open,   0 match
 Thomson Reuters       227 open,   3 match
 Organon                 1 open,   0 match
-GSK                   167 open,   2 match
+GSK                   159 open,   2 match
 Bayer                   0 open,   0 match
-DTCC                  333 open,   3 match
-JPMorganChase         483 open,  10 match
-Barclays              246 open,   1 match
-Nokia                 373 open,   0 match
+DTCC                  333 open,   4 match
+JPMorganChase         491 open,  11 match
+Barclays              243 open,   1 match
+Nokia                 374 open,   0 match
 Jefferies             150 open,   2 match
-Jefferies             196 open,   0 match
+Jefferies             201 open,   0 match
 Broadridge            211 open,   2 match
 DraftKings             15 open,   0 match
-FanDuel               110 open,   0 match
-Nourish                85 open,   2 match
+FanDuel               111 open,   0 match
+Nourish                84 open,   2 match
 Rho                    48 open,   0 match
 Middesk                17 open,   3 match
 Highnote                6 open,   0 match
@@ -184,16 +184,16 @@ LogRocket               8 open,   0 match
 Morgan Stanley        149 open,   3 match
 Etsy                   20 open,   0 match
 Cockroach Labs         11 open,   1 match
-Zocdoc                 64 open,   0 match
-Capital One           355 open,  33 match
+Zocdoc                 63 open,   0 match
+Capital One           356 open,  35 match
 Prudential             29 open,   0 match
 Ramp                  182 open,  17 match
 Stripe                772 open,   9 match
 Squarespace            20 open,   0 match
-Figma                 145 open,   5 match
-Pinterest             166 open,   2 match
+Figma                 143 open,   5 match
+Pinterest             167 open,   2 match
 
-0 new match(es)  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+6 new match(es)  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Cedar: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Thoughtworks: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
@@ -201,3 +201,15 @@ Pinterest             166 open,   2 match
   ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 
+  + [startup] Render: Software Engineer, Cloud Infrastructure | fit 10 | Remote: United States / San Francisco HQ / SF or Remote (US/Canada) / Remote: Canada | $230K–$290K | posted <1h ago
+    https://jobs.ashbyhq.com/render/a22230e6-803d-4e2e-82f8-ff5f500cdc3d
+  + [large] Capital One: Full Stack Engineer 5 (AI & Emerging Tech) | fit 14 | New York, NY / San Francisco,  CA / McLean, VA / San Jose, CA | $230K–$262K | asks 1+ yrs | posted 19h ago
+    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Staff-Full-Stack-Engineer--AI---Emerging-Tech_R1005376-1
+  + [large] Capital One: Full-stack Engineer 5 (IC) | fit 14 | McLean, VA / Cambridge, MA / Richmond, VA / New York, NY | $230K–$262K | asks 1+ yrs | posted 19h ago
+    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-5--IC-_R1006516-1
+  + [large] CrowdStrike: Frontend Engineer II (Hybrid) | fit 11 | USA - New York, NY / USA - Austin, TX | $100K–$150K | asks 2+ yrs | posted 19h ago
+    https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Frontend-Engineer-II--Hybrid-_R30947
+  + [large] Bank of America: Software Engineer I- Java | fit 13 | Pennington | asks 2+ yrs | posted 19h ago
+    https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Software-Engineer-I--Java_26043787
+  + [large] DTCC: Business Intelligence Associate, Applied AI | fit 4 | Jersey City, NJ, United States / LONDON, United Kingdom | asks 2+ yrs | posted 19h ago
+    https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214719
