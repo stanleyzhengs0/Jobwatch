@@ -1,6 +1,6 @@
 # Best resume fits posted in the last 21 days (134 roles), highest fit first
 
-- Guidewire: Software Engineer III - Cloud Platform | fit 26 | United States - San Mateo, CA | $132K–$228K | asks 4+ yrs | posted 38h ago
+- Guidewire: Software Engineer III - Cloud Platform | fit 26 | United States - San Mateo, CA | $132K–$228K | asks 4+ yrs | posted 39h ago
   https://guidewire.wd5.myworkdayjobs.com/External/job/United-States---San-Mateo-CA/Software-Engineer-III---Cloud-Platform_JR_15501
 - Merck: GenAI Specilist, Software Engineering | fit 25 | USA - New Jersey - Rahway / USA - Pennsylvania - North Wales (Upper Gwynedd) | $87K–$137K | asks 2+ yrs | posted 3d ago
   https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/GenAI-Specilist--Software-Engineering_R427080
@@ -60,7 +60,7 @@
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001783-1
 - Capital One: Full-stack Engineer 4 | fit 17 | McLean, VA / Richmond, VA / Plano, TX / New York, NY / Riverwoods, IL | $179K–$205K | asks 1+ yrs | posted 16d ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002391-1
-- Northwestern Mutual: Public Investments - Software Engineer II | fit 16 | Milwaukee, WI Corporate / New York, NY Corporate | $98K–$147K | asks 2+ yrs | posted 38h ago
+- Northwestern Mutual: Public Investments - Software Engineer II | fit 16 | Milwaukee, WI Corporate / New York, NY Corporate | $98K–$147K | asks 2+ yrs | posted 39h ago
   https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Public-Investments---Software-Engineer-II_JR-46234-1
 - CrowdStrike: Software Engineer III - Cloud Security - FCS Workflow (Hybrid) | fit 16 | USA - New York, NY | $120K–$185K | posted 10d ago
   https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineer-III---Cloud-Security---FCS-Workflow--Hybrid-_R30913
@@ -84,11 +84,11 @@
   https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers/job/New-Jersey/Product-Manager--Associate---Business-Finance-Technology_45207
 - GSK: Engineer II - Forward Deployed Engineer | fit 15 | Cambridge 300 Technology Square / UK – London – New Oxford Street / Philadelphia Walnut Street / Durham Blackwell Street | $131K–$219K | asks 3+ yrs | posted 20d ago
   https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Cambridge-300-Technology-Square/Engineer-II---Forward-Deployed-Engineer_450884-1
-- JPMorganChase: Software Engineer III - Python,AWS,Spark | fit 14 | New York, NY, United States | asks 3+ yrs | posted 38h ago
+- JPMorganChase: Software Engineer III - Python,AWS,Spark | fit 14 | New York, NY, United States | asks 3+ yrs | posted 39h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811630
-- Capital One: Full Stack Engineer 5 (AI & Emerging Tech) | fit 14 | New York, NY / San Francisco,  CA / McLean, VA / San Jose, CA | $230K–$262K | asks 1+ yrs | posted 38h ago
+- Capital One: Full Stack Engineer 5 (AI & Emerging Tech) | fit 14 | New York, NY / San Francisco,  CA / McLean, VA / San Jose, CA | $230K–$262K | asks 1+ yrs | posted 39h ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Staff-Full-Stack-Engineer--AI---Emerging-Tech_R1005376-1
-- Capital One: Full-stack Engineer 5 (IC) | fit 14 | McLean, VA / Cambridge, MA / Richmond, VA / New York, NY | $230K–$262K | asks 1+ yrs | posted 38h ago
+- Capital One: Full-stack Engineer 5 (IC) | fit 14 | McLean, VA / Cambridge, MA / Richmond, VA / New York, NY | $230K–$262K | asks 1+ yrs | posted 39h ago
   https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-5--IC-_R1006516-1
 - Decagon: Software Engineer, Developer Platform | fit 14 | San Francisco / New York City | $200K–$400K | asks 3+ yrs | posted 2d ago
   https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed
@@ -102,11 +102,11 @@
   https://www.samsara.com/company/careers/roles/8412267?gh_jid=8412267
 - LaunchDarkly: GTM AI Engineer | fit 13 | Remote - US | $197K–$270K | asks 4+ yrs | posted 18h ago
   https://job-boards.greenhouse.io/launchdarkly/jobs/8217232003
-- Bank of America: Software Engineer I- Java | fit 13 | Pennington | asks 2+ yrs | posted 38h ago
+- Bank of America: Software Engineer I- Java | fit 13 | Pennington | asks 2+ yrs | posted 39h ago
   https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Software-Engineer-I--Java_26043787
-- JPMorganChase: Software Engineer III: Full Stack | fit 13 | Jersey City, NJ, United States / Seattle, WA, United States | asks 3+ yrs | posted 38h ago
+- JPMorganChase: Software Engineer III: Full Stack | fit 13 | Jersey City, NJ, United States / Seattle, WA, United States | asks 3+ yrs | posted 39h ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746076
-- The Trade Desk: Front-End Engineer II - Data Marketplace Experiences | fit 13 | New York | $103K–$189K | asks 4+ yrs | posted 45h ago
+- The Trade Desk: Front-End Engineer II - Data Marketplace Experiences | fit 13 | New York | $103K–$189K | asks 4+ yrs | posted 46h ago
   https://job-boards.greenhouse.io/thetradedesk/jobs/5294066007
 - JPMorganChase: Software Engineer III- Python, Databricks | fit 13 | Jersey City, NJ, United States | asks 2+ yrs | posted 3d ago
   https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810052

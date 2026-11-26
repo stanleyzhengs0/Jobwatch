@@ -5,8 +5,8 @@ Glean                 121 open,   2 match
 Duolingo               54 open,   0 match
 Braze                 350 open,   1 match
 Datadog               391 open,   0 match
-MongoDB               422 open,   5 match
-Affirm                212 open,  11 match
+MongoDB               421 open,   5 match
+Affirm                210 open,  10 match
 Spotify                97 open,   2 match
 Toast                 300 open,   2 match
 Alloy                  34 open,   0 match
@@ -85,7 +85,7 @@ Adobe                 214 open,   1 match
 NVIDIA                644 open,   0 match
 Salesforce            409 open,   0 match
 Johnson & Johnson     216 open,   1 match
-Merck                 116 open,   1 match
+Merck                 117 open,   1 match
 Bank of America        94 open,   6 match
 Fidelity Investments  175 open,   0 match
 S&P Global            225 open,   0 match
@@ -93,15 +93,15 @@ Disney                  4 open,   0 match
 Comcast                65 open,   2 match
 Nasdaq                153 open,   1 match
 Zoetis                 14 open,   0 match
-Marsh McLennan        308 open,   0 match
+Marsh McLennan        307 open,   0 match
 Guidewire             124 open,   4 match
 Arch Capital Group     42 open,   0 match
 Nationwide            142 open,   0 match
 Insurify               15 open,   0 match
-Wiz                    99 open,   0 match
+Wiz                    98 open,   0 match
 Huntress               43 open,   0 match
 CrowdStrike           176 open,  11 match
-Motorola Solutions    420 open,   2 match
+Motorola Solutions    421 open,   2 match
 Autodesk                4 open,   0 match
 DuckDuckGo              9 open,   0 match
 The Trade Desk        125 open,   1 match
@@ -124,12 +124,12 @@ Gong                   82 open,   0 match
 DRW                   149 open,   3 match
 Dataiku                15 open,   0 match
 ServiceNow            973 open,   0 match
-Synchrony              24 open,   0 match
+Synchrony              23 open,   0 match
 FactSet                62 open,   0 match
 CME Group              26 open,   0 match
 Blackstone             27 open,   4 match
 Sanofi                 72 open,   0 match
-Novartis              242 open,   0 match
+Novartis              243 open,   0 match
 BD (Becton Dickinson)  301 open,   2 match
 Qualcomm                0 open,   0 match
 Booz Allen Hamilton   391 open,   2 match
@@ -157,7 +157,7 @@ Codecademy              0 open,   0 match
 Astronomer             22 open,   0 match
 Semgrep                16 open,   0 match
 Cisco                 457 open,   1 match
-Red Hat               113 open,   0 match
+Red Hat               112 open,   0 match
 Hewlett Packard Enterprise  423 open,   0 match
 Thomson Reuters       231 open,   3 match
 Organon                 1 open,   0 match
@@ -188,7 +188,7 @@ Zocdoc                 64 open,   0 match
 Capital One           353 open,  35 match
 Prudential             29 open,   0 match
 Ramp                  183 open,  17 match
-Stripe                770 open,   9 match
+Stripe                769 open,   9 match
 Squarespace            20 open,   0 match
 Figma                 141 open,   5 match
 Pinterest             167 open,   2 match
