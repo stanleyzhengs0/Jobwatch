@@ -1,5 +1,5 @@
 Hebbia                 23 open,   2 match
-Mercury                68 open,   4 match
+Mercury                67 open,   4 match
 Plaid                 144 open,   4 match
 Glean                 121 open,   2 match
 Duolingo               54 open,   0 match
@@ -32,28 +32,28 @@ Brex                  266 open,   3 match
 Chime                  76 open,   3 match
 Perplexity            150 open,  19 match
 Sierra                203 open,  10 match
-ElevenLabs            109 open,   5 match
+ElevenLabs            108 open,   5 match
 Notion                174 open,   7 match
 Replit                 38 open,   1 match
 Harvey                387 open,   2 match
 Vercel                 85 open,   4 match
 Grafana Labs          137 open,   0 match
 Airtable                7 open,   0 match
-Hinge Health           84 open,  10 match
+Hinge Health           83 open,   9 match
 Airbnb                200 open,   1 match
-Samsara               295 open,   6 match
+Samsara               292 open,   6 match
 Twilio                114 open,   1 match
 Asana                 107 open,   0 match
 Dropbox                51 open,   0 match
 Reddit                149 open,   5 match
 Elastic               369 open,   0 match
 Lyft                  143 open,   0 match
-Roblox                259 open,   0 match
+Roblox                257 open,   0 match
 LangChain             100 open,   6 match
 Abridge                34 open,   0 match
 Fetch Pet Insurance    53 open,   0 match
 Runway                  3 open,   0 match
-Rogo                  100 open,   4 match
+Rogo                   99 open,   4 match
 Kalshi                 28 open,   4 match
 Public.com              4 open,   0 match
 Baseten               112 open,  27 match
@@ -82,8 +82,8 @@ Zapier                  9 open,   0 match
 Greenhouse Software    24 open,   0 match
 Mastercard            244 open,   0 match
 Adobe                 214 open,   1 match
-NVIDIA                642 open,   0 match
-Salesforce            401 open,   0 match
+NVIDIA                643 open,   0 match
+Salesforce            402 open,   0 match
 Johnson & Johnson     213 open,   1 match
 Merck                 110 open,   1 match
 Bank of America        93 open,   6 match
@@ -103,10 +103,10 @@ Huntress               43 open,   0 match
 CrowdStrike           173 open,  11 match
 Motorola Solutions    421 open,   2 match
 Autodesk                4 open,   0 match
-DuckDuckGo              9 open,   0 match
+DuckDuckGo              8 open,   0 match
 The Trade Desk        125 open,   1 match
 Moloco                 50 open,   0 match
-EliseAI               106 open,   4 match
+EliseAI               107 open,   4 match
 Hightouch              84 open,   9 match
 Celonis               256 open,   1 match
 Box                   127 open,   0 match
@@ -123,7 +123,7 @@ Render                 39 open,   4 match
 Gong                   82 open,   0 match
 DRW                   148 open,   3 match
 Dataiku                15 open,   0 match
-ServiceNow            969 open,   0 match
+ServiceNow            968 open,   0 match
 Synchrony              23 open,   0 match
 FactSet                62 open,   0 match
 CME Group              26 open,   0 match
@@ -156,17 +156,17 @@ Watershed              42 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             22 open,   0 match
 Semgrep                16 open,   0 match
-Cisco                 448 open,   1 match
-Red Hat               106 open,   0 match
+Cisco                 447 open,   1 match
+Red Hat               107 open,   0 match
 Hewlett Packard Enterprise  421 open,   0 match
 Thomson Reuters       230 open,   3 match
 Organon                 1 open,   0 match
 GSK                   152 open,   2 match
 Bayer                   0 open,   0 match
 DTCC                  333 open,   4 match
-JPMorganChase         508 open,  12 match
-Barclays              248 open,   1 match
-Nokia                 375 open,   0 match
+JPMorganChase         506 open,  12 match
+Barclays              246 open,   1 match
+Nokia                 374 open,   0 match
 Jefferies             152 open,   2 match
 Jefferies             204 open,   0 match
 Broadridge            211 open,   2 match
@@ -185,10 +185,10 @@ Morgan Stanley        150 open,   3 match
 Etsy                   20 open,   0 match
 Cockroach Labs         11 open,   1 match
 Zocdoc                 63 open,   0 match
-Capital One           353 open,  35 match
+Capital One           353 open,  36 match
 Prudential             29 open,   0 match
 Ramp                  183 open,  17 match
-Stripe                772 open,  10 match
+Stripe                771 open,  10 match
 Squarespace            20 open,   0 match
 Figma                 140 open,   5 match
 Pinterest             165 open,   2 match
@@ -201,5 +201,5 @@ Pinterest             165 open,   2 match
   ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 
-  + [large] Stripe: Software Engineer, Reporting Platform | fit 6 | New York, NY | $190K–$286K | posted <1h ago
-    https://stripe.com/jobs/search?gh_jid=8421367
+  + [large] Capital One: AI Engineer 4 (AI Foundations) | fit 4 | San Jose, CA / McLean, VA / Cambridge, MA / San Francisco, CA / New York, NY | $179K–$205K | asks 2+ yrs | posted 25h ago
+    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-4--AI-Foundations-_R1001853-1
