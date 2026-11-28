@@ -4,7 +4,7 @@ Plaid                 144 open,   4 match
 Glean                 121 open,   2 match
 Duolingo               54 open,   0 match
 Braze                 357 open,   1 match
-Datadog               390 open,   0 match
+Datadog               392 open,   0 match
 MongoDB               424 open,   5 match
 Affirm                218 open,  11 match
 Spotify                98 open,   2 match
@@ -41,7 +41,7 @@ Grafana Labs          137 open,   0 match
 Airtable                7 open,   0 match
 Hinge Health           83 open,   9 match
 Airbnb                200 open,   1 match
-Samsara               292 open,   6 match
+Samsara               297 open,   6 match
 Twilio                114 open,   1 match
 Asana                 107 open,   0 match
 Dropbox                51 open,   0 match
@@ -79,15 +79,15 @@ Databricks            889 open,   1 match
 Upstart                74 open,   7 match
 Hippo                  19 open,   0 match
 Zapier                  9 open,   0 match
-Greenhouse Software    24 open,   0 match
-Mastercard            244 open,   0 match
+Greenhouse Software    23 open,   0 match
+Mastercard            243 open,   0 match
 Adobe                 214 open,   1 match
-NVIDIA                643 open,   0 match
-Salesforce            402 open,   0 match
+NVIDIA                642 open,   0 match
+Salesforce            401 open,   0 match
 Johnson & Johnson     213 open,   1 match
-Merck                 110 open,   1 match
+Merck                 109 open,   1 match
 Bank of America        93 open,   6 match
-Fidelity Investments  167 open,   0 match
+Fidelity Investments  166 open,   0 match
 S&P Global            225 open,   0 match
 Disney                  4 open,   0 match
 Comcast                60 open,   2 match
@@ -96,7 +96,7 @@ Zoetis                 12 open,   0 match
 Marsh McLennan        303 open,   0 match
 Guidewire             125 open,   4 match
 Arch Capital Group     42 open,   0 match
-Nationwide            139 open,   0 match
+Nationwide            122 open,   0 match
 Insurify               15 open,   0 match
 Wiz                   100 open,   0 match
 Huntress               43 open,   0 match
@@ -124,7 +124,7 @@ Gong                   82 open,   0 match
 DRW                   148 open,   3 match
 Dataiku                15 open,   0 match
 ServiceNow            968 open,   0 match
-Synchrony              23 open,   0 match
+Synchrony              21 open,   0 match
 FactSet                62 open,   0 match
 CME Group              26 open,   0 match
 Blackstone             25 open,   4 match
@@ -156,17 +156,17 @@ Watershed              42 open,   1 match
 Codecademy              0 open,   0 match
 Astronomer             22 open,   0 match
 Semgrep                16 open,   0 match
-Cisco                 447 open,   1 match
-Red Hat               107 open,   0 match
-Hewlett Packard Enterprise  421 open,   0 match
+Cisco                 444 open,   1 match
+Red Hat               105 open,   0 match
+Hewlett Packard Enterprise  422 open,   0 match
 Thomson Reuters       230 open,   3 match
 Organon                 1 open,   0 match
 GSK                   152 open,   2 match
 Bayer                   0 open,   0 match
 DTCC                  333 open,   4 match
-JPMorganChase         506 open,  12 match
+JPMorganChase         507 open,  12 match
 Barclays              246 open,   1 match
-Nokia                 374 open,   0 match
+Nokia                 375 open,   0 match
 Jefferies             152 open,   2 match
 Jefferies             204 open,   0 match
 Broadridge            211 open,   2 match
@@ -193,7 +193,7 @@ Squarespace            20 open,   0 match
 Figma                 140 open,   5 match
 Pinterest             165 open,   2 match
 
-1 new match(es)  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
+0 new match(es)  ! Whatnot: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Cedar: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Thoughtworks: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Substack: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
@@ -201,5 +201,3 @@ Pinterest             165 open,   2 match
   ! Synctera: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
   ! Mux: HTTP 404 (board slug is probably wrong; check the company's careers page URL)
 
-  + [large] Capital One: AI Engineer 4 (AI Foundations) | fit 4 | San Jose, CA / McLean, VA / Cambridge, MA / San Francisco, CA / New York, NY | $179K–$205K | asks 2+ yrs | posted 25h ago
-    https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-4--AI-Foundations-_R1001853-1
